@@ -1,0 +1,758 @@
+flowCode,reporterCode,reporterISO,partnerCode,partnerISO,cmdCode,cmdDesc,qtyUnitAbbr,qty,fobvalue
+X,740,SUR,842,USA,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",N/A,0.0,5413.15
+X,740,SUR,0,W00,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",N/A,0.0,1680942616.376
+X,740,SUR,780,TTO,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",N/A,0.0,3203.499
+X,740,SUR,0,W00,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,2981181.468
+X,740,SUR,600,PRY,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,61370.75
+X,740,SUR,251,FRA,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,92919.748
+X,740,SUR,0,W00,91,Clocks and watches and parts thereof,N/A,0.0,190532.165
+X,740,SUR,328,GUY,91,Clocks and watches and parts thereof,N/A,0.0,40428.681
+X,740,SUR,214,DOM,01,Animals; live,N/A,0.0,21500.0
+X,740,SUR,682,SAU,01,Animals; live,N/A,0.0,92787.0
+X,740,SUR,450,MDG,01,Animals; live,N/A,0.0,7355.0
+X,740,SUR,414,KWT,01,Animals; live,N/A,0.0,11920.0
+X,740,SUR,792,TUR,01,Animals; live,N/A,0.0,10810.0
+X,740,SUR,702,SGP,01,Animals; live,N/A,0.0,51615.0
+X,740,SUR,531,CUW,01,Animals; live,N/A,0.0,20638.501
+X,740,SUR,862,VEN,40,Rubber and articles thereof,N/A,0.0,24400.0
+X,740,SUR,328,GUY,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",N/A,0.0,20385.73
+X,740,SUR,528,NLD,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",N/A,0.0,1622.012
+X,740,SUR,531,CUW,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",N/A,0.0,2941.961
+X,740,SUR,531,CUW,61,Apparel and clothing accessories; knitted or crocheted,N/A,0.0,1766.439
+X,740,SUR,670,VCT,64,Footwear; gaiters and the like; parts of such articles,N/A,0.0,2926.0
+X,740,SUR,76,BRA,64,Footwear; gaiters and the like; parts of such articles,N/A,0.0,23811.991
+X,740,SUR,156,CHN,64,Footwear; gaiters and the like; parts of such articles,N/A,0.0,4900.0
+X,740,SUR,534,SXM,70,Glass and glassware,N/A,0.0,2107.98
+X,740,SUR,328,GUY,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,1064290.588
+X,740,SUR,203,CZE,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,35710.145
+X,740,SUR,682,SAU,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,13070.34
+X,740,SUR,332,HTI,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,3598.0
+X,740,SUR,528,NLD,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,236494.831
+X,740,SUR,100,BGR,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,7188.501
+X,740,SUR,600,PRY,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,7950.0
+X,740,SUR,659,KNA,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,6588.752
+X,740,SUR,710,ZAF,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,3370.0
+X,740,SUR,76,BRA,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,175248.05
+X,740,SUR,156,CHN,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,2000.0
+X,740,SUR,208,DNK,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,21159.42
+X,740,SUR,534,SXM,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,9467.0
+X,740,SUR,170,COL,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,5870.452
+X,740,SUR,862,VEN,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,29682.91
+X,740,SUR,780,TTO,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,865615.871
+X,740,SUR,662,LCA,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",N/A,0.0,48673.447
+X,740,SUR,780,TTO,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",N/A,0.0,72222.0
+X,740,SUR,826,GBR,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",N/A,0.0,3000.0
+X,740,SUR,534,SXM,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",N/A,0.0,1765.293
+X,740,SUR,328,GUY,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",N/A,0.0,4241.787
+X,740,SUR,52,BRB,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",N/A,0.0,48000.0
+X,740,SUR,124,CAN,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",N/A,0.0,11591.834
+X,740,SUR,528,NLD,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",N/A,0.0,6864.091
+X,740,SUR,328,GUY,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,361229.133
+X,740,SUR,56,BEL,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,421232.063
+X,740,SUR,533,ABW,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,34815.838
+X,740,SUR,276,DEU,88,"Aircraft, spacecraft and parts thereof",N/A,0.0,200000.0
+X,740,SUR,328,GUY,89,"Ships, boats and floating structures",N/A,0.0,904050.0
+X,740,SUR,662,LCA,89,"Ships, boats and floating structures",N/A,0.0,425451.248
+X,740,SUR,826,GBR,89,"Ships, boats and floating structures",N/A,0.0,1860.71
+X,740,SUR,528,NLD,89,"Ships, boats and floating structures",N/A,0.0,4942.656
+X,740,SUR,534,SXM,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,1176.862
+X,740,SUR,826,GBR,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,97113.702
+X,740,SUR,124,CAN,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,44953.65
+X,740,SUR,170,COL,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,117368.981
+X,740,SUR,531,CUW,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,13046.679
+X,740,SUR,56,BEL,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,5533.599
+X,740,SUR,380,ITA,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,14772.668
+X,740,SUR,76,BRA,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,99435.06
+X,740,SUR,152,CHL,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,3000.0
+X,740,SUR,528,NLD,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,261983.713
+X,740,SUR,76,BRA,91,Clocks and watches and parts thereof,N/A,0.0,120161.539
+X,740,SUR,780,TTO,91,Clocks and watches and parts thereof,N/A,0.0,5538.999
+X,740,SUR,604,PER,95,"Toys, games and sports requisites; parts and accessories thereof",N/A,0.0,72665.0
+X,740,SUR,76,BRA,96,Miscellaneous manufactured articles,N/A,0.0,8176.709
+X,740,SUR,643,RUS,01,Animals; live,N/A,0.0,34075.0
+X,740,SUR,826,GBR,01,Animals; live,N/A,0.0,2650.5
+X,740,SUR,512,OMN,01,Animals; live,N/A,0.0,33980.0
+X,740,SUR,534,SXM,01,Animals; live,N/A,0.0,7181.0
+X,740,SUR,804,UKR,01,Animals; live,N/A,0.0,11770.0
+X,740,SUR,328,GUY,01,Animals; live,N/A,0.0,55591.489
+X,740,SUR,392,JPN,01,Animals; live,N/A,0.0,5865.5
+X,740,SUR,764,THA,01,Animals; live,N/A,0.0,208285.0
+X,740,SUR,276,DEU,01,Animals; live,N/A,0.0,25887.0
+X,740,SUR,156,CHN,01,Animals; live,N/A,0.0,185127.0
+X,740,SUR,50,BGD,01,Animals; live,N/A,0.0,106785.0
+X,740,SUR,344,HKG,01,Animals; live,N/A,0.0,16325.0
+X,740,SUR,646,RWA,01,Animals; live,N/A,0.0,1246.0
+X,740,SUR,528,NLD,01,Animals; live,N/A,0.0,11418.974
+X,740,SUR,862,VEN,02,Meat and edible meat offal,N/A,0.0,2954047.527
+X,740,SUR,328,GUY,02,Meat and edible meat offal,N/A,0.0,662808.644
+X,740,SUR,328,GUY,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",N/A,0.0,597018.67
+X,740,SUR,862,VEN,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",N/A,0.0,70118.298
+X,740,SUR,212,DMA,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",N/A,0.0,2693.251
+X,740,SUR,156,CHN,05,Animal originated products; not elsewhere specified or included,N/A,0.0,1640.0
+X,740,SUR,528,NLD,05,Animal originated products; not elsewhere specified or included,N/A,0.0,61343.577
+X,740,SUR,344,HKG,05,Animal originated products; not elsewhere specified or included,N/A,0.0,575985.941
+X,740,SUR,408,PRK,05,Animal originated products; not elsewhere specified or included,N/A,0.0,25940.0
+X,740,SUR,328,GUY,05,Animal originated products; not elsewhere specified or included,N/A,0.0,6110.0
+X,740,SUR,528,NLD,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",N/A,0.0,68790.499
+X,740,SUR,533,ABW,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",N/A,0.0,10925.426
+X,740,SUR,533,ABW,07,Vegetables and certain roots and tubers; edible,N/A,0.0,22474.489
+X,740,SUR,531,CUW,07,Vegetables and certain roots and tubers; edible,N/A,0.0,1100.0
+X,740,SUR,328,GUY,07,Vegetables and certain roots and tubers; edible,N/A,0.0,75334.23
+X,740,SUR,534,SXM,07,Vegetables and certain roots and tubers; edible,N/A,0.0,1657.0
+X,740,SUR,76,BRA,07,Vegetables and certain roots and tubers; edible,N/A,0.0,26656.307
+X,740,SUR,528,NLD,07,Vegetables and certain roots and tubers; edible,N/A,0.0,832074.345
+X,740,SUR,531,CUW,09,"Coffee, tea, mate and spices",N/A,0.0,10715.0
+X,740,SUR,528,NLD,09,"Coffee, tea, mate and spices",N/A,0.0,162384.676
+X,740,SUR,328,GUY,09,"Coffee, tea, mate and spices",N/A,0.0,231254.619
+X,740,SUR,862,VEN,10,Cereals,N/A,0.0,4049625.0
+X,740,SUR,780,TTO,10,Cereals,N/A,0.0,216788.05
+X,740,SUR,328,GUY,10,Cereals,N/A,0.0,355987.499
+X,740,SUR,380,ITA,10,Cereals,N/A,0.0,540000.0
+X,740,SUR,214,DOM,10,Cereals,N/A,0.0,27003.76
+X,740,SUR,76,BRA,10,Cereals,N/A,0.0,2932130.0
+X,740,SUR,531,CUW,10,Cereals,N/A,0.0,38681.001
+X,740,SUR,620,PRT,10,Cereals,N/A,0.0,10125.0
+X,740,SUR,170,COL,10,Cereals,N/A,0.0,39000.0
+X,740,SUR,388,JAM,10,Cereals,N/A,0.0,16688628.538
+X,740,SUR,56,BEL,10,Cereals,N/A,0.0,696418.443
+X,740,SUR,212,DMA,10,Cereals,N/A,0.0,4304.0
+X,740,SUR,784,ARE,10,Cereals,N/A,0.0,12837.509
+X,740,SUR,533,ABW,10,Cereals,N/A,0.0,517851.77
+X,740,SUR,332,HTI,10,Cereals,N/A,0.0,2207000.0
+X,740,SUR,528,NLD,10,Cereals,N/A,0.0,215334.8
+X,740,SUR,328,GUY,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",N/A,0.0,6299.158
+X,740,SUR,328,GUY,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,0.0,66080.659
+X,740,SUR,862,VEN,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,0.0,33060.0
+X,740,SUR,388,JAM,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,0.0,276765.901
+X,740,SUR,531,CUW,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,0.0,73559.541
+X,740,SUR,328,GUY,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,0.0,363715.731
+X,740,SUR,208,DNK,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,0.0,1371.739
+X,740,SUR,528,NLD,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,0.0,20180.558
+X,740,SUR,780,TTO,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,0.0,451233.62
+X,740,SUR,862,VEN,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",N/A,0.0,9071.25
+X,740,SUR,328,GUY,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",N/A,0.0,132347.079
+X,740,SUR,328,GUY,17,Sugars and sugar confectionery,N/A,0.0,56552.33
+X,740,SUR,531,CUW,18,Cocoa and cocoa preparations,N/A,0.0,1995.0
+X,740,SUR,862,VEN,18,Cocoa and cocoa preparations,N/A,0.0,81205.749
+X,740,SUR,76,BRA,18,Cocoa and cocoa preparations,N/A,0.0,53323.204
+X,740,SUR,328,GUY,18,Cocoa and cocoa preparations,N/A,0.0,161924.288
+X,740,SUR,528,NLD,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",N/A,0.0,64208.205
+X,740,SUR,531,CUW,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",N/A,0.0,8117.5
+X,740,SUR,328,GUY,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",N/A,0.0,188936.182
+X,740,SUR,533,ABW,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",N/A,0.0,3183.866
+X,740,SUR,862,VEN,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",N/A,0.0,12412.32
+X,740,SUR,276,DEU,20,"Preparations of vegetables, fruit, nuts or other parts of plants",N/A,0.0,9459.66
+X,740,SUR,528,NLD,20,"Preparations of vegetables, fruit, nuts or other parts of plants",N/A,0.0,84193.659
+X,740,SUR,212,DMA,20,"Preparations of vegetables, fruit, nuts or other parts of plants",N/A,0.0,2658.6
+X,740,SUR,780,TTO,20,"Preparations of vegetables, fruit, nuts or other parts of plants",N/A,0.0,18000.0
+X,740,SUR,533,ABW,20,"Preparations of vegetables, fruit, nuts or other parts of plants",N/A,0.0,1243.446
+X,740,SUR,76,BRA,20,"Preparations of vegetables, fruit, nuts or other parts of plants",N/A,0.0,4851.623
+X,740,SUR,328,GUY,20,"Preparations of vegetables, fruit, nuts or other parts of plants",N/A,0.0,2016308.15
+X,740,SUR,531,CUW,20,"Preparations of vegetables, fruit, nuts or other parts of plants",N/A,0.0,4785.0
+X,740,SUR,862,VEN,20,"Preparations of vegetables, fruit, nuts or other parts of plants",N/A,0.0,29799.1
+X,740,SUR,862,VEN,21,Miscellaneous edible preparations,N/A,0.0,59486.679
+X,740,SUR,52,BRB,21,Miscellaneous edible preparations,N/A,0.0,1198245.91
+X,740,SUR,328,GUY,21,Miscellaneous edible preparations,N/A,0.0,903851.771
+X,740,SUR,534,SXM,21,Miscellaneous edible preparations,N/A,0.0,4224.669
+X,740,SUR,780,TTO,21,Miscellaneous edible preparations,N/A,0.0,13240.0
+X,740,SUR,528,NLD,21,Miscellaneous edible preparations,N/A,0.0,871213.529
+X,740,SUR,531,CUW,21,Miscellaneous edible preparations,N/A,0.0,31232.083
+X,740,SUR,533,ABW,21,Miscellaneous edible preparations,N/A,0.0,22916.614
+X,740,SUR,534,SXM,22,"Beverages, spirits and vinegar",N/A,0.0,6785.0
+X,740,SUR,591,PAN,22,"Beverages, spirits and vinegar",N/A,0.0,3352513.727
+X,740,SUR,702,SGP,22,"Beverages, spirits and vinegar",N/A,0.0,4942426.366
+X,740,SUR,156,CHN,22,"Beverages, spirits and vinegar",N/A,0.0,672616.519
+X,740,SUR,780,TTO,22,"Beverages, spirits and vinegar",N/A,0.0,57277.5
+X,740,SUR,328,GUY,22,"Beverages, spirits and vinegar",N/A,0.0,4622737.987
+X,740,SUR,308,GRD,22,"Beverages, spirits and vinegar",N/A,0.0,3195459.79
+X,740,SUR,533,ABW,22,"Beverages, spirits and vinegar",N/A,0.0,1209485.722
+X,740,SUR,862,VEN,22,"Beverages, spirits and vinegar",N/A,0.0,314838.581
+X,740,SUR,170,COL,22,"Beverages, spirits and vinegar",N/A,0.0,16217.47
+X,740,SUR,212,DMA,22,"Beverages, spirits and vinegar",N/A,0.0,7620.0
+X,740,SUR,458,MYS,22,"Beverages, spirits and vinegar",N/A,0.0,47932.75
+X,740,SUR,704,VNM,22,"Beverages, spirits and vinegar",N/A,0.0,2351930.277
+X,740,SUR,528,NLD,22,"Beverages, spirits and vinegar",N/A,0.0,2550178.043
+X,740,SUR,76,BRA,22,"Beverages, spirits and vinegar",N/A,0.0,1801362.285
+X,740,SUR,388,JAM,23,"Food industries, residues and wastes thereof; prepared animal fodder",N/A,0.0,12276.0
+X,740,SUR,780,TTO,23,"Food industries, residues and wastes thereof; prepared animal fodder",N/A,0.0,53616.073
+X,740,SUR,328,GUY,23,"Food industries, residues and wastes thereof; prepared animal fodder",N/A,0.0,2562.378
+X,740,SUR,528,NLD,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,34785.0
+X,740,SUR,308,GRD,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,218750.0
+X,740,SUR,328,GUY,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,353649.613
+X,740,SUR,591,PAN,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,106180.0
+X,740,SUR,76,BRA,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,571450.838
+X,740,SUR,780,TTO,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,128994.77
+X,740,SUR,604,PER,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,0.0,2728.52
+X,740,SUR,533,ABW,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,0.0,2600.0
+X,740,SUR,531,CUW,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,0.0,145630.69
+X,740,SUR,328,GUY,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,0.0,1302710.0
+X,740,SUR,156,CHN,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,0.0,5500.5
+X,740,SUR,388,JAM,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,0.0,242000.0
+X,740,SUR,659,KNA,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,0.0,208485.84
+X,740,SUR,124,CAN,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,0.0,1160.0
+X,740,SUR,500,MSR,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,0.0,79045.76
+X,740,SUR,780,TTO,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,0.0,5382.87
+X,740,SUR,604,PER,26,"Ores, slag and ash",N/A,0.0,44358.678
+X,740,SUR,328,GUY,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,0.0,94128249.311
+X,740,SUR,548,VUT,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,0.0,5265.601
+X,740,SUR,196,CYP,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,0.0,9912.271
+X,740,SUR,528,NLD,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,0.0,30107.148
+X,740,SUR,484,MEX,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,0.0,33855.23
+X,740,SUR,598,PNG,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,0.0,12647.39
+X,740,SUR,28,ATG,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,0.0,2869089.8
+X,740,SUR,780,TTO,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,0.0,28526778.297
+X,740,SUR,533,ABW,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,0.0,68290.0
+X,740,SUR,52,BRB,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,0.0,2260694.73
+X,740,SUR,470,MLT,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,0.0,18326.889
+X,740,SUR,430,LBR,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,0.0,13835.0
+X,740,SUR,662,LCA,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,0.0,1512433.039
+X,740,SUR,531,CUW,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,0.0,10500.0
+X,740,SUR,826,GBR,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,0.0,15006.8
+X,740,SUR,780,TTO,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",N/A,0.0,12899.76
+X,740,SUR,208,DNK,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",N/A,0.0,1892.461
+X,740,SUR,328,GUY,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",N/A,0.0,64440.0
+X,740,SUR,780,TTO,29,Organic chemicals,N/A,0.0,9430.251
+X,740,SUR,591,PAN,29,Organic chemicals,N/A,0.0,3944.45
+X,740,SUR,328,GUY,29,Organic chemicals,N/A,0.0,316434.889
+X,740,SUR,208,DNK,29,Organic chemicals,N/A,0.0,1776.159
+X,740,SUR,591,PAN,30,Pharmaceutical products,N/A,0.0,179744.089
+X,740,SUR,528,NLD,30,Pharmaceutical products,N/A,0.0,6139.017
+X,740,SUR,531,CUW,30,Pharmaceutical products,N/A,0.0,1092.431
+X,740,SUR,328,GUY,30,Pharmaceutical products,N/A,0.0,13072.629
+X,740,SUR,780,TTO,30,Pharmaceutical products,N/A,0.0,1361.624
+X,740,SUR,531,CUW,31,Fertilizers,N/A,0.0,108675.0
+X,740,SUR,328,GUY,31,Fertilizers,N/A,0.0,122500.0
+X,740,SUR,266,GAB,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",N/A,0.0,75418.2
+X,740,SUR,328,GUY,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",N/A,0.0,29807.662
+X,740,SUR,531,CUW,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",N/A,0.0,16222.726
+X,740,SUR,76,BRA,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",N/A,0.0,70887.36
+X,740,SUR,780,TTO,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",N/A,0.0,2017.85
+X,740,SUR,528,NLD,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",N/A,0.0,21232.787
+X,740,SUR,591,PAN,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",N/A,0.0,6891.7
+X,740,SUR,328,GUY,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",N/A,0.0,143551.657
+X,740,SUR,862,VEN,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",N/A,0.0,29571.859
+X,740,SUR,388,JAM,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",N/A,0.0,652722.7
+X,740,SUR,670,VCT,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",N/A,0.0,188765.799
+X,740,SUR,531,CUW,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",N/A,0.0,85071.759
+X,740,SUR,212,DMA,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",N/A,0.0,112434.199
+X,740,SUR,68,BOL,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",N/A,0.0,14876.25
+X,740,SUR,780,TTO,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",N/A,0.0,602308.403
+X,740,SUR,214,DOM,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",N/A,0.0,8684.349
+X,740,SUR,308,GRD,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",N/A,0.0,58046.751
+X,740,SUR,52,BRB,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",N/A,0.0,84584.5
+X,740,SUR,28,ATG,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",N/A,0.0,218767.7
+X,740,SUR,328,GUY,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",N/A,0.0,505084.603
+X,740,SUR,662,LCA,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",N/A,0.0,26350.999
+X,740,SUR,792,TUR,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",N/A,0.0,2217.6
+X,740,SUR,328,GUY,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,N/A,0.0,147198.861
+X,740,SUR,862,VEN,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,N/A,0.0,19149.0
+X,740,SUR,780,TTO,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,N/A,0.0,55454.071
+X,740,SUR,780,TTO,37,Photographic or cinematographic goods,N/A,0.0,1260.0
+X,740,SUR,328,GUY,37,Photographic or cinematographic goods,N/A,0.0,4197.05
+X,740,SUR,862,VEN,38,Chemical products n.e.c.,N/A,0.0,34074.0
+X,740,SUR,52,BRB,38,Chemical products n.e.c.,N/A,0.0,7802.501
+X,740,SUR,662,LCA,38,Chemical products n.e.c.,N/A,0.0,7827.5
+X,740,SUR,208,DNK,38,Chemical products n.e.c.,N/A,0.0,171929.28
+X,740,SUR,670,VCT,38,Chemical products n.e.c.,N/A,0.0,28200.86
+X,740,SUR,68,BOL,38,Chemical products n.e.c.,N/A,0.0,8825.499
+X,740,SUR,531,CUW,38,Chemical products n.e.c.,N/A,0.0,38242.117
+X,740,SUR,214,DOM,38,Chemical products n.e.c.,N/A,0.0,3100.0
+X,740,SUR,28,ATG,38,Chemical products n.e.c.,N/A,0.0,27310.5
+X,740,SUR,266,GAB,38,Chemical products n.e.c.,N/A,0.0,83758.55
+X,740,SUR,780,TTO,38,Chemical products n.e.c.,N/A,0.0,131221.2
+X,740,SUR,308,GRD,38,Chemical products n.e.c.,N/A,0.0,50256.999
+X,740,SUR,328,GUY,38,Chemical products n.e.c.,N/A,0.0,409627.049
+X,740,SUR,212,DMA,38,Chemical products n.e.c.,N/A,0.0,9880.0
+X,740,SUR,533,ABW,39,Plastics and articles thereof,N/A,0.0,140840.259
+X,740,SUR,52,BRB,39,Plastics and articles thereof,N/A,0.0,48805.741
+X,740,SUR,528,NLD,39,Plastics and articles thereof,N/A,0.0,116097.637
+X,740,SUR,862,VEN,39,Plastics and articles thereof,N/A,0.0,27383.451
+X,740,SUR,328,GUY,39,Plastics and articles thereof,N/A,0.0,1198187.217
+X,740,SUR,662,LCA,39,Plastics and articles thereof,N/A,0.0,72383.601
+X,740,SUR,531,CUW,39,Plastics and articles thereof,N/A,0.0,93679.478
+X,740,SUR,28,ATG,39,Plastics and articles thereof,N/A,0.0,6064.12
+X,740,SUR,276,DEU,39,Plastics and articles thereof,N/A,0.0,13468.0
+X,740,SUR,780,TTO,39,Plastics and articles thereof,N/A,0.0,42272.209
+X,740,SUR,56,BEL,39,Plastics and articles thereof,N/A,0.0,3820.32
+X,740,SUR,156,CHN,39,Plastics and articles thereof,N/A,0.0,81989.5
+X,740,SUR,308,GRD,39,Plastics and articles thereof,N/A,0.0,6800.0
+X,740,SUR,710,ZAF,39,Plastics and articles thereof,N/A,0.0,16339.061
+X,740,SUR,76,BRA,39,Plastics and articles thereof,N/A,0.0,36427.381
+X,740,SUR,212,DMA,39,Plastics and articles thereof,N/A,0.0,8058.011
+X,740,SUR,332,HTI,39,Plastics and articles thereof,N/A,0.0,35456.4
+X,740,SUR,724,ESP,39,Plastics and articles thereof,N/A,0.0,27930.0
+X,740,SUR,591,PAN,39,Plastics and articles thereof,N/A,0.0,6483.737
+X,740,SUR,780,TTO,40,Rubber and articles thereof,N/A,0.0,5000.0
+X,740,SUR,528,NLD,40,Rubber and articles thereof,N/A,0.0,64244.768
+X,740,SUR,328,GUY,40,Rubber and articles thereof,N/A,0.0,49510.0
+X,740,SUR,531,CUW,40,Rubber and articles thereof,N/A,0.0,10250.0
+X,740,SUR,534,SXM,41,Raw hides and skins (other than furskins) and leather,N/A,0.0,26888.0
+X,740,SUR,344,HKG,41,Raw hides and skins (other than furskins) and leather,N/A,0.0,11539.0
+X,740,SUR,792,TUR,41,Raw hides and skins (other than furskins) and leather,N/A,0.0,28544.0
+X,740,SUR,156,CHN,41,Raw hides and skins (other than furskins) and leather,N/A,0.0,40889.6
+X,740,SUR,52,BRB,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",N/A,0.0,5330.5
+X,740,SUR,28,ATG,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",N/A,0.0,3609.251
+X,740,SUR,76,BRA,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",N/A,0.0,13461.458
+X,740,SUR,780,TTO,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",N/A,0.0,21492.499
+X,740,SUR,410,KOR,44,Wood and articles of wood; wood charcoal,N/A,0.0,607377.835
+X,740,SUR,208,DNK,44,Wood and articles of wood; wood charcoal,N/A,0.0,2580.82
+X,740,SUR,534,SXM,44,Wood and articles of wood; wood charcoal,N/A,0.0,15559.0
+X,740,SUR,858,URY,44,Wood and articles of wood; wood charcoal,N/A,0.0,4935.72
+X,740,SUR,388,JAM,44,Wood and articles of wood; wood charcoal,N/A,0.0,20292.1
+X,740,SUR,344,HKG,44,Wood and articles of wood; wood charcoal,N/A,0.0,815696.889
+X,740,SUR,372,IRL,44,Wood and articles of wood; wood charcoal,N/A,0.0,9626.63
+X,740,SUR,724,ESP,44,Wood and articles of wood; wood charcoal,N/A,0.0,25457.941
+X,740,SUR,533,ABW,44,Wood and articles of wood; wood charcoal,N/A,0.0,21946.519
+X,740,SUR,784,ARE,44,Wood and articles of wood; wood charcoal,N/A,0.0,68859.24
+X,740,SUR,68,BOL,44,Wood and articles of wood; wood charcoal,N/A,0.0,9879.66
+X,740,SUR,380,ITA,44,Wood and articles of wood; wood charcoal,N/A,0.0,34377.056
+X,740,SUR,320,GTM,44,Wood and articles of wood; wood charcoal,N/A,0.0,6756.62
+X,740,SUR,408,PRK,44,Wood and articles of wood; wood charcoal,N/A,0.0,280593.471
+X,740,SUR,70,BIH,44,Wood and articles of wood; wood charcoal,N/A,0.0,6560.4
+X,740,SUR,792,TUR,44,Wood and articles of wood; wood charcoal,N/A,0.0,116627.028
+X,740,SUR,702,SGP,44,Wood and articles of wood; wood charcoal,N/A,0.0,17403380.455
+X,740,SUR,376,ISR,44,Wood and articles of wood; wood charcoal,N/A,0.0,15755.829
+X,740,SUR,392,JPN,44,Wood and articles of wood; wood charcoal,N/A,0.0,14028.922
+X,740,SUR,554,NZL,44,Wood and articles of wood; wood charcoal,N/A,0.0,116089.329
+X,740,SUR,752,SWE,44,Wood and articles of wood; wood charcoal,N/A,0.0,140760.059
+X,740,SUR,36,AUS,44,Wood and articles of wood; wood charcoal,N/A,0.0,48690.0
+X,740,SUR,504,MAR,44,Wood and articles of wood; wood charcoal,N/A,0.0,22248.174
+X,740,SUR,682,SAU,44,Wood and articles of wood; wood charcoal,N/A,0.0,14335.8
+X,740,SUR,156,CHN,44,Wood and articles of wood; wood charcoal,N/A,0.0,12256719.706
+X,740,SUR,52,BRB,44,Wood and articles of wood; wood charcoal,N/A,0.0,1036.801
+X,740,SUR,152,CHL,44,Wood and articles of wood; wood charcoal,N/A,0.0,4893.908
+X,740,SUR,591,PAN,44,Wood and articles of wood; wood charcoal,N/A,0.0,12587.4
+X,740,SUR,531,CUW,44,Wood and articles of wood; wood charcoal,N/A,0.0,24502.48
+X,740,SUR,214,DOM,44,Wood and articles of wood; wood charcoal,N/A,0.0,34424.4
+X,740,SUR,328,GUY,44,Wood and articles of wood; wood charcoal,N/A,0.0,22118.0
+X,740,SUR,276,DEU,44,Wood and articles of wood; wood charcoal,N/A,0.0,165020.669
+X,740,SUR,704,VNM,44,Wood and articles of wood; wood charcoal,N/A,0.0,2443397.529
+X,740,SUR,764,THA,44,Wood and articles of wood; wood charcoal,N/A,0.0,301035.06
+X,740,SUR,826,GBR,44,Wood and articles of wood; wood charcoal,N/A,0.0,4101.13
+X,740,SUR,50,BGD,44,Wood and articles of wood; wood charcoal,N/A,0.0,1916841.19
+X,740,SUR,212,DMA,44,Wood and articles of wood; wood charcoal,N/A,0.0,32327.579
+X,740,SUR,192,CUB,44,Wood and articles of wood; wood charcoal,N/A,0.0,547666.8
+X,740,SUR,528,NLD,44,Wood and articles of wood; wood charcoal,N/A,0.0,1617068.191
+X,740,SUR,360,IDN,44,Wood and articles of wood; wood charcoal,N/A,0.0,37032.15
+X,740,SUR,662,LCA,44,Wood and articles of wood; wood charcoal,N/A,0.0,14729.606
+X,740,SUR,56,BEL,44,Wood and articles of wood; wood charcoal,N/A,0.0,1028219.928
+X,740,SUR,528,NLD,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,N/A,0.0,4862.0
+X,740,SUR,328,GUY,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,N/A,0.0,3577.501
+X,740,SUR,328,GUY,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",N/A,0.0,1586397.941
+X,740,SUR,124,CAN,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",N/A,0.0,4207.4
+X,740,SUR,276,DEU,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",N/A,0.0,4407.357
+X,740,SUR,528,NLD,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",N/A,0.0,24442.273
+X,740,SUR,388,JAM,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",N/A,0.0,7105.0
+X,740,SUR,862,VEN,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",N/A,0.0,56784.554
+X,740,SUR,328,GUY,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,0.0,11658.14
+X,740,SUR,531,CUW,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,0.0,5825.941
+X,740,SUR,388,JAM,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,0.0,1910.0
+X,740,SUR,780,TTO,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,0.0,2292.0
+X,740,SUR,528,NLD,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,0.0,42174.22
+X,740,SUR,591,PAN,54,Man-made filaments; strip and the like of man-made textile materials,N/A,0.0,11798.801
+X,740,SUR,591,PAN,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",N/A,0.0,18550.0
+X,740,SUR,528,NLD,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",N/A,0.0,16947.402
+X,740,SUR,531,CUW,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",N/A,0.0,18331.335
+X,740,SUR,76,BRA,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",N/A,0.0,1305.0
+X,740,SUR,328,GUY,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",N/A,0.0,12626.8
+X,740,SUR,328,GUY,61,Apparel and clothing accessories; knitted or crocheted,N/A,0.0,11945.96
+X,740,SUR,528,NLD,61,Apparel and clothing accessories; knitted or crocheted,N/A,0.0,3964.22
+X,740,SUR,76,BRA,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,63574.955
+X,740,SUR,670,VCT,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,1337.0
+X,740,SUR,780,TTO,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,188797.501
+X,740,SUR,308,GRD,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,1500.0
+X,740,SUR,528,NLD,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,39130.9
+X,740,SUR,662,LCA,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,1457.75
+X,740,SUR,591,PAN,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,2157.5
+X,740,SUR,52,BRB,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,10963.0
+X,740,SUR,328,GUY,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,126765.221
+X,740,SUR,328,GUY,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",N/A,0.0,87304.0
+X,740,SUR,124,CAN,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",N/A,0.0,3210.0
+X,740,SUR,531,CUW,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",N/A,0.0,1750.2
+X,740,SUR,212,DMA,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",N/A,0.0,1224.0
+X,740,SUR,528,NLD,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",N/A,0.0,74178.799
+X,740,SUR,670,VCT,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",N/A,0.0,1060.799
+X,740,SUR,591,PAN,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",N/A,0.0,1400.0
+X,740,SUR,28,ATG,64,Footwear; gaiters and the like; parts of such articles,N/A,0.0,3118.5
+X,740,SUR,328,GUY,64,Footwear; gaiters and the like; parts of such articles,N/A,0.0,21339.862
+X,740,SUR,308,GRD,64,Footwear; gaiters and the like; parts of such articles,N/A,0.0,1640.0
+X,740,SUR,52,BRB,64,Footwear; gaiters and the like; parts of such articles,N/A,0.0,14207.5
+X,740,SUR,662,LCA,64,Footwear; gaiters and the like; parts of such articles,N/A,0.0,18655.001
+X,740,SUR,780,TTO,64,Footwear; gaiters and the like; parts of such articles,N/A,0.0,114788.501
+X,740,SUR,531,CUW,64,Footwear; gaiters and the like; parts of such articles,N/A,0.0,1974.762
+X,740,SUR,528,NLD,65,Headgear and parts thereof,N/A,0.0,1011.0
+X,740,SUR,780,TTO,65,Headgear and parts thereof,N/A,0.0,33062.9
+X,740,SUR,52,BRB,65,Headgear and parts thereof,N/A,0.0,1609.5
+X,740,SUR,328,GUY,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",N/A,0.0,2464.77
+X,740,SUR,328,GUY,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",N/A,0.0,42708.0
+X,740,SUR,662,LCA,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",N/A,0.0,1240.723
+X,740,SUR,531,CUW,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",N/A,0.0,3100.0
+X,740,SUR,534,SXM,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",N/A,0.0,19965.0
+X,740,SUR,862,VEN,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",N/A,0.0,10479.039
+X,740,SUR,76,BRA,70,Glass and glassware,N/A,0.0,1152.94
+X,740,SUR,780,TTO,70,Glass and glassware,N/A,0.0,7650.0
+X,740,SUR,56,BEL,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",N/A,0.0,153141315.28
+X,740,SUR,328,GUY,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",N/A,0.0,16625.54
+X,740,SUR,531,CUW,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",N/A,0.0,1841.961
+X,740,SUR,784,ARE,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",N/A,0.0,106842370.958
+X,740,SUR,344,HKG,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",N/A,0.0,323183800.516
+X,740,SUR,124,CAN,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",N/A,0.0,9792877.201
+X,740,SUR,340,HND,72,Iron and steel,N/A,0.0,4950.0
+X,740,SUR,56,BEL,72,Iron and steel,N/A,0.0,1507.0
+X,740,SUR,528,NLD,72,Iron and steel,N/A,0.0,594348.761
+X,740,SUR,659,KNA,72,Iron and steel,N/A,0.0,4500.0
+X,740,SUR,531,CUW,72,Iron and steel,N/A,0.0,10109.672
+X,740,SUR,328,GUY,72,Iron and steel,N/A,0.0,11789.0
+X,740,SUR,534,SXM,72,Iron and steel,N/A,0.0,15272.1
+X,740,SUR,212,DMA,72,Iron and steel,N/A,0.0,8999.535
+X,740,SUR,704,VNM,72,Iron and steel,N/A,0.0,16500.0
+X,740,SUR,591,PAN,72,Iron and steel,N/A,0.0,5415.051
+X,740,SUR,702,SGP,72,Iron and steel,N/A,0.0,1403050.0
+X,740,SUR,764,THA,72,Iron and steel,N/A,0.0,39600.0
+X,740,SUR,410,KOR,72,Iron and steel,N/A,0.0,32450.0
+X,740,SUR,156,CHN,72,Iron and steel,N/A,0.0,432850.0
+X,740,SUR,388,JAM,72,Iron and steel,N/A,0.0,64986.522
+X,740,SUR,724,ESP,72,Iron and steel,N/A,0.0,275000.0
+X,740,SUR,784,ARE,73,Iron or steel articles,N/A,0.0,27500.0
+X,740,SUR,531,CUW,73,Iron or steel articles,N/A,0.0,91370.061
+X,740,SUR,534,SXM,73,Iron or steel articles,N/A,0.0,19697.17
+X,740,SUR,528,NLD,73,Iron or steel articles,N/A,0.0,31179.103
+X,740,SUR,662,LCA,73,Iron or steel articles,N/A,0.0,8198.314
+X,740,SUR,76,BRA,73,Iron or steel articles,N/A,0.0,85714.281
+X,740,SUR,659,KNA,73,Iron or steel articles,N/A,0.0,6679.32
+X,740,SUR,52,BRB,73,Iron or steel articles,N/A,0.0,18050.8
+X,740,SUR,780,TTO,73,Iron or steel articles,N/A,0.0,571947.533
+X,740,SUR,862,VEN,73,Iron or steel articles,N/A,0.0,1321.32
+X,740,SUR,328,GUY,73,Iron or steel articles,N/A,0.0,287701.911
+X,740,SUR,76,BRA,74,Copper and articles thereof,N/A,0.0,27100.0
+X,740,SUR,528,NLD,74,Copper and articles thereof,N/A,0.0,26223.234
+X,740,SUR,531,CUW,74,Copper and articles thereof,N/A,0.0,4813.87
+X,740,SUR,56,BEL,74,Copper and articles thereof,N/A,0.0,92500.0
+X,740,SUR,533,ABW,76,Aluminium and articles thereof,N/A,0.0,7200.0
+X,740,SUR,531,CUW,76,Aluminium and articles thereof,N/A,0.0,4484.16
+X,740,SUR,528,NLD,76,Aluminium and articles thereof,N/A,0.0,84575.666
+X,740,SUR,124,CAN,76,Aluminium and articles thereof,N/A,0.0,22750.0
+X,740,SUR,340,HND,76,Aluminium and articles thereof,N/A,0.0,18200.0
+X,740,SUR,328,GUY,76,Aluminium and articles thereof,N/A,0.0,22592.83
+X,740,SUR,702,SGP,76,Aluminium and articles thereof,N/A,0.0,56420.0
+X,740,SUR,659,KNA,76,Aluminium and articles thereof,N/A,0.0,4027.696
+X,740,SUR,156,CHN,76,Aluminium and articles thereof,N/A,0.0,18200.0
+X,740,SUR,56,BEL,76,Aluminium and articles thereof,N/A,0.0,72750.0
+X,740,SUR,410,KOR,76,Aluminium and articles thereof,N/A,0.0,36400.0
+X,740,SUR,724,ESP,76,Aluminium and articles thereof,N/A,0.0,20020.0
+X,740,SUR,388,JAM,76,Aluminium and articles thereof,N/A,0.0,16349.36
+X,740,SUR,534,SXM,76,Aluminium and articles thereof,N/A,0.0,3937.871
+X,740,SUR,528,NLD,79,Zinc and articles thereof,N/A,0.0,301157.576
+X,740,SUR,328,GUY,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",N/A,0.0,14469.611
+X,740,SUR,531,CUW,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",N/A,0.0,9169.647
+X,740,SUR,862,VEN,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",N/A,0.0,58180.87
+X,740,SUR,528,NLD,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",N/A,0.0,75777.538
+X,740,SUR,780,TTO,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",N/A,0.0,27346.27
+X,740,SUR,328,GUY,83,Metal; miscellaneous products of base metal,N/A,0.0,6644.201
+X,740,SUR,528,NLD,83,Metal; miscellaneous products of base metal,N/A,0.0,5283.403
+X,740,SUR,780,TTO,83,Metal; miscellaneous products of base metal,N/A,0.0,8868.605
+X,740,SUR,214,DOM,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,38718.58
+X,740,SUR,662,LCA,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,391719.497
+X,740,SUR,862,VEN,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,44746.79
+X,740,SUR,604,PER,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,302447.5
+X,740,SUR,276,DEU,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,15621.808
+X,740,SUR,826,GBR,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,45871.9
+X,740,SUR,702,SGP,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,20000.0
+X,740,SUR,124,CAN,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,1223345.2
+X,740,SUR,392,JPN,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,3720.0
+X,740,SUR,531,CUW,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,86353.697
+X,740,SUR,380,ITA,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,36000.0
+X,740,SUR,780,TTO,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,4946899.873
+X,740,SUR,566,NGA,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,12900.0
+X,740,SUR,84,BLZ,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,9850.0
+X,740,SUR,591,PAN,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,257080.37
+X,740,SUR,368,IRQ,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,6008.64
+X,740,SUR,458,MYS,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,37094.47
+X,740,SUR,533,ABW,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,1161.639
+X,740,SUR,56,BEL,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,34200.0
+X,740,SUR,704,VNM,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,37000.0
+X,740,SUR,344,HKG,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,4554.759
+X,740,SUR,662,LCA,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,17656.439
+X,740,SUR,156,CHN,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,14343.57
+X,740,SUR,76,BRA,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,22919.537
+X,740,SUR,531,CUW,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,39160.4
+X,740,SUR,52,BRB,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,1269.701
+X,740,SUR,328,GUY,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,15786.696
+X,740,SUR,528,NLD,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,76572.222
+X,740,SUR,784,ARE,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,7875.0
+X,740,SUR,203,CZE,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,1054.594
+X,740,SUR,124,CAN,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,5500.0
+X,740,SUR,534,SXM,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,21183.511
+X,740,SUR,44,BHS,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,25000.0
+X,740,SUR,388,JAM,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,37789.158
+X,740,SUR,276,DEU,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,30000.0
+X,740,SUR,76,BRA,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,15010.0
+X,740,SUR,528,NLD,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,55743.202
+X,740,SUR,32,ARG,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,14000.0
+X,740,SUR,52,BRB,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,3064.85
+X,740,SUR,531,CUW,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,30700.0
+X,740,SUR,780,TTO,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,7500.0
+X,740,SUR,566,NGA,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,1200.0
+X,740,SUR,208,DNK,88,"Aircraft, spacecraft and parts thereof",N/A,0.0,16927.536
+X,740,SUR,56,BEL,88,"Aircraft, spacecraft and parts thereof",N/A,0.0,13144.8
+X,740,SUR,328,GUY,88,"Aircraft, spacecraft and parts thereof",N/A,0.0,8500.0
+X,740,SUR,528,NLD,88,"Aircraft, spacecraft and parts thereof",N/A,0.0,48882.567
+X,740,SUR,780,TTO,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,19236.0
+X,740,SUR,328,GUY,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,16579.6
+X,740,SUR,533,ABW,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,22004.261
+X,740,SUR,780,TTO,93,Arms and ammunition; parts and accessories thereof,N/A,0.0,1208.0
+X,740,SUR,388,JAM,93,Arms and ammunition; parts and accessories thereof,N/A,0.0,2416.0
+X,740,SUR,662,LCA,93,Arms and ammunition; parts and accessories thereof,N/A,0.0,1964.0
+X,740,SUR,52,BRB,93,Arms and ammunition; parts and accessories thereof,N/A,0.0,1208.0
+X,740,SUR,328,GUY,93,Arms and ammunition; parts and accessories thereof,N/A,0.0,1506.0
+X,740,SUR,662,LCA,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,0.0,1352.07
+X,740,SUR,528,NLD,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,0.0,74838.302
+X,740,SUR,76,BRA,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,0.0,4036.478
+X,740,SUR,780,TTO,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,0.0,2480.76
+X,740,SUR,212,DMA,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,0.0,69530.03
+X,740,SUR,659,KNA,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,0.0,28576.76
+X,740,SUR,531,CUW,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,0.0,366972.884
+X,740,SUR,328,GUY,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,0.0,643431.631
+X,740,SUR,188,CRI,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,0.0,30000.0
+X,740,SUR,533,ABW,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,0.0,10750.0
+X,740,SUR,31,AZE,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,0.0,25000.0
+X,740,SUR,534,SXM,95,"Toys, games and sports requisites; parts and accessories thereof",N/A,0.0,7000.0
+X,740,SUR,800,UGA,95,"Toys, games and sports requisites; parts and accessories thereof",N/A,0.0,39596.0
+X,740,SUR,208,DNK,95,"Toys, games and sports requisites; parts and accessories thereof",N/A,0.0,1005.0
+X,740,SUR,528,NLD,95,"Toys, games and sports requisites; parts and accessories thereof",N/A,0.0,2203.151
+X,740,SUR,214,DOM,95,"Toys, games and sports requisites; parts and accessories thereof",N/A,0.0,4300.0
+X,740,SUR,36,AUS,95,"Toys, games and sports requisites; parts and accessories thereof",N/A,0.0,15480.0
+X,740,SUR,328,GUY,95,"Toys, games and sports requisites; parts and accessories thereof",N/A,0.0,114344.0
+X,740,SUR,328,GUY,96,Miscellaneous manufactured articles,N/A,0.0,9304.149
+X,740,SUR,52,BRB,96,Miscellaneous manufactured articles,N/A,0.0,79878.059
+X,740,SUR,531,CUW,96,Miscellaneous manufactured articles,N/A,0.0,1540.0
+X,740,SUR,528,NLD,97,Works of art; collectors' pieces and antiques,N/A,0.0,15790.211
+X,740,SUR,170,COL,99,Commodities not specified according to kind,N/A,0.0,25500.0
+X,740,SUR,328,GUY,99,Commodities not specified according to kind,N/A,0.0,149202.3
+X,740,SUR,156,CHN,99,Commodities not specified according to kind,N/A,0.0,1554090.45
+X,740,SUR,52,BRB,99,Commodities not specified according to kind,N/A,0.0,379887.501
+X,740,SUR,76,BRA,99,Commodities not specified according to kind,N/A,0.0,205848.0
+X,740,SUR,780,TTO,99,Commodities not specified according to kind,N/A,0.0,3554114.313
+X,740,SUR,68,BOL,99,Commodities not specified according to kind,N/A,0.0,5000.0
+X,740,SUR,704,VNM,99,Commodities not specified according to kind,N/A,0.0,1377339.0
+X,740,SUR,276,DEU,99,Commodities not specified according to kind,N/A,0.0,22038.0
+X,740,SUR,124,CAN,99,Commodities not specified according to kind,N/A,0.0,5915.0
+X,740,SUR,531,CUW,99,Commodities not specified according to kind,N/A,0.0,63517.902
+X,740,SUR,662,LCA,99,Commodities not specified according to kind,N/A,0.0,39500.0
+X,740,SUR,392,JPN,99,Commodities not specified according to kind,N/A,0.0,3681367.289
+X,740,SUR,360,IDN,99,Commodities not specified according to kind,N/A,0.0,3265.0
+X,740,SUR,764,THA,99,Commodities not specified according to kind,N/A,0.0,12500.0
+X,740,SUR,682,SAU,99,Commodities not specified according to kind,N/A,0.0,35272.969
+X,740,SUR,344,HKG,99,Commodities not specified according to kind,N/A,0.0,124000.501
+X,740,SUR,826,GBR,99,Commodities not specified according to kind,N/A,0.0,132837.5
+X,740,SUR,620,PRT,99,Commodities not specified according to kind,N/A,0.0,172891.87
+X,740,SUR,44,BHS,99,Commodities not specified according to kind,N/A,0.0,10000.0
+X,740,SUR,332,HTI,99,Commodities not specified according to kind,N/A,0.0,70611.702
+X,740,SUR,56,BEL,99,Commodities not specified according to kind,N/A,0.0,526764.438
+X,740,SUR,702,SGP,99,Commodities not specified according to kind,N/A,0.0,1113.5
+X,740,SUR,36,AUS,99,Commodities not specified according to kind,N/A,0.0,13600.0
+X,740,SUR,144,LKA,99,Commodities not specified according to kind,N/A,0.0,40500.0
+X,740,SUR,788,TUN,99,Commodities not specified according to kind,N/A,0.0,5761.06
+X,740,SUR,484,MEX,99,Commodities not specified according to kind,N/A,0.0,27000.0
+X,740,SUR,752,SWE,99,Commodities not specified according to kind,N/A,0.0,2100.0
+X,740,SUR,724,ESP,99,Commodities not specified according to kind,N/A,0.0,442445.062
+X,740,SUR,533,ABW,99,Commodities not specified according to kind,N/A,0.0,203665.438
+X,740,SUR,710,ZAF,99,Commodities not specified according to kind,N/A,0.0,42500.0
+X,740,SUR,388,JAM,99,Commodities not specified according to kind,N/A,0.0,7472144.995
+X,740,SUR,458,MYS,99,Commodities not specified according to kind,N/A,0.0,3500.0
+X,740,SUR,214,DOM,99,Commodities not specified according to kind,N/A,0.0,12000.0
+X,740,SUR,528,NLD,99,Commodities not specified according to kind,N/A,0.0,13713114.467
+X,740,SUR,591,PAN,99,Commodities not specified according to kind,N/A,0.0,42000.0
+X,740,SUR,408,PRK,99,Commodities not specified according to kind,N/A,0.0,128606.3
+X,740,SUR,616,POL,99,Commodities not specified according to kind,N/A,0.0,14811.514
+X,740,SUR,218,ECU,99,Commodities not specified according to kind,N/A,0.0,27000.0
+X,740,SUR,0,W00,01,Animals; live,N/A,0.0,1067822.96
+X,740,SUR,490,S19,01,Animals; live,N/A,0.0,8670.0
+X,740,SUR,842,USA,01,Animals; live,N/A,0.0,136339.996
+X,740,SUR,0,W00,02,Meat and edible meat offal,N/A,0.0,3630732.821
+X,740,SUR,842,USA,02,Meat and edible meat offal,N/A,0.0,13876.65
+X,740,SUR,0,W00,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",N/A,0.0,669830.219
+X,740,SUR,490,S19,05,Animal originated products; not elsewhere specified or included,N/A,0.0,37500.0
+X,740,SUR,842,USA,05,Animal originated products; not elsewhere specified or included,N/A,0.0,33825.0
+X,740,SUR,0,W00,05,Animal originated products; not elsewhere specified or included,N/A,0.0,742344.518
+X,740,SUR,0,W00,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",N/A,0.0,79715.925
+X,740,SUR,251,FRA,07,Vegetables and certain roots and tubers; edible,N/A,0.0,9270.307
+X,740,SUR,0,W00,07,Vegetables and certain roots and tubers; edible,N/A,0.0,968566.678
+X,740,SUR,0,W00,09,"Coffee, tea, mate and spices",N/A,0.0,404354.295
+X,740,SUR,899,_X ,10,Cereals,N/A,0.0,5000.0
+X,740,SUR,757,CHE,10,Cereals,N/A,0.0,26875.0
+X,740,SUR,251,FRA,10,Cereals,N/A,0.0,1779563.193
+X,740,SUR,0,W00,10,Cereals,N/A,0.0,30363153.562
+X,740,SUR,251,FRA,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",N/A,0.0,6529.411
+X,740,SUR,0,W00,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",N/A,0.0,12828.569
+X,740,SUR,899,_X ,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,0.0,94173.5
+X,740,SUR,0,W00,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,0.0,193314.159
+X,740,SUR,0,W00,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,0.0,1186827.091
+X,740,SUR,0,W00,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",N/A,0.0,142598.158
+X,740,SUR,251,FRA,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",N/A,0.0,1179.829
+X,740,SUR,0,W00,17,Sugars and sugar confectionery,N/A,0.0,56552.33
+X,740,SUR,251,FRA,18,Cocoa and cocoa preparations,N/A,0.0,7452.933
+X,740,SUR,0,W00,18,Cocoa and cocoa preparations,N/A,0.0,305901.175
+X,740,SUR,0,W00,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",N/A,0.0,456052.297
+X,740,SUR,899,_X ,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",N/A,0.0,1312.501
+X,740,SUR,251,FRA,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",N/A,0.0,177881.724
+X,740,SUR,0,W00,20,"Preparations of vegetables, fruit, nuts or other parts of plants",N/A,0.0,2183424.605
+X,740,SUR,251,FRA,20,"Preparations of vegetables, fruit, nuts or other parts of plants",N/A,0.0,12125.368
+X,740,SUR,251,FRA,21,Miscellaneous edible preparations,N/A,0.0,25844.654
+X,740,SUR,842,USA,21,Miscellaneous edible preparations,N/A,0.0,986051.091
+X,740,SUR,899,_X ,21,Miscellaneous edible preparations,N/A,0.0,5100.0
+X,740,SUR,0,W00,21,Miscellaneous edible preparations,N/A,0.0,4121406.999
+X,740,SUR,842,USA,22,"Beverages, spirits and vinegar",N/A,0.0,257655.714
+X,740,SUR,699,IND,22,"Beverages, spirits and vinegar",N/A,0.0,119409.441
+X,740,SUR,0,W00,22,"Beverages, spirits and vinegar",N/A,0.0,26372325.966
+X,740,SUR,251,FRA,22,"Beverages, spirits and vinegar",N/A,0.0,845878.795
+X,740,SUR,251,FRA,23,"Food industries, residues and wastes thereof; prepared animal fodder",N/A,0.0,61468.793
+X,740,SUR,0,W00,23,"Food industries, residues and wastes thereof; prepared animal fodder",N/A,0.0,129923.244
+X,740,SUR,0,W00,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,1413810.22
+X,740,SUR,0,W00,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,0.0,2028592.462
+X,740,SUR,251,FRA,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,0.0,33348.283
+X,740,SUR,0,W00,26,"Ores, slag and ash",N/A,0.0,54564.678
+X,740,SUR,842,USA,26,"Ores, slag and ash",N/A,0.0,10206.0
+X,740,SUR,842,USA,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,0.0,10070807.31
+X,740,SUR,0,W00,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,0.0,139601501.596
+X,740,SUR,699,IND,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,0.0,2240.0
+X,740,SUR,251,FRA,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,0.0,13462.78
+X,740,SUR,0,W00,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",N/A,0.0,82438.231
+X,740,SUR,251,FRA,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",N/A,0.0,1456.011
+X,740,SUR,842,USA,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",N/A,0.0,1750.0
+X,740,SUR,0,W00,29,Organic chemicals,N/A,0.0,430049.979
+X,740,SUR,251,FRA,29,Organic chemicals,N/A,0.0,65972.88
+X,740,SUR,842,USA,29,Organic chemicals,N/A,0.0,32491.35
+X,740,SUR,842,USA,30,Pharmaceutical products,N/A,0.0,268414.62
+X,740,SUR,0,W00,30,Pharmaceutical products,N/A,0.0,469824.409
+X,740,SUR,0,W00,31,Fertilizers,N/A,0.0,231175.0
+X,740,SUR,0,W00,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",N/A,0.0,305586.469
+X,740,SUR,251,FRA,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",N/A,0.0,176279.411
+X,740,SUR,842,USA,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",N/A,0.0,7858.469
+X,740,SUR,842,USA,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",N/A,0.0,106819.05
+X,740,SUR,0,W00,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",N/A,0.0,351400.403
+X,740,SUR,842,USA,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",N/A,0.0,1188.0
+X,740,SUR,0,W00,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",N/A,0.0,2597655.749
+X,740,SUR,251,FRA,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",N/A,0.0,6980.278
+X,740,SUR,0,W00,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,N/A,0.0,221801.932
+X,740,SUR,0,W00,37,Photographic or cinematographic goods,N/A,0.0,5457.05
+X,740,SUR,251,FRA,38,Chemical products n.e.c.,N/A,0.0,60758.089
+X,740,SUR,0,W00,38,Chemical products n.e.c.,N/A,0.0,1325871.845
+X,740,SUR,842,USA,38,Chemical products n.e.c.,N/A,0.0,253057.699
+X,740,SUR,579,NOR,39,Plastics and articles thereof,N/A,0.0,3445.8
+X,740,SUR,0,W00,39,Plastics and articles thereof,N/A,0.0,3785596.207
+X,740,SUR,842,USA,39,Plastics and articles thereof,N/A,0.0,34107.24
+X,740,SUR,699,IND,39,Plastics and articles thereof,N/A,0.0,177135.0
+X,740,SUR,251,FRA,39,Plastics and articles thereof,N/A,0.0,1588422.044
+X,740,SUR,0,W00,40,Rubber and articles thereof,N/A,0.0,218315.365
+X,740,SUR,842,USA,40,Rubber and articles thereof,N/A,0.0,15889.76
+X,740,SUR,251,FRA,40,Rubber and articles thereof,N/A,0.0,49020.837
+X,740,SUR,0,W00,41,Raw hides and skins (other than furskins) and leather,N/A,0.0,107860.6
+X,740,SUR,0,W00,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",N/A,0.0,68843.411
+X,740,SUR,490,S19,44,Wood and articles of wood; wood charcoal,N/A,0.0,660396.763
+X,740,SUR,699,IND,44,Wood and articles of wood; wood charcoal,N/A,0.0,16291595.346
+X,740,SUR,0,W00,44,Wood and articles of wood; wood charcoal,N/A,0.0,58001479.46
+X,740,SUR,899,_X ,44,Wood and articles of wood; wood charcoal,N/A,0.0,4500.0
+X,740,SUR,757,CHE,44,Wood and articles of wood; wood charcoal,N/A,0.0,48132.48
+X,740,SUR,251,FRA,44,Wood and articles of wood; wood charcoal,N/A,0.0,405868.152
+X,740,SUR,842,USA,44,Wood and articles of wood; wood charcoal,N/A,0.0,304848.693
+X,740,SUR,490,S19,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,N/A,0.0,27980.0
+X,740,SUR,0,W00,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,N/A,0.0,90294.501
+X,740,SUR,699,IND,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,N/A,0.0,53875.0
+X,740,SUR,0,W00,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",N/A,0.0,1683344.525
+X,740,SUR,899,_X ,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,0.0,1130.59
+X,740,SUR,0,W00,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,0.0,85526.131
+X,740,SUR,251,FRA,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,0.0,20535.24
+X,740,SUR,0,W00,54,Man-made filaments; strip and the like of man-made textile materials,N/A,0.0,11798.801
+X,740,SUR,0,W00,55,Man-made staple fibres,N/A,0.0,3317.344
+X,740,SUR,251,FRA,55,Man-made staple fibres,N/A,0.0,3317.344
+X,740,SUR,0,W00,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",N/A,0.0,66621.657
+X,740,SUR,842,USA,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",N/A,0.0,12792.92
+X,740,SUR,0,W00,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",N/A,0.0,18988.3
+X,740,SUR,251,FRA,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",N/A,0.0,5056.5
+X,740,SUR,842,USA,61,Apparel and clothing accessories; knitted or crocheted,N/A,0.0,1438.0
+X,740,SUR,0,W00,61,Apparel and clothing accessories; knitted or crocheted,N/A,0.0,19114.619
+X,740,SUR,0,W00,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,436894.807
+X,740,SUR,842,USA,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,1210.98
+X,740,SUR,0,W00,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",N/A,0.0,177149.998
+X,740,SUR,842,USA,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",N/A,0.0,5307.2
+X,740,SUR,251,FRA,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",N/A,0.0,1715.0
+X,740,SUR,0,W00,64,Footwear; gaiters and the like; parts of such articles,N/A,0.0,207362.117
+X,740,SUR,842,USA,65,Headgear and parts thereof,N/A,0.0,2400.0
+X,740,SUR,0,W00,65,Headgear and parts thereof,N/A,0.0,38083.4
+X,740,SUR,0,W00,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",N/A,0.0,2464.77
+X,740,SUR,842,USA,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",N/A,0.0,1844.7
+X,740,SUR,0,W00,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",N/A,0.0,86773.281
+X,740,SUR,251,FRA,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",N/A,0.0,7435.819
+X,740,SUR,251,FRA,70,Glass and glassware,N/A,0.0,2160.915
+X,740,SUR,842,USA,70,Glass and glassware,N/A,0.0,1200.0
+X,740,SUR,0,W00,70,Glass and glassware,N/A,0.0,14271.835
+X,740,SUR,757,CHE,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",N/A,0.0,1087955168.271
+X,740,SUR,251,FRA,72,Iron and steel,N/A,0.0,2875.02
+X,740,SUR,842,USA,72,Iron and steel,N/A,0.0,45288.69
+X,740,SUR,490,S19,72,Iron and steel,N/A,0.0,293700.0
+X,740,SUR,0,W00,72,Iron and steel,N/A,0.0,3455691.35
+X,740,SUR,699,IND,72,Iron and steel,N/A,0.0,192500.0
+X,740,SUR,0,W00,73,Iron or steel articles,N/A,0.0,1464956.6
+X,740,SUR,842,USA,73,Iron or steel articles,N/A,0.0,225736.99
+X,740,SUR,251,FRA,73,Iron or steel articles,N/A,0.0,89859.798
+X,740,SUR,251,FRA,74,Copper and articles thereof,N/A,0.0,8842.497
+X,740,SUR,842,USA,74,Copper and articles thereof,N/A,0.0,331442.0
+X,740,SUR,0,W00,74,Copper and articles thereof,N/A,0.0,490921.601
+X,740,SUR,0,W00,76,Aluminium and articles thereof,N/A,0.0,920175.186
+X,740,SUR,251,FRA,76,Aluminium and articles thereof,N/A,0.0,8369.601
+X,740,SUR,490,S19,76,Aluminium and articles thereof,N/A,0.0,185985.801
+X,740,SUR,842,USA,76,Aluminium and articles thereof,N/A,0.0,281492.2
+X,740,SUR,699,IND,76,Aluminium and articles thereof,N/A,0.0,56420.0
+X,740,SUR,0,W00,79,Zinc and articles thereof,N/A,0.0,305334.936
+X,740,SUR,842,USA,79,Zinc and articles thereof,N/A,0.0,4177.36
+X,740,SUR,0,W00,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",N/A,0.0,279315.305
+X,740,SUR,251,FRA,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",N/A,0.0,35627.82
+X,740,SUR,842,USA,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",N/A,0.0,58743.549
+X,740,SUR,0,W00,83,Metal; miscellaneous products of base metal,N/A,0.0,38417.168
+X,740,SUR,251,FRA,83,Metal; miscellaneous products of base metal,N/A,0.0,12361.02
+X,740,SUR,842,USA,83,Metal; miscellaneous products of base metal,N/A,0.0,5259.939
+X,740,SUR,251,FRA,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,420108.721
+X,740,SUR,490,S19,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,1100.0
+X,740,SUR,757,CHE,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,17500.0
+X,740,SUR,842,USA,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,4925259.291
+X,740,SUR,0,W00,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,14397855.543
+X,740,SUR,699,IND,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,59500.0
+X,740,SUR,842,USA,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,1555040.76
+X,740,SUR,757,CHE,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,1500.0
+X,740,SUR,0,W00,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",N/A,0.0,1140631.762
+X,740,SUR,842,USA,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",N/A,0.0,933977.0
+X,740,SUR,251,FRA,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",N/A,0.0,10296.31
+X,740,SUR,0,W00,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,1186832.775
+X,740,SUR,251,FRA,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,60223.591
+X,740,SUR,842,USA,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,68141.43
+X,740,SUR,842,USA,88,"Aircraft, spacecraft and parts thereof",N/A,0.0,629278.049
+X,740,SUR,0,W00,88,"Aircraft, spacecraft and parts thereof",N/A,0.0,920232.952
+X,740,SUR,757,CHE,88,"Aircraft, spacecraft and parts thereof",N/A,0.0,3500.0
+X,740,SUR,842,USA,89,"Ships, boats and floating structures",N/A,0.0,386146.76
+X,740,SUR,0,W00,89,"Ships, boats and floating structures",N/A,0.0,2125633.862
+X,740,SUR,251,FRA,89,"Ships, boats and floating structures",N/A,0.0,403182.488
+X,740,SUR,251,FRA,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,35718.139
+X,740,SUR,899,_X ,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,2922.003
+X,740,SUR,0,W00,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,5802556.439
+X,740,SUR,842,USA,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,5023711.522
+X,740,SUR,757,CHE,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,24000.0
+X,740,SUR,251,FRA,91,Clocks and watches and parts thereof,N/A,0.0,7402.946
+X,740,SUR,842,USA,91,Clocks and watches and parts thereof,N/A,0.0,17000.0
+X,740,SUR,251,FRA,93,Arms and ammunition; parts and accessories thereof,N/A,0.0,4361.0
+X,740,SUR,842,USA,93,Arms and ammunition; parts and accessories thereof,N/A,0.0,82148.77
+X,740,SUR,0,W00,93,Arms and ammunition; parts and accessories thereof,N/A,0.0,94811.77
+X,740,SUR,0,W00,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,0.0,1313797.459
+X,740,SUR,251,FRA,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,0.0,41203.784
+X,740,SUR,842,USA,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,0.0,15624.759
+X,740,SUR,0,W00,95,"Toys, games and sports requisites; parts and accessories thereof",N/A,0.0,292763.421
+X,740,SUR,842,USA,95,"Toys, games and sports requisites; parts and accessories thereof",N/A,0.0,36170.269
+X,740,SUR,0,W00,96,Miscellaneous manufactured articles,N/A,0.0,98898.918
+X,740,SUR,842,USA,97,Works of art; collectors' pieces and antiques,N/A,0.0,8000.0
+X,740,SUR,0,W00,97,Works of art; collectors' pieces and antiques,N/A,0.0,23790.211
+X,740,SUR,699,IND,99,Commodities not specified according to kind,N/A,0.0,2500.0
+X,740,SUR,490,S19,99,Commodities not specified according to kind,N/A,0.0,540612.751
+X,740,SUR,842,USA,99,Commodities not specified according to kind,N/A,0.0,7435779.463
+X,740,SUR,251,FRA,99,Commodities not specified according to kind,N/A,0.0,18531675.228
+X,740,SUR,899,_X ,99,Commodities not specified according to kind,N/A,0.0,741379.212
+X,740,SUR,0,W00,99,Commodities not specified according to kind,N/A,0.0,61595272.725

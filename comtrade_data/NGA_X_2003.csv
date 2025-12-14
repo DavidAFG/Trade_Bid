@@ -1,0 +1,417 @@
+flowCode,reporterCode,reporterISO,partnerCode,partnerISO,cmdCode,cmdDesc,qtyUnitAbbr,qty,fobvalue
+X,566,NGA,0,W00,73,Iron or steel articles,N/A,,6145530.0
+X,566,NGA,0,W00,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,,2211256.0
+X,566,NGA,0,W00,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,23570728140.0
+X,566,NGA,0,W00,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",N/A,,3075027.0
+X,566,NGA,0,W00,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",N/A,,400627.0
+X,566,NGA,0,W00,74,Copper and articles thereof,N/A,,255737.0
+X,566,NGA,0,W00,75,Nickel and articles thereof,N/A,,398631.0
+X,566,NGA,0,W00,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",N/A,,2236998.0
+X,566,NGA,0,W00,83,Metal; miscellaneous products of base metal,N/A,,5410.0
+X,566,NGA,0,W00,20,"Preparations of vegetables, fruit, nuts or other parts of plants",N/A,,59422.0
+X,566,NGA,0,W00,21,Miscellaneous edible preparations,N/A,,31605.0
+X,566,NGA,0,W00,22,"Beverages, spirits and vinegar",N/A,,10629.0
+X,566,NGA,0,W00,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,,64389642.0
+X,566,NGA,0,W00,29,Organic chemicals,N/A,,52150.0
+X,566,NGA,0,W00,30,Pharmaceutical products,N/A,,13574.0
+X,566,NGA,0,W00,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",N/A,,208452.0
+X,566,NGA,0,W00,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, 'dental waxes' and dental preparations with a basis of plaster",N/A,,636906.0
+X,566,NGA,0,W00,35,Albuminoidal substances; modified starches; glues; enzymes,N/A,,328296.0
+X,566,NGA,0,W00,37,Photographic or cinematographic goods,N/A,,6392.0
+X,566,NGA,0,W00,38,Chemical products n.e.s.,N/A,,4279699.0
+X,566,NGA,0,W00,39,Plastics and articles thereof,N/A,,4709139.0
+X,566,NGA,24,AGO,38,Chemical products n.e.s.,N/A,,106431.0
+X,566,NGA,0,W00,40,Rubber and articles thereof,N/A,,16392741.0
+X,566,NGA,0,W00,41,Raw hides and skins (other than furskins) and leather,N/A,,5990848.0
+X,566,NGA,0,W00,44,Wood and articles of wood; wood charcoal,N/A,,77729.0
+X,566,NGA,0,W00,45,Cork and articles of cork,N/A,,4957.0
+X,566,NGA,0,W00,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",N/A,,2479.0
+X,566,NGA,0,W00,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,N/A,,289611.0
+X,566,NGA,0,W00,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",N/A,,333620.0
+X,566,NGA,0,W00,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,,154402.0
+X,566,NGA,0,W00,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",N/A,,58004.0
+X,566,NGA,0,W00,52,Cotton,N/A,,1358262.0
+X,566,NGA,0,W00,54,Man-made filaments,N/A,,178427.0
+X,566,NGA,0,W00,55,Man-made staple fibres,N/A,,3254602.0
+X,566,NGA,0,W00,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",N/A,,5320181.0
+X,566,NGA,0,W00,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",N/A,,178933.0
+X,566,NGA,0,W00,61,Apparel and clothing accessories; knitted or crocheted,N/A,,8853.0
+X,566,NGA,0,W00,62,Apparel and clothing accessories; not knitted or crocheted,N/A,,4891.0
+X,566,NGA,0,W00,64,Footwear; gaiters and the like; parts of such articles,N/A,,3153209.0
+X,566,NGA,0,W00,69,Ceramic products,N/A,,233662.0
+X,566,NGA,0,W00,70,Glass and glassware,N/A,,85.0
+X,566,NGA,0,W00,72,Iron and steel,N/A,,252680.0
+X,566,NGA,0,W00,02,Meat and edible meat offal,N/A,,17425.0
+X,566,NGA,0,W00,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",N/A,,52040.0
+X,566,NGA,0,W00,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",N/A,,1113370.0
+X,566,NGA,0,W00,05,Animal originated products; not elsewhere specified or included,N/A,,85609.0
+X,566,NGA,0,W00,07,Vegetables and certain roots and tubers; edible,N/A,,13017.0
+X,566,NGA,0,W00,08,"Fruit and nuts, edible; peel of citrus fruit or melons",N/A,,52116.0
+X,566,NGA,0,W00,09,"Coffee, tea, mate and spices",N/A,,276521.0
+X,566,NGA,0,W00,10,Cereals,N/A,,465206.0
+X,566,NGA,0,W00,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",N/A,,136410.0
+X,566,NGA,0,W00,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,,505695.0
+X,566,NGA,0,W00,13,"Lac; gums, resins and other vegetable saps and extracts",N/A,,20908.0
+X,566,NGA,0,W00,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,,1561226.0
+X,566,NGA,0,W00,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",N/A,,84938.0
+X,566,NGA,0,W00,17,Sugars and sugar confectionery,N/A,,2104132.0
+X,566,NGA,0,W00,18,Cocoa and cocoa preparations,N/A,,421447.0
+X,566,NGA,0,W00,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",N/A,,336140.0
+X,566,NGA,148,TCD,39,Plastics and articles thereof,N/A,,858811.0
+X,566,NGA,148,TCD,40,Rubber and articles thereof,N/A,,38906.0
+X,566,NGA,0,W00,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,,4826564.0
+X,566,NGA,0,W00,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",N/A,,141168.0
+X,566,NGA,0,W00,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,,2245217.0
+X,566,NGA,0,W00,88,"Aircraft, spacecraft and parts thereof",N/A,,108925.0
+X,566,NGA,0,W00,89,"Ships, boats and floating structures",N/A,,358186628.0
+X,566,NGA,0,W00,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,,5068026.0
+X,566,NGA,0,W00,91,Clocks and watches and parts thereof,N/A,,32972.0
+X,566,NGA,0,W00,92,Musical instruments; parts and accessories of such articles,N/A,,6276.0
+X,566,NGA,0,W00,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,,1852272.0
+X,566,NGA,0,W00,99,Commodities not specified according to kind,N/A,,2379.0
+X,566,NGA,12,DZA,40,Rubber and articles thereof,N/A,,470629.0
+X,566,NGA,12,DZA,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,,3871.0
+X,566,NGA,24,AGO,40,Rubber and articles thereof,N/A,,107561.0
+X,566,NGA,24,AGO,70,Glass and glassware,N/A,,85.0
+X,566,NGA,24,AGO,73,Iron or steel articles,N/A,,5322.0
+X,566,NGA,24,AGO,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,,92750.0
+X,566,NGA,24,AGO,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,,106653.0
+X,566,NGA,24,AGO,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,,1560.0
+X,566,NGA,24,AGO,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,,3534.0
+X,566,NGA,32,ARG,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,33241080.0
+X,566,NGA,32,ARG,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,,337.0
+X,566,NGA,36,AUS,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,26976235.0
+X,566,NGA,48,BHR,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,,2479.0
+X,566,NGA,50,BGD,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,,90495.0
+X,566,NGA,52,BRB,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,,37580.0
+X,566,NGA,56,BEL,40,Rubber and articles thereof,N/A,,83445.0
+X,566,NGA,56,BEL,44,Wood and articles of wood; wood charcoal,N/A,,2267.0
+X,566,NGA,56,BEL,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,,193.0
+X,566,NGA,56,BEL,61,Apparel and clothing accessories; knitted or crocheted,N/A,,3251.0
+X,566,NGA,56,BEL,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,,219827.0
+X,566,NGA,56,BEL,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,,3074.0
+X,566,NGA,56,BEL,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,,43319.0
+X,566,NGA,56,BEL,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,,35411.0
+X,566,NGA,56,BEL,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,,30824.0
+X,566,NGA,72,BWA,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,8790.0
+X,566,NGA,76,BRA,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,1636714233.0
+X,566,NGA,120,CMR,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",N/A,,2555.0
+X,566,NGA,120,CMR,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,293654576.0
+X,566,NGA,120,CMR,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, 'dental waxes' and dental preparations with a basis of plaster",N/A,,9447.0
+X,566,NGA,120,CMR,39,Plastics and articles thereof,N/A,,100396.0
+X,566,NGA,120,CMR,40,Rubber and articles thereof,N/A,,4802033.0
+X,566,NGA,120,CMR,52,Cotton,N/A,,118341.0
+X,566,NGA,204,BEN,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,,3900.0
+X,566,NGA,120,CMR,64,Footwear; gaiters and the like; parts of such articles,N/A,,1936.0
+X,566,NGA,120,CMR,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,,29388.0
+X,566,NGA,120,CMR,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,,18089.0
+X,566,NGA,120,CMR,89,"Ships, boats and floating structures",N/A,,14391741.0
+X,566,NGA,124,CAN,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,753711653.0
+X,566,NGA,132,CPV,40,Rubber and articles thereof,N/A,,16301.0
+X,566,NGA,140,CAF,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,,2401.0
+X,566,NGA,140,CAF,64,Footwear; gaiters and the like; parts of such articles,N/A,,413608.0
+X,566,NGA,148,TCD,02,Meat and edible meat offal,N/A,,17425.0
+X,566,NGA,148,TCD,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",N/A,,2479.0
+X,566,NGA,148,TCD,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",N/A,,2710.0
+X,566,NGA,148,TCD,07,Vegetables and certain roots and tubers; edible,N/A,,13017.0
+X,566,NGA,148,TCD,09,"Coffee, tea, mate and spices",N/A,,274039.0
+X,566,NGA,148,TCD,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, 'dental waxes' and dental preparations with a basis of plaster",N/A,,57082.0
+X,566,NGA,148,TCD,37,Photographic or cinematographic goods,N/A,,6195.0
+X,566,NGA,148,TCD,45,Cork and articles of cork,N/A,,4957.0
+X,566,NGA,148,TCD,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",N/A,,2479.0
+X,566,NGA,148,TCD,52,Cotton,N/A,,17297.0
+X,566,NGA,148,TCD,61,Apparel and clothing accessories; knitted or crocheted,N/A,,2479.0
+X,566,NGA,148,TCD,64,Footwear; gaiters and the like; parts of such articles,N/A,,1671175.0
+X,566,NGA,148,TCD,72,Iron and steel,N/A,,2639.0
+X,566,NGA,148,TCD,73,Iron or steel articles,N/A,,41184.0
+X,566,NGA,148,TCD,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,,11868.0
+X,566,NGA,152,CHL,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,86064690.0
+X,566,NGA,156,CHN,09,"Coffee, tea, mate and spices",N/A,,3.0
+X,566,NGA,156,CHN,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,,6442.0
+X,566,NGA,156,CHN,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,109800286.0
+X,566,NGA,156,CHN,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",N/A,,116333.0
+X,566,NGA,156,CHN,38,Chemical products n.e.s.,N/A,,253627.0
+X,566,NGA,156,CHN,40,Rubber and articles thereof,N/A,,543792.0
+X,566,NGA,156,CHN,41,Raw hides and skins (other than furskins) and leather,N/A,,24674.0
+X,566,NGA,156,CHN,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,,5953.0
+X,566,NGA,288,GHA,21,Miscellaneous edible preparations,N/A,,31605.0
+X,566,NGA,288,GHA,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,451296909.0
+X,566,NGA,156,CHN,73,Iron or steel articles,N/A,,2605614.0
+X,566,NGA,156,CHN,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",N/A,,1398861.0
+X,566,NGA,156,CHN,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,,1881409.0
+X,566,NGA,156,CHN,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,,105835.0
+X,566,NGA,156,CHN,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",N/A,,183.0
+X,566,NGA,156,CHN,89,"Ships, boats and floating structures",N/A,,6784960.0
+X,566,NGA,156,CHN,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,,4250.0
+X,566,NGA,156,CHN,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,,11112.0
+X,566,NGA,178,COG,40,Rubber and articles thereof,N/A,,33568.0
+X,566,NGA,178,COG,55,Man-made staple fibres,N/A,,83807.0
+X,566,NGA,180,COD,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,,198734.0
+X,566,NGA,184,COK,40,Rubber and articles thereof,N/A,,69688.0
+X,566,NGA,204,BEN,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",N/A,,10490.0
+X,566,NGA,204,BEN,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",N/A,,1074949.0
+X,566,NGA,204,BEN,05,Animal originated products; not elsewhere specified or included,N/A,,85609.0
+X,566,NGA,204,BEN,08,"Fruit and nuts, edible; peel of citrus fruit or melons",N/A,,30881.0
+X,566,NGA,204,BEN,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,,2713.0
+X,566,NGA,204,BEN,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",N/A,,84938.0
+X,566,NGA,204,BEN,18,Cocoa and cocoa preparations,N/A,,353246.0
+X,566,NGA,204,BEN,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",N/A,,33167.0
+X,566,NGA,204,BEN,20,"Preparations of vegetables, fruit, nuts or other parts of plants",N/A,,59422.0
+X,566,NGA,204,BEN,22,"Beverages, spirits and vinegar",N/A,,2425.0
+X,566,NGA,204,BEN,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,,639218.0
+X,566,NGA,204,BEN,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,10817.0
+X,566,NGA,204,BEN,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",N/A,,8339.0
+X,566,NGA,204,BEN,30,Pharmaceutical products,N/A,,13574.0
+X,566,NGA,204,BEN,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, 'dental waxes' and dental preparations with a basis of plaster",N/A,,3568.0
+X,566,NGA,204,BEN,35,Albuminoidal substances; modified starches; glues; enzymes,N/A,,328296.0
+X,566,NGA,204,BEN,39,Plastics and articles thereof,N/A,,3120317.0
+X,566,NGA,204,BEN,40,Rubber and articles thereof,N/A,,1244062.0
+X,566,NGA,204,BEN,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",N/A,,21582.0
+X,566,NGA,204,BEN,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",N/A,,58004.0
+X,566,NGA,204,BEN,52,Cotton,N/A,,480213.0
+X,566,NGA,204,BEN,54,Man-made filaments,N/A,,442.0
+X,566,NGA,204,BEN,55,Man-made staple fibres,N/A,,153899.0
+X,566,NGA,204,BEN,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",N/A,,5262178.0
+X,566,NGA,204,BEN,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",N/A,,178933.0
+X,566,NGA,204,BEN,64,Footwear; gaiters and the like; parts of such articles,N/A,,40112.0
+X,566,NGA,204,BEN,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",N/A,,399464.0
+X,566,NGA,204,BEN,69,Ceramic products,N/A,,229652.0
+X,566,NGA,204,BEN,72,Iron and steel,N/A,,177805.0
+X,566,NGA,204,BEN,73,Iron or steel articles,N/A,,2483.0
+X,566,NGA,204,BEN,74,Copper and articles thereof,N/A,,206861.0
+X,566,NGA,204,BEN,75,Nickel and articles thereof,N/A,,396452.0
+X,566,NGA,204,BEN,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,,461945.0
+X,566,NGA,204,BEN,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,,7038.0
+X,566,NGA,204,BEN,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,,10030.0
+X,566,NGA,204,BEN,99,Commodities not specified according to kind,N/A,,2379.0
+X,566,NGA,208,DNK,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,,269.0
+X,566,NGA,208,DNK,89,"Ships, boats and floating structures",N/A,,656057.0
+X,566,NGA,251,FRA,18,Cocoa and cocoa preparations,N/A,,5293.0
+X,566,NGA,251,FRA,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,1262844171.0
+X,566,NGA,251,FRA,40,Rubber and articles thereof,N/A,,950294.0
+X,566,NGA,251,FRA,73,Iron or steel articles,N/A,,202976.0
+X,566,NGA,148,TCD,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",N/A,,39693.0
+X,566,NGA,148,TCD,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,,13164.0
+X,566,NGA,148,TCD,13,"Lac; gums, resins and other vegetable saps and extracts",N/A,,20908.0
+X,566,NGA,148,TCD,17,Sugars and sugar confectionery,N/A,,2071284.0
+X,566,NGA,148,TCD,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",N/A,,15487.0
+X,566,NGA,148,TCD,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,,1522163.0
+X,566,NGA,148,TCD,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,24254.0
+X,566,NGA,148,TCD,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",N/A,,248.0
+X,566,NGA,148,TCD,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",N/A,,26906.0
+X,566,NGA,251,FRA,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,,9469.0
+X,566,NGA,251,FRA,89,"Ships, boats and floating structures",N/A,,95436001.0
+X,566,NGA,562,NER,64,Footwear; gaiters and the like; parts of such articles,N/A,,91202.0
+X,566,NGA,251,FRA,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,,224.0
+X,566,NGA,266,GAB,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,,23978.0
+X,566,NGA,266,GAB,40,Rubber and articles thereof,N/A,,47383.0
+X,566,NGA,266,GAB,73,Iron or steel articles,N/A,,254675.0
+X,566,NGA,266,GAB,89,"Ships, boats and floating structures",N/A,,5412479.0
+X,566,NGA,276,DEU,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,,440238.0
+X,566,NGA,276,DEU,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,,165.0
+X,566,NGA,276,DEU,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,504999596.0
+X,566,NGA,276,DEU,74,Copper and articles thereof,N/A,,35652.0
+X,566,NGA,276,DEU,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,,4798.0
+X,566,NGA,276,DEU,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,,1608.0
+X,566,NGA,276,DEU,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,,931.0
+X,566,NGA,288,GHA,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",N/A,,2642.0
+X,566,NGA,288,GHA,17,Sugars and sugar confectionery,N/A,,30446.0
+X,566,NGA,288,GHA,18,Cocoa and cocoa preparations,N/A,,2468.0
+X,566,NGA,288,GHA,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",N/A,,273104.0
+X,566,NGA,288,GHA,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",N/A,,48369.0
+X,566,NGA,288,GHA,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, 'dental waxes' and dental preparations with a basis of plaster",N/A,,493579.0
+X,566,NGA,288,GHA,39,Plastics and articles thereof,N/A,,1600.0
+X,566,NGA,288,GHA,40,Rubber and articles thereof,N/A,,126550.0
+X,566,NGA,288,GHA,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",N/A,,312039.0
+X,566,NGA,288,GHA,54,Man-made filaments,N/A,,177985.0
+X,566,NGA,288,GHA,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",N/A,,58004.0
+X,566,NGA,288,GHA,64,Footwear; gaiters and the like; parts of such articles,N/A,,24238.0
+X,566,NGA,288,GHA,69,Ceramic products,N/A,,4011.0
+X,566,NGA,288,GHA,73,Iron or steel articles,N/A,,45668.0
+X,566,NGA,288,GHA,74,Copper and articles thereof,N/A,,2083.0
+X,566,NGA,288,GHA,75,Nickel and articles thereof,N/A,,2179.0
+X,566,NGA,288,GHA,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,,459830.0
+X,566,NGA,288,GHA,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,,140912.0
+X,566,NGA,288,GHA,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,,1194642.0
+X,566,NGA,324,GIN,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,,216877.0
+X,566,NGA,324,GIN,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,,629.0
+X,566,NGA,324,GIN,89,"Ships, boats and floating structures",N/A,,8463.0
+X,566,NGA,344,HKG,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",N/A,,19764.0
+X,566,NGA,344,HKG,41,Raw hides and skins (other than furskins) and leather,N/A,,1517396.0
+X,566,NGA,344,HKG,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,,2684.0
+X,566,NGA,348,HUN,89,"Ships, boats and floating structures",N/A,,1391488.0
+X,566,NGA,360,IDN,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,770476633.0
+X,566,NGA,360,IDN,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,,9952.0
+X,566,NGA,372,IRL,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,,3674.0
+X,566,NGA,376,ISR,62,Apparel and clothing accessories; not knitted or crocheted,N/A,,2368.0
+X,566,NGA,380,ITA,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,,3097.0
+X,566,NGA,380,ITA,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,668874723.0
+X,566,NGA,380,ITA,39,Plastics and articles thereof,N/A,,27132.0
+X,566,NGA,380,ITA,40,Rubber and articles thereof,N/A,,517265.0
+X,566,NGA,380,ITA,41,Raw hides and skins (other than furskins) and leather,N/A,,3465167.0
+X,566,NGA,380,ITA,44,Wood and articles of wood; wood charcoal,N/A,,10531.0
+X,566,NGA,380,ITA,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,,10044.0
+X,566,NGA,380,ITA,73,Iron or steel articles,N/A,,81865.0
+X,566,NGA,380,ITA,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,,39122.0
+X,566,NGA,380,ITA,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,,67045.0
+X,566,NGA,380,ITA,89,"Ships, boats and floating structures",N/A,,14879743.0
+X,566,NGA,380,ITA,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,,1667.0
+X,566,NGA,384,CIV,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,359832075.0
+X,566,NGA,384,CIV,40,Rubber and articles thereof,N/A,,171398.0
+X,566,NGA,384,CIV,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,,246.0
+X,566,NGA,384,CIV,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",N/A,,188651.0
+X,566,NGA,384,CIV,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,,99226.0
+X,566,NGA,392,JPN,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,965611211.0
+X,566,NGA,392,JPN,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,,9266.0
+X,566,NGA,404,KEN,40,Rubber and articles thereof,N/A,,214534.0
+X,566,NGA,410,KOR,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,99571507.0
+X,566,NGA,422,LBN,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,,6830.0
+X,566,NGA,422,LBN,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,,626598.0
+X,566,NGA,466,MLI,39,Plastics and articles thereof,N/A,,10849.0
+X,566,NGA,466,MLI,40,Rubber and articles thereof,N/A,,153714.0
+X,566,NGA,466,MLI,52,Cotton,N/A,,376029.0
+X,566,NGA,466,MLI,55,Man-made staple fibres,N/A,,2867530.0
+X,566,NGA,478,MRT,40,Rubber and articles thereof,N/A,,237588.0
+X,566,NGA,478,MRT,89,"Ships, boats and floating structures",N/A,,117663.0
+X,566,NGA,490,S19,38,Chemical products n.e.s.,N/A,,242863.0
+X,566,NGA,490,S19,40,Rubber and articles thereof,N/A,,29045.0
+X,566,NGA,490,S19,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,,92437.0
+X,566,NGA,490,S19,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",N/A,,1163.0
+X,566,NGA,490,S19,73,Iron or steel articles,N/A,,1744829.0
+X,566,NGA,490,S19,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",N/A,,251586.0
+X,566,NGA,490,S19,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,,1291226.0
+X,566,NGA,490,S19,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,,1010091.0
+X,566,NGA,490,S19,89,"Ships, boats and floating structures",N/A,,102596.0
+X,566,NGA,528,NLD,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,,41721.0
+X,566,NGA,528,NLD,22,"Beverages, spirits and vinegar",N/A,,158.0
+X,566,NGA,528,NLD,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,529018475.0
+X,566,NGA,528,NLD,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,,8022.0
+X,566,NGA,251,FRA,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,,4435.0
+X,566,NGA,842,USA,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, 'dental waxes' and dental preparations with a basis of plaster",N/A,,19440.0
+X,566,NGA,251,FRA,88,"Aircraft, spacecraft and parts thereof",N/A,,9306.0
+X,566,NGA,562,NER,40,Rubber and articles thereof,N/A,,367566.0
+X,566,NGA,568,E19,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",N/A,,5108.0
+X,566,NGA,579,NOR,89,"Ships, boats and floating structures",N/A,,14037950.0
+X,566,NGA,586,PAK,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,,268000.0
+X,566,NGA,604,PER,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,115291236.0
+X,566,NGA,608,PHL,40,Rubber and articles thereof,N/A,,42714.0
+X,566,NGA,620,PRT,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,588836512.0
+X,566,NGA,620,PRT,41,Raw hides and skins (other than furskins) and leather,N/A,,633652.0
+X,566,NGA,682,SAU,61,Apparel and clothing accessories; knitted or crocheted,N/A,,125.0
+X,566,NGA,686,SEN,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,254123641.0
+X,566,NGA,686,SEN,40,Rubber and articles thereof,N/A,,32435.0
+X,566,NGA,699,IND,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,2392941787.0
+X,566,NGA,699,IND,44,Wood and articles of wood; wood charcoal,N/A,,1133.0
+X,566,NGA,699,IND,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,N/A,,289611.0
+X,566,NGA,699,IND,61,Apparel and clothing accessories; knitted or crocheted,N/A,,575.0
+X,566,NGA,699,IND,72,Iron and steel,N/A,,5416.0
+X,566,NGA,699,IND,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,,204.0
+X,566,NGA,699,IND,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,,2697.0
+X,566,NGA,702,SGP,40,Rubber and articles thereof,N/A,,166903.0
+X,566,NGA,702,SGP,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",N/A,,1101.0
+X,566,NGA,702,SGP,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,,1794071.0
+X,566,NGA,710,ZAF,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,,268443.0
+X,566,NGA,710,ZAF,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,,737828.0
+X,566,NGA,710,ZAF,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,587815825.0
+X,566,NGA,710,ZAF,40,Rubber and articles thereof,N/A,,741361.0
+X,566,NGA,710,ZAF,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,,6109.0
+X,566,NGA,710,ZAF,61,Apparel and clothing accessories; knitted or crocheted,N/A,,2423.0
+X,566,NGA,710,ZAF,73,Iron or steel articles,N/A,,35425.0
+X,566,NGA,710,ZAF,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,,172391.0
+X,566,NGA,710,ZAF,89,"Ships, boats and floating structures",N/A,,57.0
+X,566,NGA,724,ESP,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,1483728285.0
+X,566,NGA,724,ESP,40,Rubber and articles thereof,N/A,,133125.0
+X,566,NGA,724,ESP,41,Raw hides and skins (other than furskins) and leather,N/A,,303808.0
+X,566,NGA,736,SDN,39,Plastics and articles thereof,N/A,,61042.0
+X,566,NGA,736,SDN,64,Footwear; gaiters and the like; parts of such articles,N/A,,843809.0
+X,566,NGA,740,SUR,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,,38440.0
+X,566,NGA,748,SWZ,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,,1630.0
+X,566,NGA,757,CHE,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,27284260.0
+X,566,NGA,757,CHE,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,,1927.0
+X,566,NGA,757,CHE,89,"Ships, boats and floating structures",N/A,,47430.0
+X,566,NGA,757,CHE,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,,237.0
+X,566,NGA,764,THA,72,Iron and steel,N/A,,66821.0
+X,566,NGA,768,TGO,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",N/A,,33069.0
+X,566,NGA,768,TGO,10,Cereals,N/A,,465206.0
+X,566,NGA,768,TGO,18,Cocoa and cocoa preparations,N/A,,60439.0
+X,566,NGA,768,TGO,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",N/A,,2855982.0
+X,566,NGA,768,TGO,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",N/A,,67843.0
+X,566,NGA,768,TGO,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, 'dental waxes' and dental preparations with a basis of plaster",N/A,,53791.0
+X,566,NGA,899,_X ,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,242763799.0
+X,566,NGA,768,TGO,39,Plastics and articles thereof,N/A,,193796.0
+X,566,NGA,768,TGO,52,Cotton,N/A,,232113.0
+X,566,NGA,768,TGO,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,,36612.0
+X,566,NGA,776,TON,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,,4632.0
+X,566,NGA,784,ARE,40,Rubber and articles thereof,N/A,,50207.0
+X,566,NGA,784,ARE,44,Wood and articles of wood; wood charcoal,N/A,,8549.0
+X,566,NGA,784,ARE,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,,901.0
+X,566,NGA,784,ARE,89,"Ships, boats and floating structures",N/A,,515164.0
+X,566,NGA,800,UGA,40,Rubber and articles thereof,N/A,,77965.0
+X,566,NGA,800,UGA,55,Man-made staple fibres,N/A,,149365.0
+X,566,NGA,826,GBR,08,"Fruit and nuts, edible; peel of citrus fruit or melons",N/A,,7028.0
+X,566,NGA,826,GBR,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,,50300.0
+X,566,NGA,826,GBR,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,,3547.0
+X,566,NGA,826,GBR,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,28673909.0
+X,566,NGA,826,GBR,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",N/A,,65334.0
+X,566,NGA,826,GBR,38,Chemical products n.e.s.,N/A,,3493911.0
+X,566,NGA,826,GBR,40,Rubber and articles thereof,N/A,,909981.0
+X,566,NGA,826,GBR,41,Raw hides and skins (other than furskins) and leather,N/A,,29146.0
+X,566,NGA,826,GBR,44,Wood and articles of wood; wood charcoal,N/A,,55249.0
+X,566,NGA,826,GBR,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,,25039.0
+X,566,NGA,826,GBR,73,Iron or steel articles,N/A,,1023786.0
+X,566,NGA,826,GBR,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",N/A,,244967.0
+X,566,NGA,826,GBR,83,Metal; miscellaneous products of base metal,N/A,,5410.0
+X,566,NGA,826,GBR,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,,466611.0
+X,566,NGA,826,GBR,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,,2261911.0
+X,566,NGA,490,S19,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,,28691.0
+X,566,NGA,490,S19,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,240512859.0
+X,566,NGA,490,S19,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",N/A,,64506.0
+X,566,NGA,826,GBR,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,,728.0
+X,566,NGA,826,GBR,88,"Aircraft, spacecraft and parts thereof",N/A,,4565.0
+X,566,NGA,826,GBR,89,"Ships, boats and floating structures",N/A,,57720471.0
+X,566,NGA,826,GBR,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.s.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,,1169119.0
+X,566,NGA,834,TZA,40,Rubber and articles thereof,N/A,,16435.0
+X,566,NGA,842,USA,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",N/A,,19307.0
+X,566,NGA,842,USA,08,"Fruit and nuts, edible; peel of citrus fruit or melons",N/A,,14207.0
+X,566,NGA,842,USA,09,"Coffee, tea, mate and spices",N/A,,2479.0
+X,566,NGA,842,USA,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",N/A,,94162.0
+X,566,NGA,842,USA,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,,6440.0
+X,566,NGA,842,USA,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,,380446.0
+X,566,NGA,842,USA,17,Sugars and sugar confectionery,N/A,,2401.0
+X,566,NGA,842,USA,22,"Beverages, spirits and vinegar",N/A,,8046.0
+X,566,NGA,842,USA,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,,13939.0
+X,566,NGA,842,USA,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,9001362733.0
+X,566,NGA,528,NLD,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,,232319.0
+X,566,NGA,528,NLD,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,,15067.0
+X,566,NGA,528,NLD,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,,53.0
+X,566,NGA,528,NLD,88,"Aircraft, spacecraft and parts thereof",N/A,,32365.0
+X,566,NGA,528,NLD,89,"Ships, boats and floating structures",N/A,,5960710.0
+X,566,NGA,528,NLD,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,,89499.0
+X,566,NGA,540,NCL,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,28777838.0
+X,566,NGA,842,USA,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",N/A,,29618.0
+X,566,NGA,842,USA,29,Organic chemicals,N/A,,52150.0
+X,566,NGA,562,NER,39,Plastics and articles thereof,N/A,,302381.0
+X,566,NGA,842,USA,38,Chemical products n.e.s.,N/A,,182867.0
+X,566,NGA,842,USA,40,Rubber and articles thereof,N/A,,3996294.0
+X,566,NGA,842,USA,41,Raw hides and skins (other than furskins) and leather,N/A,,17006.0
+X,566,NGA,842,USA,52,Cotton,N/A,,134268.0
+X,566,NGA,842,USA,62,Apparel and clothing accessories; not knitted or crocheted,N/A,,2523.0
+X,566,NGA,842,USA,73,Iron or steel articles,N/A,,101702.0
+X,566,NGA,842,USA,74,Copper and articles thereof,N/A,,11141.0
+X,566,NGA,842,USA,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",N/A,,151832.0
+X,566,NGA,842,USA,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,,57480968.0
+X,566,NGA,842,USA,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,,220508.0
+X,566,NGA,842,USA,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",N/A,,118950.0
+X,566,NGA,842,USA,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,,715338.0
+X,566,NGA,842,USA,88,"Aircraft, spacecraft and parts thereof",N/A,,62688.0
+X,566,NGA,842,USA,89,"Ships, boats and floating structures",N/A,,140723655.0
+X,566,NGA,842,USA,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,,4890139.0
+X,566,NGA,842,USA,91,Clocks and watches and parts thereof,N/A,,32972.0
+X,566,NGA,842,USA,92,Musical instruments; parts and accessories of such articles,N/A,,6276.0
+X,566,NGA,854,BFA,39,Plastics and articles thereof,N/A,,32815.0
+X,566,NGA,854,BFA,64,Footwear; gaiters and the like; parts of such articles,N/A,,67130.0
+X,566,NGA,858,URY,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,,25883540.0
+X,566,NGA,899,_X ,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",N/A,,14382.0
+X,566,NGA,899,_X ,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",N/A,,16926.0
+X,566,NGA,899,_X ,99,Commodities not specified according to kind,N/A,,1.0
+X,566,NGA,842,USA,37,Photographic or cinematographic goods,N/A,,197.0

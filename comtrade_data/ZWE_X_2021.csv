@@ -1,0 +1,875 @@
+flowCode,reporterCode,reporterISO,partnerCode,partnerISO,cmdCode,cmdDesc,qtyUnitAbbr,qty,fobvalue
+X,716,ZWE,0,W00,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",N/A,0.0,688884.89
+X,716,ZWE,0,W00,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",N/A,0.0,3271493.62
+X,716,ZWE,0,W00,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",N/A,0.0,4566334.48
+X,716,ZWE,0,W00,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,N/A,0.0,900.0
+X,716,ZWE,0,W00,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,0.0,1020703.08
+X,716,ZWE,0,W00,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",N/A,0.0,5235.39
+X,716,ZWE,0,W00,17,Sugars and sugar confectionery,N/A,0.0,17141209.31
+X,716,ZWE,0,W00,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",N/A,0.0,9004149.99
+X,716,ZWE,0,W00,21,Miscellaneous edible preparations,N/A,0.0,1627933.13
+X,716,ZWE,0,W00,23,"Food industries, residues and wastes thereof; prepared animal fodder",N/A,0.0,7804871.14
+X,716,ZWE,0,W00,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,836533685.22
+X,716,ZWE,0,W00,26,"Ores, slag and ash",N/A,0.0,1093884297.11
+X,716,ZWE,0,W00,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",N/A,0.0,1632111.87
+X,716,ZWE,0,W00,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",N/A,0.0,1593310.67
+X,716,ZWE,0,W00,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",N/A,0.0,1959499.02
+X,716,ZWE,0,W00,38,Chemical products n.e.c.,N/A,0.0,1427544.83
+X,716,ZWE,0,W00,39,Plastics and articles thereof,N/A,0.0,10824296.36
+X,716,ZWE,0,W00,40,Rubber and articles thereof,N/A,0.0,89087.49
+X,716,ZWE,0,W00,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,0.0,377796.1
+X,716,ZWE,0,W00,52,Cotton,N/A,0.0,86932834.11
+X,716,ZWE,0,W00,55,Man-made staple fibres,N/A,0.0,39811.17
+X,716,ZWE,0,W00,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",N/A,0.0,1715620.74
+X,716,ZWE,0,W00,57,Carpets and other textile floor coverings,N/A,0.0,1049.46
+X,716,ZWE,0,W00,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,9471688.0
+X,716,ZWE,0,W00,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",N/A,0.0,839716.19
+X,716,ZWE,0,W00,64,Footwear; gaiters and the like; parts of such articles,N/A,0.0,1456309.54
+X,716,ZWE,0,W00,65,Headgear and parts thereof,N/A,0.0,70244.83
+X,716,ZWE,0,W00,69,Ceramic products,N/A,0.0,14042646.68
+X,716,ZWE,0,W00,72,Iron and steel,N/A,0.0,309404845.64
+X,716,ZWE,0,W00,74,Copper and articles thereof,N/A,0.0,853327.54
+X,716,ZWE,0,W00,75,Nickel and articles thereof,N/A,0.0,1248598628.55
+X,716,ZWE,0,W00,76,Aluminium and articles thereof,N/A,0.0,3091480.2
+X,716,ZWE,0,W00,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,21356698.36
+X,716,ZWE,72,BWA,96,Miscellaneous manufactured articles,N/A,0.0,65.89
+X,716,ZWE,72,BWA,97,Works of art; collectors' pieces and antiques,N/A,0.0,159.07
+X,716,ZWE,72,BWA,99,Commodities not specified according to kind,N/A,0.0,15295.66
+X,716,ZWE,76,BRA,97,Works of art; collectors' pieces and antiques,N/A,0.0,18320.09
+X,716,ZWE,100,BGR,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,757100.38
+X,716,ZWE,100,BGR,97,Works of art; collectors' pieces and antiques,N/A,0.0,43593.07
+X,716,ZWE,112,BLR,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,2522560.51
+X,716,ZWE,116,KHM,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,489282.58
+X,716,ZWE,124,CAN,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,1453892.81
+X,716,ZWE,124,CAN,26,"Ores, slag and ash",N/A,0.0,8.08
+X,716,ZWE,124,CAN,97,Works of art; collectors' pieces and antiques,N/A,0.0,6147.88
+X,716,ZWE,144,LKA,39,Plastics and articles thereof,N/A,0.0,39293.32
+X,716,ZWE,144,LKA,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,49242.01
+X,716,ZWE,156,CHN,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,0.0,29203.77
+X,716,ZWE,156,CHN,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,255823925.79
+X,716,ZWE,156,CHN,26,"Ores, slag and ash",N/A,0.0,6309.65
+X,716,ZWE,156,CHN,72,Iron and steel,N/A,0.0,56.22
+X,716,ZWE,156,CHN,76,Aluminium and articles thereof,N/A,0.0,56.98
+X,716,ZWE,156,CHN,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,5979.26
+X,716,ZWE,156,CHN,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,84.03
+X,716,ZWE,178,COG,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,81793.0
+X,716,ZWE,178,COG,39,Plastics and articles thereof,N/A,0.0,54.47
+X,716,ZWE,178,COG,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,8551.68
+X,716,ZWE,178,COG,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,23803.95
+X,716,ZWE,180,COD,17,Sugars and sugar confectionery,N/A,0.0,26.6
+X,716,ZWE,180,COD,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",N/A,0.0,11.12
+X,716,ZWE,191,HRV,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,713664.35
+X,716,ZWE,196,CYP,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,49.53
+X,716,ZWE,208,DNK,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,237.29
+X,716,ZWE,231,ETH,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",N/A,0.0,71.09
+X,716,ZWE,231,ETH,21,Miscellaneous edible preparations,N/A,0.0,2039.99
+X,716,ZWE,231,ETH,38,Chemical products n.e.c.,N/A,0.0,4.97
+X,716,ZWE,231,ETH,39,Plastics and articles thereof,N/A,0.0,2997.78
+X,716,ZWE,231,ETH,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,11473.67
+X,716,ZWE,231,ETH,65,Headgear and parts thereof,N/A,0.0,9118.58
+X,716,ZWE,231,ETH,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,1498.03
+X,716,ZWE,251,FRA,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",N/A,0.0,2.14
+X,716,ZWE,251,FRA,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,0.0,12943.4
+X,716,ZWE,251,FRA,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,10885051.64
+X,716,ZWE,251,FRA,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,0.0,521.35
+X,716,ZWE,251,FRA,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,4236.64
+X,716,ZWE,251,FRA,97,Works of art; collectors' pieces and antiques,N/A,0.0,17676.16
+X,716,ZWE,276,DEU,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,0.0,3698.84
+X,716,ZWE,276,DEU,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,4414090.79
+X,716,ZWE,276,DEU,26,"Ores, slag and ash",N/A,0.0,159787.01
+X,716,ZWE,276,DEU,39,Plastics and articles thereof,N/A,0.0,3333.97
+X,716,ZWE,276,DEU,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,1941071.88
+X,716,ZWE,276,DEU,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,1495.56
+X,716,ZWE,276,DEU,97,Works of art; collectors' pieces and antiques,N/A,0.0,110869.45
+X,716,ZWE,288,GHA,97,Works of art; collectors' pieces and antiques,N/A,0.0,5138.07
+X,716,ZWE,300,GRC,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,1156341.45
+X,716,ZWE,344,HKG,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,2694763.17
+X,716,ZWE,348,HUN,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,89998.65
+X,716,ZWE,348,HUN,97,Works of art; collectors' pieces and antiques,N/A,0.0,33912.5
+X,716,ZWE,360,IDN,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,10106385.11
+X,716,ZWE,368,IRQ,39,Plastics and articles thereof,N/A,0.0,4849.03
+X,716,ZWE,368,IRQ,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,16681.05
+X,716,ZWE,368,IRQ,65,Headgear and parts thereof,N/A,0.0,1489.04
+X,716,ZWE,372,IRL,23,"Food industries, residues and wastes thereof; prepared animal fodder",N/A,0.0,2.5
+X,716,ZWE,372,IRL,38,Chemical products n.e.c.,N/A,0.0,2.44
+X,716,ZWE,376,ISR,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,974852.6
+X,716,ZWE,376,ISR,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,5.0
+X,716,ZWE,376,ISR,69,Ceramic products,N/A,0.0,40.02
+X,716,ZWE,376,ISR,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,2497.57
+X,716,ZWE,380,ITA,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,57726.87
+X,716,ZWE,380,ITA,39,Plastics and articles thereof,N/A,0.0,15.99
+X,716,ZWE,380,ITA,76,Aluminium and articles thereof,N/A,0.0,202.17
+X,716,ZWE,380,ITA,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,467622.85
+X,716,ZWE,380,ITA,97,Works of art; collectors' pieces and antiques,N/A,0.0,25846.31
+X,716,ZWE,384,CIV,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,16023.94
+X,716,ZWE,392,JPN,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,0.0,6038.39
+X,716,ZWE,392,JPN,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,22.96
+X,716,ZWE,392,JPN,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,0.0,20.02
+X,716,ZWE,392,JPN,69,Ceramic products,N/A,0.0,7397.68
+X,716,ZWE,400,JOR,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,4480400.81
+X,716,ZWE,404,KEN,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,4761635.89
+X,716,ZWE,404,KEN,26,"Ores, slag and ash",N/A,0.0,20.06
+X,716,ZWE,404,KEN,38,Chemical products n.e.c.,N/A,0.0,7.98
+X,716,ZWE,404,KEN,39,Plastics and articles thereof,N/A,0.0,104287.06
+X,716,ZWE,404,KEN,52,Cotton,N/A,0.0,59.5
+X,716,ZWE,404,KEN,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,4585.39
+X,716,ZWE,404,KEN,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",N/A,0.0,135.73
+X,716,ZWE,404,KEN,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,19856.18
+X,716,ZWE,404,KEN,97,Works of art; collectors' pieces and antiques,N/A,0.0,13701.48
+X,716,ZWE,408,PRK,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,4301.42
+X,716,ZWE,410,KOR,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,0.0,9077.31
+X,716,ZWE,410,KOR,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,1533485.42
+X,716,ZWE,422,LBN,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,28827.39
+X,716,ZWE,422,LBN,65,Headgear and parts thereof,N/A,0.0,1076.54
+X,716,ZWE,440,LTU,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,4460638.43
+X,716,ZWE,454,MWI,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",N/A,0.0,51419.3
+X,716,ZWE,454,MWI,17,Sugars and sugar confectionery,N/A,0.0,10280.22
+X,716,ZWE,454,MWI,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",N/A,0.0,469434.93
+X,716,ZWE,454,MWI,21,Miscellaneous edible preparations,N/A,0.0,20858.78
+X,716,ZWE,454,MWI,23,"Food industries, residues and wastes thereof; prepared animal fodder",N/A,0.0,255542.7
+X,716,ZWE,454,MWI,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,203104.19
+X,716,ZWE,454,MWI,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",N/A,0.0,12483.21
+X,716,ZWE,454,MWI,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",N/A,0.0,1604.32
+X,716,ZWE,454,MWI,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",N/A,0.0,4512.99
+X,716,ZWE,454,MWI,38,Chemical products n.e.c.,N/A,0.0,221710.82
+X,716,ZWE,454,MWI,39,Plastics and articles thereof,N/A,0.0,45971.71
+X,716,ZWE,454,MWI,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,0.0,350.23
+X,716,ZWE,454,MWI,55,Man-made staple fibres,N/A,0.0,5129.99
+X,716,ZWE,454,MWI,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",N/A,0.0,172437.65
+X,716,ZWE,454,MWI,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,17307.97
+X,716,ZWE,454,MWI,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",N/A,0.0,6006.49
+X,716,ZWE,454,MWI,64,Footwear; gaiters and the like; parts of such articles,N/A,0.0,343298.29
+X,716,ZWE,454,MWI,72,Iron and steel,N/A,0.0,508195.48
+X,716,ZWE,454,MWI,76,Aluminium and articles thereof,N/A,0.0,2281.55
+X,716,ZWE,454,MWI,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,455811.5
+X,716,ZWE,454,MWI,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,243274.37
+X,716,ZWE,454,MWI,96,Miscellaneous manufactured articles,N/A,0.0,1392.49
+X,716,ZWE,454,MWI,99,Commodities not specified according to kind,N/A,0.0,26819.33
+X,716,ZWE,458,MYS,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,596.77
+X,716,ZWE,480,MUS,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,1527.26
+X,716,ZWE,480,MUS,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,3898.63
+X,716,ZWE,480,MUS,97,Works of art; collectors' pieces and antiques,N/A,0.0,14461.22
+X,716,ZWE,490,S19,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,2316128.99
+X,716,ZWE,498,MDA,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,126896.97
+X,716,ZWE,508,MOZ,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",N/A,0.0,1376797.75
+X,716,ZWE,508,MOZ,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,N/A,0.0,900.0
+X,716,ZWE,508,MOZ,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,0.0,4620.07
+X,716,ZWE,508,MOZ,17,Sugars and sugar confectionery,N/A,0.0,7832175.91
+X,716,ZWE,508,MOZ,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",N/A,0.0,767748.18
+X,716,ZWE,508,MOZ,21,Miscellaneous edible preparations,N/A,0.0,74406.24
+X,716,ZWE,508,MOZ,23,"Food industries, residues and wastes thereof; prepared animal fodder",N/A,0.0,1424587.1
+X,716,ZWE,508,MOZ,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,75794534.39
+X,716,ZWE,508,MOZ,26,"Ores, slag and ash",N/A,0.0,84822255.65
+X,716,ZWE,508,MOZ,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",N/A,0.0,1060990.05
+X,716,ZWE,508,MOZ,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",N/A,0.0,86396.77
+X,716,ZWE,508,MOZ,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",N/A,0.0,961332.61
+X,716,ZWE,508,MOZ,38,Chemical products n.e.c.,N/A,0.0,341130.07
+X,716,ZWE,508,MOZ,39,Plastics and articles thereof,N/A,0.0,918597.31
+X,716,ZWE,508,MOZ,40,Rubber and articles thereof,N/A,0.0,16211.97
+X,716,ZWE,508,MOZ,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,0.0,148.65
+X,716,ZWE,508,MOZ,55,Man-made staple fibres,N/A,0.0,2240.89
+X,716,ZWE,508,MOZ,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",N/A,0.0,716490.42
+X,716,ZWE,508,MOZ,57,Carpets and other textile floor coverings,N/A,0.0,421.41
+X,716,ZWE,508,MOZ,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,53486.49
+X,716,ZWE,508,MOZ,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",N/A,0.0,210871.74
+X,716,ZWE,508,MOZ,64,Footwear; gaiters and the like; parts of such articles,N/A,0.0,233840.93
+X,716,ZWE,508,MOZ,65,Headgear and parts thereof,N/A,0.0,305.05
+X,716,ZWE,508,MOZ,69,Ceramic products,N/A,0.0,3787864.09
+X,716,ZWE,508,MOZ,72,Iron and steel,N/A,0.0,252248171.78
+X,716,ZWE,508,MOZ,74,Copper and articles thereof,N/A,0.0,93731.9
+X,716,ZWE,508,MOZ,76,Aluminium and articles thereof,N/A,0.0,25990.66
+X,716,ZWE,508,MOZ,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,5083013.76
+X,716,ZWE,508,MOZ,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,536182.16
+X,716,ZWE,508,MOZ,91,Clocks and watches and parts thereof,N/A,0.0,9.98
+X,716,ZWE,508,MOZ,96,Miscellaneous manufactured articles,N/A,0.0,57963.6
+X,716,ZWE,508,MOZ,97,Works of art; collectors' pieces and antiques,N/A,0.0,84862.84
+X,716,ZWE,508,MOZ,99,Commodities not specified according to kind,N/A,0.0,51703.44
+X,716,ZWE,516,NAM,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",N/A,0.0,23835.57
+X,716,ZWE,516,NAM,17,Sugars and sugar confectionery,N/A,0.0,1228.44
+X,716,ZWE,516,NAM,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",N/A,0.0,69308.24
+X,716,ZWE,516,NAM,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",N/A,0.0,39058.04
+X,716,ZWE,516,NAM,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,5032.8
+X,716,ZWE,516,NAM,97,Works of art; collectors' pieces and antiques,N/A,0.0,65415.31
+X,716,ZWE,516,NAM,99,Commodities not specified according to kind,N/A,0.0,67795.4
+X,716,ZWE,528,NLD,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",N/A,0.0,301.03
+X,716,ZWE,528,NLD,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,2374390.12
+X,716,ZWE,528,NLD,26,"Ores, slag and ash",N/A,0.0,29.83
+X,716,ZWE,528,NLD,38,Chemical products n.e.c.,N/A,0.0,5.44
+X,716,ZWE,528,NLD,39,Plastics and articles thereof,N/A,0.0,46.36
+X,716,ZWE,528,NLD,57,Carpets and other textile floor coverings,N/A,0.0,18.14
+X,716,ZWE,528,NLD,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",N/A,0.0,46.37
+X,716,ZWE,528,NLD,69,Ceramic products,N/A,0.0,30.24
+X,716,ZWE,528,NLD,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,147378.47
+X,716,ZWE,528,NLD,97,Works of art; collectors' pieces and antiques,N/A,0.0,1575.35
+X,716,ZWE,528,NLD,99,Commodities not specified according to kind,N/A,0.0,308.48
+X,716,ZWE,531,CUW,97,Works of art; collectors' pieces and antiques,N/A,0.0,963.44
+X,716,ZWE,554,NZL,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,6017.18
+X,716,ZWE,554,NZL,97,Works of art; collectors' pieces and antiques,N/A,0.0,859.66
+X,716,ZWE,566,NGA,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,4284718.17
+X,716,ZWE,566,NGA,99,Commodities not specified according to kind,N/A,0.0,5962.75
+X,716,ZWE,579,NOR,39,Plastics and articles thereof,N/A,0.0,38279.05
+X,716,ZWE,600,PRY,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,0.1
+X,716,ZWE,608,PHL,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,1042521.51
+X,716,ZWE,616,POL,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,0.0,2273.64
+X,716,ZWE,616,POL,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",N/A,0.0,1293.57
+X,716,ZWE,616,POL,97,Works of art; collectors' pieces and antiques,N/A,0.0,1649.35
+X,716,ZWE,620,PRT,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,238707.45
+X,716,ZWE,642,ROU,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,3132488.32
+X,716,ZWE,642,ROU,97,Works of art; collectors' pieces and antiques,N/A,0.0,33283.93
+X,716,ZWE,643,RUS,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,0.0,13949.13
+X,716,ZWE,643,RUS,21,Miscellaneous edible preparations,N/A,0.0,6422.17
+X,716,ZWE,643,RUS,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,5559291.75
+X,716,ZWE,643,RUS,97,Works of art; collectors' pieces and antiques,N/A,0.0,61681.49
+X,716,ZWE,682,SAU,21,Miscellaneous edible preparations,N/A,0.0,565.7
+X,716,ZWE,690,SYC,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,48369.02
+X,716,ZWE,694,SLE,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,0.0,29662.1
+X,716,ZWE,699,IND,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,4515022.44
+X,716,ZWE,699,IND,39,Plastics and articles thereof,N/A,0.0,157.97
+X,716,ZWE,699,IND,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,9.62
+X,716,ZWE,699,IND,99,Commodities not specified according to kind,N/A,0.0,3320.24
+X,716,ZWE,702,SGP,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,1546087.09
+X,716,ZWE,703,SVK,97,Works of art; collectors' pieces and antiques,N/A,0.0,12499.32
+X,716,ZWE,704,VNM,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,10855954.56
+X,716,ZWE,706,SOM,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,2358.52
+X,716,ZWE,710,ZAF,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",N/A,0.0,47249.53
+X,716,ZWE,710,ZAF,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",N/A,0.0,148568.64
+X,716,ZWE,710,ZAF,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",N/A,0.0,374395.14
+X,716,ZWE,710,ZAF,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,0.0,207285.96
+X,716,ZWE,710,ZAF,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",N/A,0.0,4795.44
+X,716,ZWE,710,ZAF,17,Sugars and sugar confectionery,N/A,0.0,800695.45
+X,716,ZWE,710,ZAF,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",N/A,0.0,4614790.61
+X,716,ZWE,710,ZAF,21,Miscellaneous edible preparations,N/A,0.0,604974.03
+X,716,ZWE,710,ZAF,23,"Food industries, residues and wastes thereof; prepared animal fodder",N/A,0.0,5806056.94
+X,716,ZWE,710,ZAF,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,257300263.79
+X,716,ZWE,710,ZAF,26,"Ores, slag and ash",N/A,0.0,929788152.62
+X,716,ZWE,710,ZAF,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",N/A,0.0,233007.55
+X,716,ZWE,710,ZAF,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",N/A,0.0,655082.42
+X,716,ZWE,710,ZAF,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",N/A,0.0,24072.46
+X,716,ZWE,710,ZAF,38,Chemical products n.e.c.,N/A,0.0,236480.8
+X,716,ZWE,710,ZAF,39,Plastics and articles thereof,N/A,0.0,814919.53
+X,716,ZWE,710,ZAF,40,Rubber and articles thereof,N/A,0.0,61862.32
+X,716,ZWE,710,ZAF,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,0.0,134312.13
+X,716,ZWE,710,ZAF,52,Cotton,N/A,0.0,85442203.59
+X,716,ZWE,710,ZAF,55,Man-made staple fibres,N/A,0.0,20.0
+X,716,ZWE,710,ZAF,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",N/A,0.0,192302.74
+X,716,ZWE,710,ZAF,57,Carpets and other textile floor coverings,N/A,0.0,32.05
+X,716,ZWE,710,ZAF,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,5792439.82
+X,716,ZWE,710,ZAF,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",N/A,0.0,376865.99
+X,716,ZWE,710,ZAF,64,Footwear; gaiters and the like; parts of such articles,N/A,0.0,319300.78
+X,716,ZWE,710,ZAF,65,Headgear and parts thereof,N/A,0.0,8236.73
+X,716,ZWE,710,ZAF,69,Ceramic products,N/A,0.0,6453889.26
+X,716,ZWE,710,ZAF,72,Iron and steel,N/A,0.0,55051818.81
+X,716,ZWE,710,ZAF,74,Copper and articles thereof,N/A,0.0,699025.32
+X,716,ZWE,710,ZAF,75,Nickel and articles thereof,N/A,0.0,1248598628.55
+X,716,ZWE,710,ZAF,76,Aluminium and articles thereof,N/A,0.0,3004692.5
+X,716,ZWE,710,ZAF,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,8501861.19
+X,716,ZWE,710,ZAF,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",N/A,0.0,2135226.37
+X,716,ZWE,710,ZAF,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,626675.31
+X,716,ZWE,710,ZAF,91,Clocks and watches and parts thereof,N/A,0.0,519.04
+X,716,ZWE,710,ZAF,96,Miscellaneous manufactured articles,N/A,0.0,36615.07
+X,716,ZWE,710,ZAF,97,Works of art; collectors' pieces and antiques,N/A,0.0,5480317.77
+X,716,ZWE,710,ZAF,99,Commodities not specified according to kind,N/A,0.0,285946.35
+X,716,ZWE,724,ESP,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,0.0,2701.12
+X,716,ZWE,724,ESP,97,Works of art; collectors' pieces and antiques,N/A,0.0,169246.12
+X,716,ZWE,729,SDN,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,5694905.93
+X,716,ZWE,729,SDN,39,Plastics and articles thereof,N/A,0.0,4404.48
+X,716,ZWE,729,SDN,40,Rubber and articles thereof,N/A,0.0,34.12
+X,716,ZWE,729,SDN,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,22466.04
+X,716,ZWE,729,SDN,65,Headgear and parts thereof,N/A,0.0,2847.39
+X,716,ZWE,729,SDN,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,4438.3
+X,716,ZWE,748,SWZ,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",N/A,0.0,9.98
+X,716,ZWE,752,SWE,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,67.14
+X,716,ZWE,752,SWE,97,Works of art; collectors' pieces and antiques,N/A,0.0,601.81
+X,716,ZWE,757,CHE,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,5587189.21
+X,716,ZWE,757,CHE,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",N/A,0.0,20732.51
+X,716,ZWE,757,CHE,97,Works of art; collectors' pieces and antiques,N/A,0.0,238.47
+X,716,ZWE,762,TJK,39,Plastics and articles thereof,N/A,0.0,6445.91
+X,716,ZWE,780,TTO,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,172930.71
+X,716,ZWE,784,ARE,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,0.0,61.1
+X,716,ZWE,784,ARE,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,16058106.62
+X,716,ZWE,784,ARE,26,"Ores, slag and ash",N/A,0.0,20.0
+X,716,ZWE,784,ARE,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",N/A,0.0,13751.98
+X,716,ZWE,784,ARE,39,Plastics and articles thereof,N/A,0.0,1724.25
+X,716,ZWE,784,ARE,64,Footwear; gaiters and the like; parts of such articles,N/A,0.0,305.5
+X,716,ZWE,784,ARE,65,Headgear and parts thereof,N/A,0.0,17836.6
+X,716,ZWE,784,ARE,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,100.81
+X,716,ZWE,784,ARE,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,347.48
+X,716,ZWE,788,TUN,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,21787.7
+X,716,ZWE,792,TUR,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",N/A,0.0,124.2
+X,716,ZWE,792,TUR,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,7555712.39
+X,716,ZWE,792,TUR,39,Plastics and articles thereof,N/A,0.0,60719.14
+X,716,ZWE,800,UGA,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,74.47
+X,716,ZWE,800,UGA,64,Footwear; gaiters and the like; parts of such articles,N/A,0.0,48610.22
+X,716,ZWE,800,UGA,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,3006.0
+X,716,ZWE,800,UGA,99,Commodities not specified according to kind,N/A,0.0,2444.01
+X,716,ZWE,804,UKR,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,15841181.98
+X,716,ZWE,804,UKR,39,Plastics and articles thereof,N/A,0.0,24253.32
+X,716,ZWE,804,UKR,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,88820.24
+X,716,ZWE,818,EGY,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,6933325.26
+X,716,ZWE,818,EGY,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",N/A,0.0,1664.0
+X,716,ZWE,826,GBR,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",N/A,0.0,20.0
+X,716,ZWE,826,GBR,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,0.0,41062.25
+X,716,ZWE,826,GBR,17,Sugars and sugar confectionery,N/A,0.0,12.42
+X,716,ZWE,826,GBR,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",N/A,0.0,327.63
+X,716,ZWE,826,GBR,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,65085.75
+X,716,ZWE,826,GBR,26,"Ores, slag and ash",N/A,0.0,160.71
+X,716,ZWE,826,GBR,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",N/A,0.0,18.33
+X,716,ZWE,826,GBR,39,Plastics and articles thereof,N/A,0.0,448.49
+X,716,ZWE,826,GBR,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,0.0,183036.32
+X,716,ZWE,826,GBR,74,Copper and articles thereof,N/A,0.0,6240.71
+X,716,ZWE,826,GBR,97,Works of art; collectors' pieces and antiques,N/A,0.0,549426.75
+X,716,ZWE,826,GBR,99,Commodities not specified according to kind,N/A,0.0,926.79
+X,716,ZWE,834,TZA,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",N/A,0.0,3815420.5
+X,716,ZWE,834,TZA,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,3677846.04
+X,716,ZWE,834,TZA,38,Chemical products n.e.c.,N/A,0.0,61016.67
+X,716,ZWE,834,TZA,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",N/A,0.0,34905.94
+X,716,ZWE,834,TZA,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,29.98
+X,716,ZWE,834,TZA,65,Headgear and parts thereof,N/A,0.0,12.49
+X,716,ZWE,834,TZA,69,Ceramic products,N/A,0.0,3047.76
+X,716,ZWE,834,TZA,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,39306.43
+X,716,ZWE,834,TZA,99,Commodities not specified according to kind,N/A,0.0,28370.0
+X,716,ZWE,842,USA,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,0.0,47184.35
+X,716,ZWE,842,USA,21,Miscellaneous edible preparations,N/A,0.0,2.0
+X,716,ZWE,842,USA,23,"Food industries, residues and wastes thereof; prepared animal fodder",N/A,0.0,10.56
+X,716,ZWE,842,USA,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,8090917.16
+X,716,ZWE,842,USA,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",N/A,0.0,4938.08
+X,716,ZWE,842,USA,74,Copper and articles thereof,N/A,0.0,9355.31
+X,716,ZWE,842,USA,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,7550.42
+X,716,ZWE,842,USA,97,Works of art; collectors' pieces and antiques,N/A,0.0,905578.18
+X,716,ZWE,860,UZB,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,13593.02
+X,716,ZWE,887,YEM,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,3839429.74
+X,716,ZWE,894,ZMB,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",N/A,0.0,584760.92
+X,716,ZWE,894,ZMB,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",N/A,0.0,629231.69
+X,716,ZWE,894,ZMB,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",N/A,0.0,352683.27
+X,716,ZWE,894,ZMB,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,0.0,623817.84
+X,716,ZWE,894,ZMB,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",N/A,0.0,439.95
+X,716,ZWE,894,ZMB,17,Sugars and sugar confectionery,N/A,0.0,324085.56
+X,716,ZWE,894,ZMB,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",N/A,0.0,1860464.63
+X,716,ZWE,894,ZMB,21,Miscellaneous edible preparations,N/A,0.0,846358.91
+X,716,ZWE,894,ZMB,23,"Food industries, residues and wastes thereof; prepared animal fodder",N/A,0.0,37695.89
+X,716,ZWE,894,ZMB,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,3762352.33
+X,716,ZWE,899,_X ,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,2796141.08
+X,716,ZWE,899,_X ,26,"Ores, slag and ash",N/A,0.0,77897748.3
+X,716,ZWE,899,_X ,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",N/A,0.0,39364.76
+X,716,ZWE,899,_X ,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",N/A,0.0,423.85
+X,716,ZWE,899,_X ,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",N/A,0.0,92.92
+X,716,ZWE,899,_X ,38,Chemical products n.e.c.,N/A,0.0,54953.46
+X,716,ZWE,899,_X ,39,Plastics and articles thereof,N/A,0.0,49523.69
+X,716,ZWE,899,_X ,40,Rubber and articles thereof,N/A,0.0,826.78
+X,716,ZWE,899,_X ,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,0.0,166.27
+X,716,ZWE,899,_X ,52,Cotton,N/A,0.0,1194029.89
+X,716,ZWE,899,_X ,55,Man-made staple fibres,N/A,0.0,1649.01
+X,716,ZWE,899,_X ,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",N/A,0.0,160.16
+X,716,ZWE,899,_X ,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,1115232.71
+X,716,ZWE,899,_X ,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",N/A,0.0,14091.46
+X,716,ZWE,899,_X ,64,Footwear; gaiters and the like; parts of such articles,N/A,0.0,6199.26
+X,716,ZWE,899,_X ,65,Headgear and parts thereof,N/A,0.0,26534.73
+X,716,ZWE,899,_X ,69,Ceramic products,N/A,0.0,811.62
+X,716,ZWE,899,_X ,72,Iron and steel,N/A,0.0,165187.02
+X,716,ZWE,899,_X ,76,Aluminium and articles thereof,N/A,0.0,34239.92
+X,716,ZWE,899,_X ,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,663056.03
+X,716,ZWE,899,_X ,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",N/A,0.0,1999.14
+X,716,ZWE,899,_X ,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,335913.69
+X,716,ZWE,899,_X ,89,"Ships, boats and floating structures",N/A,0.0,24968.48
+X,716,ZWE,899,_X ,96,Miscellaneous manufactured articles,N/A,0.0,201.21
+X,716,ZWE,899,_X ,97,Works of art; collectors' pieces and antiques,N/A,0.0,205358.24
+X,716,ZWE,899,_X ,99,Commodities not specified according to kind,N/A,0.0,118508.58
+X,716,ZWE,826,GBR,20,"Preparations of vegetables, fruit, nuts or other parts of plants",N/A,0.0,304.45
+X,716,ZWE,826,GBR,30,Pharmaceutical products,N/A,0.0,40.09
+X,716,ZWE,826,GBR,60,Fabrics; knitted or crocheted,N/A,0.0,997.56
+X,716,ZWE,834,TZA,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,0.0,1.0
+X,716,ZWE,834,TZA,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,N/A,0.0,36913.47
+X,716,ZWE,842,USA,01,Animals; live,N/A,0.0,21395.04
+X,716,ZWE,842,USA,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,0.0,1033.16
+X,716,ZWE,842,USA,44,Wood and articles of wood; wood charcoal,N/A,0.0,96145.27
+X,716,ZWE,894,ZMB,01,Animals; live,N/A,0.0,46921.51
+X,716,ZWE,894,ZMB,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,0.0,425372.16
+X,716,ZWE,894,ZMB,20,"Preparations of vegetables, fruit, nuts or other parts of plants",N/A,0.0,1100901.89
+X,716,ZWE,894,ZMB,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,0.0,3152286.94
+X,716,ZWE,894,ZMB,30,Pharmaceutical products,N/A,0.0,119098.55
+X,716,ZWE,894,ZMB,35,Albuminoidal substances; modified starches; glues; enzymes,N/A,0.0,40842.11
+X,716,ZWE,894,ZMB,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,N/A,0.0,119631.52
+X,716,ZWE,894,ZMB,44,Wood and articles of wood; wood charcoal,N/A,0.0,4321245.36
+X,716,ZWE,894,ZMB,60,Fabrics; knitted or crocheted,N/A,0.0,361153.05
+X,716,ZWE,894,ZMB,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",N/A,0.0,344224.72
+X,716,ZWE,894,ZMB,70,Glass and glassware,N/A,0.0,12926.55
+X,716,ZWE,894,ZMB,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",N/A,0.0,29307.36
+X,716,ZWE,894,ZMB,83,Metal; miscellaneous products of base metal,N/A,0.0,15125.84
+X,716,ZWE,899,_X ,01,Animals; live,N/A,0.0,35599.13
+X,716,ZWE,899,_X ,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,0.0,39870.7
+X,716,ZWE,899,_X ,20,"Preparations of vegetables, fruit, nuts or other parts of plants",N/A,0.0,140538.72
+X,716,ZWE,899,_X ,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,0.0,7092.4
+X,716,ZWE,899,_X ,30,Pharmaceutical products,N/A,0.0,27.17
+X,716,ZWE,899,_X ,35,Albuminoidal substances; modified starches; glues; enzymes,N/A,0.0,302.6
+X,716,ZWE,899,_X ,44,Wood and articles of wood; wood charcoal,N/A,0.0,18212.31
+X,716,ZWE,899,_X ,60,Fabrics; knitted or crocheted,N/A,0.0,9.31
+X,716,ZWE,899,_X ,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",N/A,0.0,4279.69
+X,716,ZWE,899,_X ,70,Glass and glassware,N/A,0.0,13642.96
+X,716,ZWE,899,_X ,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",N/A,0.0,1125.37
+X,716,ZWE,899,_X ,83,Metal; miscellaneous products of base metal,N/A,0.0,1149.47
+X,716,ZWE,516,NAM,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,0.0,0.99
+X,716,ZWE,516,NAM,30,Pharmaceutical products,N/A,0.0,505601.38
+X,716,ZWE,528,NLD,44,Wood and articles of wood; wood charcoal,N/A,0.0,80.64
+X,716,ZWE,528,NLD,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",N/A,0.0,5.04
+X,716,ZWE,554,NZL,30,Pharmaceutical products,N/A,0.0,19.92
+X,716,ZWE,566,NGA,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,0.0,899.08
+X,716,ZWE,579,NOR,44,Wood and articles of wood; wood charcoal,N/A,0.0,9.99
+X,716,ZWE,579,NOR,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",N/A,0.0,2593.48
+X,716,ZWE,643,RUS,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,0.0,7557.81
+X,716,ZWE,646,RWA,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,0.0,23.02
+X,716,ZWE,699,IND,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,0.0,10.08
+X,716,ZWE,710,ZAF,01,Animals; live,N/A,0.0,10302.61
+X,716,ZWE,710,ZAF,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,0.0,1788847.4
+X,716,ZWE,710,ZAF,18,Cocoa and cocoa preparations,N/A,0.0,156.85
+X,716,ZWE,710,ZAF,20,"Preparations of vegetables, fruit, nuts or other parts of plants",N/A,0.0,4196635.75
+X,716,ZWE,710,ZAF,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,0.0,24204278.66
+X,716,ZWE,710,ZAF,30,Pharmaceutical products,N/A,0.0,802237.49
+X,716,ZWE,710,ZAF,35,Albuminoidal substances; modified starches; glues; enzymes,N/A,0.0,14138.43
+X,716,ZWE,710,ZAF,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,N/A,0.0,135996.75
+X,716,ZWE,710,ZAF,44,Wood and articles of wood; wood charcoal,N/A,0.0,2870433.25
+X,716,ZWE,710,ZAF,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,N/A,0.0,5195.98
+X,716,ZWE,710,ZAF,60,Fabrics; knitted or crocheted,N/A,0.0,92275.39
+X,716,ZWE,710,ZAF,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",N/A,0.0,155725.21
+X,716,ZWE,710,ZAF,70,Glass and glassware,N/A,0.0,110321.66
+X,716,ZWE,710,ZAF,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",N/A,0.0,132752.26
+X,716,ZWE,710,ZAF,83,Metal; miscellaneous products of base metal,N/A,0.0,40490.74
+X,716,ZWE,748,SWZ,30,Pharmaceutical products,N/A,0.0,5973.41
+X,716,ZWE,757,CHE,30,Pharmaceutical products,N/A,0.0,246.04
+X,716,ZWE,757,CHE,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,N/A,0.0,3449.37
+X,716,ZWE,784,ARE,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,0.0,4769.53
+X,716,ZWE,784,ARE,44,Wood and articles of wood; wood charcoal,N/A,0.0,27.31
+X,716,ZWE,784,ARE,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",N/A,0.0,11974.08
+X,716,ZWE,784,ARE,83,Metal; miscellaneous products of base metal,N/A,0.0,40.01
+X,716,ZWE,800,UGA,30,Pharmaceutical products,N/A,0.0,37860.63
+X,716,ZWE,800,UGA,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",N/A,0.0,4056.17
+X,716,ZWE,0,W00,01,Animals; live,N/A,0.0,1297139.78
+X,716,ZWE,56,BEL,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,0.0,0.01
+X,716,ZWE,72,BWA,01,Animals; live,N/A,0.0,236366.87
+X,716,ZWE,72,BWA,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,0.0,143673.46
+X,716,ZWE,72,BWA,18,Cocoa and cocoa preparations,N/A,0.0,109.82
+X,716,ZWE,72,BWA,20,"Preparations of vegetables, fruit, nuts or other parts of plants",N/A,0.0,654756.68
+X,716,ZWE,72,BWA,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,0.0,484293.39
+X,716,ZWE,72,BWA,30,Pharmaceutical products,N/A,0.0,1234294.39
+X,716,ZWE,72,BWA,44,Wood and articles of wood; wood charcoal,N/A,0.0,7325843.96
+X,716,ZWE,72,BWA,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",N/A,0.0,7754.03
+X,716,ZWE,72,BWA,70,Glass and glassware,N/A,0.0,175.64
+X,716,ZWE,72,BWA,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",N/A,0.0,2400.34
+X,716,ZWE,72,BWA,83,Metal; miscellaneous products of base metal,N/A,0.0,25339.97
+X,716,ZWE,156,CHN,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,0.0,1.0
+X,716,ZWE,156,CHN,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,0.0,9.99
+X,716,ZWE,178,COG,44,Wood and articles of wood; wood charcoal,N/A,0.0,79384.1
+X,716,ZWE,231,ETH,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,0.0,2991.1
+X,716,ZWE,231,ETH,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,0.0,5.39
+X,716,ZWE,251,FRA,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,0.0,7489.91
+X,716,ZWE,276,DEU,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,0.0,57135.62
+X,716,ZWE,276,DEU,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,0.0,44.15
+X,716,ZWE,276,DEU,30,Pharmaceutical products,N/A,0.0,29.92
+X,716,ZWE,380,ITA,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",N/A,0.0,2480.68
+X,716,ZWE,392,JPN,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,0.0,898.29
+X,716,ZWE,392,JPN,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",N/A,0.0,7910.98
+X,716,ZWE,404,KEN,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,0.0,7583.06
+X,716,ZWE,426,LSO,30,Pharmaceutical products,N/A,0.0,2614.66
+X,716,ZWE,454,MWI,01,Animals; live,N/A,0.0,85918.72
+X,716,ZWE,454,MWI,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,0.0,288900.86
+X,716,ZWE,454,MWI,20,"Preparations of vegetables, fruit, nuts or other parts of plants",N/A,0.0,76665.2
+X,716,ZWE,454,MWI,44,Wood and articles of wood; wood charcoal,N/A,0.0,30206.91
+X,716,ZWE,508,MOZ,01,Animals; live,N/A,0.0,860635.9
+X,716,ZWE,508,MOZ,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,0.0,2573530.76
+X,716,ZWE,508,MOZ,20,"Preparations of vegetables, fruit, nuts or other parts of plants",N/A,0.0,811778.54
+X,716,ZWE,508,MOZ,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,0.0,32622915.52
+X,716,ZWE,508,MOZ,30,Pharmaceutical products,N/A,0.0,8479.9
+X,716,ZWE,508,MOZ,35,Albuminoidal substances; modified starches; glues; enzymes,N/A,0.0,3907.55
+X,716,ZWE,508,MOZ,44,Wood and articles of wood; wood charcoal,N/A,0.0,2523074.22
+X,716,ZWE,508,MOZ,60,Fabrics; knitted or crocheted,N/A,0.0,26990.54
+X,716,ZWE,508,MOZ,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",N/A,0.0,4472834.96
+X,716,ZWE,508,MOZ,70,Glass and glassware,N/A,0.0,595.34
+X,716,ZWE,508,MOZ,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",N/A,0.0,5541.87
+X,716,ZWE,508,MOZ,83,Metal; miscellaneous products of base metal,N/A,0.0,117.11
+X,716,ZWE,0,W00,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",N/A,0.0,5349531.82
+X,716,ZWE,0,W00,18,Cocoa and cocoa preparations,N/A,0.0,266.67
+X,716,ZWE,0,W00,20,"Preparations of vegetables, fruit, nuts or other parts of plants",N/A,0.0,6981581.23
+X,716,ZWE,0,W00,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",N/A,0.0,60471983.62
+X,716,ZWE,0,W00,30,Pharmaceutical products,N/A,0.0,2716523.55
+X,716,ZWE,0,W00,35,Albuminoidal substances; modified starches; glues; enzymes,N/A,0.0,59190.69
+X,716,ZWE,0,W00,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,N/A,0.0,292541.74
+X,716,ZWE,0,W00,44,Wood and articles of wood; wood charcoal,N/A,0.0,17264663.32
+X,716,ZWE,0,W00,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,N/A,0.0,8645.35
+X,716,ZWE,0,W00,60,Fabrics; knitted or crocheted,N/A,0.0,481425.85
+X,716,ZWE,0,W00,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",N/A,0.0,5004703.67
+X,716,ZWE,0,W00,70,Glass and glassware,N/A,0.0,137662.15
+X,716,ZWE,0,W00,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",N/A,0.0,186862.67
+X,716,ZWE,0,W00,83,Metal; miscellaneous products of base metal,N/A,0.0,82263.14
+X,716,ZWE,31,AZE,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",N/A,0.0,6600.1
+X,716,ZWE,894,ZMB,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",N/A,0.0,73108.7
+X,716,ZWE,894,ZMB,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",N/A,0.0,5493072.3
+X,716,ZWE,894,ZMB,54,Man-made filaments; strip and the like of man-made textile materials,N/A,0.0,713.14
+X,716,ZWE,894,ZMB,92,Musical instruments; parts and accessories of such articles,N/A,0.0,1731.64
+X,716,ZWE,894,ZMB,95,"Toys, games and sports requisites; parts and accessories thereof",N/A,0.0,350.96
+X,716,ZWE,899,_X ,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,0.0,90745412.78
+X,716,ZWE,899,_X ,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",N/A,0.0,68447.23
+X,716,ZWE,899,_X ,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",N/A,0.0,5249.94
+X,716,ZWE,899,_X ,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",N/A,0.0,8576.1
+X,716,ZWE,899,_X ,54,Man-made filaments; strip and the like of man-made textile materials,N/A,0.0,8836.47
+X,716,ZWE,899,_X ,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",N/A,0.0,7105.22
+X,716,ZWE,899,_X ,88,"Aircraft, spacecraft and parts thereof",N/A,0.0,11405.47
+X,716,ZWE,586,PAK,10,Cereals,N/A,0.0,13.16
+X,716,ZWE,616,POL,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",N/A,0.0,0.001
+X,716,ZWE,616,POL,88,"Aircraft, spacecraft and parts thereof",N/A,0.0,56946.52
+X,716,ZWE,686,SEN,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",N/A,0.0,828.5
+X,716,ZWE,710,ZAF,10,Cereals,N/A,0.0,51457.93
+X,716,ZWE,710,ZAF,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,0.0,569686.23
+X,716,ZWE,710,ZAF,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",N/A,0.0,44558.51
+X,716,ZWE,710,ZAF,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",N/A,0.0,54873.05
+X,716,ZWE,710,ZAF,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",N/A,0.0,46174.09
+X,716,ZWE,710,ZAF,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",N/A,0.0,306391.63
+X,716,ZWE,710,ZAF,54,Man-made filaments; strip and the like of man-made textile materials,N/A,0.0,240373.73
+X,716,ZWE,710,ZAF,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",N/A,0.0,43434.12
+X,716,ZWE,710,ZAF,88,"Aircraft, spacecraft and parts thereof",N/A,0.0,53947.73
+X,716,ZWE,710,ZAF,95,"Toys, games and sports requisites; parts and accessories thereof",N/A,0.0,1464204.73
+X,716,ZWE,729,SDN,88,"Aircraft, spacecraft and parts thereof",N/A,0.0,319909.48
+X,716,ZWE,729,SDN,95,"Toys, games and sports requisites; parts and accessories thereof",N/A,0.0,411.69
+X,716,ZWE,784,ARE,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",N/A,0.0,162.93
+X,716,ZWE,784,ARE,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",N/A,0.0,13635.64
+X,716,ZWE,784,ARE,92,Musical instruments; parts and accessories of such articles,N/A,0.0,398.56
+X,716,ZWE,792,TUR,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",N/A,0.0,1.0
+X,716,ZWE,800,UGA,88,"Aircraft, spacecraft and parts thereof",N/A,0.0,272934.83
+X,716,ZWE,826,GBR,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",N/A,0.0,1183.78
+X,716,ZWE,842,USA,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",N/A,0.0,6919.77
+X,716,ZWE,842,USA,88,"Aircraft, spacecraft and parts thereof",N/A,0.0,33044.05
+X,716,ZWE,842,USA,95,"Toys, games and sports requisites; parts and accessories thereof",N/A,0.0,7223.47
+X,716,ZWE,894,ZMB,10,Cereals,N/A,0.0,1617668.72
+X,716,ZWE,894,ZMB,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,0.0,479.37
+X,716,ZWE,894,ZMB,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",N/A,0.0,297412.7
+X,716,ZWE,0,W00,95,"Toys, games and sports requisites; parts and accessories thereof",N/A,0.0,1474384.17
+X,716,ZWE,36,AUS,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",N/A,0.0,533.99
+X,716,ZWE,36,AUS,95,"Toys, games and sports requisites; parts and accessories thereof",N/A,0.0,425.61
+X,716,ZWE,72,BWA,10,Cereals,N/A,0.0,39141.26
+X,716,ZWE,72,BWA,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,0.0,8097.24
+X,716,ZWE,72,BWA,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",N/A,0.0,756.44
+X,716,ZWE,72,BWA,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",N/A,0.0,17151.34
+X,716,ZWE,72,BWA,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",N/A,0.0,0.02
+X,716,ZWE,124,CAN,88,"Aircraft, spacecraft and parts thereof",N/A,0.0,20854.53
+X,716,ZWE,156,CHN,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",N/A,0.0,21767.05
+X,716,ZWE,231,ETH,10,Cereals,N/A,0.0,809.67
+X,716,ZWE,251,FRA,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",N/A,0.0,1112.63
+X,716,ZWE,276,DEU,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",N/A,0.0,286.5
+X,716,ZWE,368,IRQ,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",N/A,0.0,574.24
+X,716,ZWE,404,KEN,10,Cereals,N/A,0.0,2183.99
+X,716,ZWE,410,KOR,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",N/A,0.0,1899.71
+X,716,ZWE,450,MDG,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",N/A,0.0,10.0
+X,716,ZWE,454,MWI,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",N/A,0.0,15690.12
+X,716,ZWE,466,MLI,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",N/A,0.0,1082.93
+X,716,ZWE,480,MUS,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",N/A,0.0,601.14
+X,716,ZWE,504,MAR,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",N/A,0.0,49.87
+X,716,ZWE,508,MOZ,10,Cereals,N/A,0.0,1264986.5
+X,716,ZWE,508,MOZ,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,0.0,580.9
+X,716,ZWE,508,MOZ,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",N/A,0.0,8536.47
+X,716,ZWE,508,MOZ,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",N/A,0.0,32393.3
+X,716,ZWE,508,MOZ,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",N/A,0.0,3437862.99
+X,716,ZWE,508,MOZ,92,Musical instruments; parts and accessories of such articles,N/A,0.0,571.28
+X,716,ZWE,508,MOZ,95,"Toys, games and sports requisites; parts and accessories thereof",N/A,0.0,1755.62
+X,716,ZWE,516,NAM,10,Cereals,N/A,0.0,52946.58
+X,716,ZWE,516,NAM,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,0.0,3051437.2
+X,716,ZWE,516,NAM,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",N/A,0.0,69.49
+X,716,ZWE,528,NLD,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",N/A,0.0,36.29
+X,716,ZWE,528,NLD,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",N/A,0.0,10.08
+X,716,ZWE,528,NLD,95,"Toys, games and sports requisites; parts and accessories thereof",N/A,0.0,12.09
+X,716,ZWE,0,W00,10,Cereals,N/A,0.0,3029207.81
+X,716,ZWE,0,W00,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",N/A,0.0,94375693.72
+X,716,ZWE,0,W00,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",N/A,0.0,418954.91
+X,716,ZWE,0,W00,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",N/A,0.0,167719.74
+X,716,ZWE,0,W00,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",N/A,0.0,95174.38
+X,716,ZWE,0,W00,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",N/A,0.0,9279110.471
+X,716,ZWE,0,W00,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",N/A,0.0,1.0
+X,716,ZWE,0,W00,54,Man-made filaments; strip and the like of man-made textile materials,N/A,0.0,249923.34
+X,716,ZWE,0,W00,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",N/A,0.0,50589.21
+X,716,ZWE,0,W00,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",N/A,0.0,10.1
+X,716,ZWE,0,W00,88,"Aircraft, spacecraft and parts thereof",N/A,0.0,769042.61
+X,716,ZWE,0,W00,92,Musical instruments; parts and accessories of such articles,N/A,0.0,2701.48
+X,716,ZWE,384,CIV,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,1515.85
+X,716,ZWE,392,JPN,41,Raw hides and skins (other than furskins) and leather,N/A,0.0,57099.95
+X,716,ZWE,454,MWI,22,"Beverages, spirits and vinegar",N/A,0.0,177709.69
+X,716,ZWE,454,MWI,61,Apparel and clothing accessories; knitted or crocheted,N/A,0.0,7425.51
+X,716,ZWE,454,MWI,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,317054.25
+X,716,ZWE,454,MWI,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,889.46
+X,716,ZWE,454,MWI,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,0.0,40858.19
+X,716,ZWE,484,MEX,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,0.0,9472.05
+X,716,ZWE,508,MOZ,07,Vegetables and certain roots and tubers; edible,N/A,0.0,84352.65
+X,716,ZWE,508,MOZ,22,"Beverages, spirits and vinegar",N/A,0.0,224793.48
+X,716,ZWE,508,MOZ,31,Fertilizers,N/A,0.0,70821.31
+X,716,ZWE,508,MOZ,41,Raw hides and skins (other than furskins) and leather,N/A,0.0,155113.82
+X,716,ZWE,508,MOZ,61,Apparel and clothing accessories; knitted or crocheted,N/A,0.0,717.9
+X,716,ZWE,508,MOZ,78,Lead and articles thereof,N/A,0.0,517149.83
+X,716,ZWE,508,MOZ,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,1015894.63
+X,716,ZWE,508,MOZ,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,12995.47
+X,716,ZWE,508,MOZ,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,0.0,230299.68
+X,716,ZWE,516,NAM,22,"Beverages, spirits and vinegar",N/A,0.0,1.4
+X,716,ZWE,516,NAM,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,52029.48
+X,716,ZWE,528,NLD,07,Vegetables and certain roots and tubers; edible,N/A,0.0,50037.44
+X,716,ZWE,528,NLD,41,Raw hides and skins (other than furskins) and leather,N/A,0.0,934306.96
+X,716,ZWE,528,NLD,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,10354.62
+X,716,ZWE,528,NLD,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,6175.27
+X,716,ZWE,528,NLD,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,0.0,86.69
+X,716,ZWE,616,POL,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,2505.0
+X,716,ZWE,620,PRT,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,19.99
+X,716,ZWE,643,RUS,07,Vegetables and certain roots and tubers; edible,N/A,0.0,329.63
+X,716,ZWE,643,RUS,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,75.6
+X,716,ZWE,699,IND,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,9.99
+X,716,ZWE,702,SGP,41,Raw hides and skins (other than furskins) and leather,N/A,0.0,1650752.16
+X,716,ZWE,710,ZAF,05,Animal originated products; not elsewhere specified or included,N/A,0.0,2.99
+X,716,ZWE,710,ZAF,07,Vegetables and certain roots and tubers; edible,N/A,0.0,165472.64
+X,716,ZWE,710,ZAF,22,"Beverages, spirits and vinegar",N/A,0.0,1415353.08
+X,716,ZWE,710,ZAF,31,Fertilizers,N/A,0.0,10333.14
+X,716,ZWE,710,ZAF,41,Raw hides and skins (other than furskins) and leather,N/A,0.0,27519571.76
+X,716,ZWE,710,ZAF,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,N/A,0.0,805990.42
+X,716,ZWE,710,ZAF,61,Apparel and clothing accessories; knitted or crocheted,N/A,0.0,724356.23
+X,716,ZWE,894,ZMB,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,0.0,2202509.62
+X,716,ZWE,899,_X ,07,Vegetables and certain roots and tubers; edible,N/A,0.0,4279586.81
+X,716,ZWE,899,_X ,22,"Beverages, spirits and vinegar",N/A,0.0,113049.39
+X,716,ZWE,899,_X ,41,Raw hides and skins (other than furskins) and leather,N/A,0.0,1995.71
+X,716,ZWE,899,_X ,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,N/A,0.0,5126.82
+X,716,ZWE,899,_X ,61,Apparel and clothing accessories; knitted or crocheted,N/A,0.0,37207.4
+X,716,ZWE,899,_X ,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,1024611.59
+X,716,ZWE,899,_X ,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,119602.33
+X,716,ZWE,899,_X ,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,0.0,493482.38
+X,716,ZWE,710,ZAF,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,5261672.43
+X,716,ZWE,710,ZAF,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,448894.09
+X,716,ZWE,710,ZAF,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,0.0,1330533.47
+X,716,ZWE,729,SDN,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,27497.72
+X,716,ZWE,748,SWZ,22,"Beverages, spirits and vinegar",N/A,0.0,73.94
+X,716,ZWE,784,ARE,22,"Beverages, spirits and vinegar",N/A,0.0,129061.77
+X,716,ZWE,784,ARE,61,Apparel and clothing accessories; knitted or crocheted,N/A,0.0,814.67
+X,716,ZWE,784,ARE,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,26129.34
+X,716,ZWE,784,ARE,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,2805.53
+X,716,ZWE,804,UKR,41,Raw hides and skins (other than furskins) and leather,N/A,0.0,110545.81
+X,716,ZWE,804,UKR,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,50.4
+X,716,ZWE,826,GBR,05,Animal originated products; not elsewhere specified or included,N/A,0.0,28134.53
+X,716,ZWE,826,GBR,61,Apparel and clothing accessories; knitted or crocheted,N/A,0.0,2851.74
+X,716,ZWE,826,GBR,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,520.3
+X,716,ZWE,826,GBR,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,0.0,1505.59
+X,716,ZWE,834,TZA,61,Apparel and clothing accessories; knitted or crocheted,N/A,0.0,59.97
+X,716,ZWE,834,TZA,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,4824.14
+X,716,ZWE,842,USA,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,5025.16
+X,716,ZWE,842,USA,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,999.64
+X,716,ZWE,894,ZMB,07,Vegetables and certain roots and tubers; edible,N/A,0.0,52505.49
+X,716,ZWE,894,ZMB,22,"Beverages, spirits and vinegar",N/A,0.0,65785.38
+X,716,ZWE,894,ZMB,31,Fertilizers,N/A,0.0,202098.03
+X,716,ZWE,894,ZMB,41,Raw hides and skins (other than furskins) and leather,N/A,0.0,4036.18
+X,716,ZWE,894,ZMB,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,N/A,0.0,121401.58
+X,716,ZWE,894,ZMB,61,Apparel and clothing accessories; knitted or crocheted,N/A,0.0,149810.73
+X,716,ZWE,894,ZMB,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,3149166.59
+X,716,ZWE,894,ZMB,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,12741.2
+X,716,ZWE,0,W00,78,Lead and articles thereof,N/A,0.0,517149.83
+X,716,ZWE,0,W00,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,11309173.33
+X,716,ZWE,0,W00,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,618761.95
+X,716,ZWE,0,W00,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,0.0,4605496.44
+X,716,ZWE,36,AUS,61,Apparel and clothing accessories; knitted or crocheted,N/A,0.0,339.29
+X,716,ZWE,56,BEL,07,Vegetables and certain roots and tubers; edible,N/A,0.0,511.42
+X,716,ZWE,72,BWA,07,Vegetables and certain roots and tubers; edible,N/A,0.0,29144.52
+X,716,ZWE,72,BWA,22,"Beverages, spirits and vinegar",N/A,0.0,314943.61
+X,716,ZWE,72,BWA,31,Fertilizers,N/A,0.0,646968.8
+X,716,ZWE,72,BWA,61,Apparel and clothing accessories; knitted or crocheted,N/A,0.0,51.02
+X,716,ZWE,72,BWA,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,391643.57
+X,716,ZWE,72,BWA,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,4264.17
+X,716,ZWE,72,BWA,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,0.0,296128.14
+X,716,ZWE,76,BRA,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,0.0,495.28
+X,716,ZWE,108,BDI,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,2179.06
+X,716,ZWE,124,CAN,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,10.1
+X,716,ZWE,124,CAN,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",N/A,0.0,125.35
+X,716,ZWE,156,CHN,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,1606.97
+X,716,ZWE,156,CHN,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",N/A,0.0,19.51
+X,716,ZWE,178,COG,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,20069.29
+X,716,ZWE,180,COD,22,"Beverages, spirits and vinegar",N/A,0.0,4.93
+X,716,ZWE,231,ETH,07,Vegetables and certain roots and tubers; edible,N/A,0.0,3348.96
+X,716,ZWE,288,GHA,22,"Beverages, spirits and vinegar",N/A,0.0,5.38
+X,716,ZWE,380,ITA,41,Raw hides and skins (other than furskins) and leather,N/A,0.0,263933.11
+X,716,ZWE,380,ITA,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",N/A,0.0,4082.54
+X,716,ZWE,0,W00,05,Animal originated products; not elsewhere specified or included,N/A,0.0,28137.52
+X,716,ZWE,0,W00,07,Vegetables and certain roots and tubers; edible,N/A,0.0,4665289.56
+X,716,ZWE,0,W00,22,"Beverages, spirits and vinegar",N/A,0.0,2440782.05
+X,716,ZWE,0,W00,31,Fertilizers,N/A,0.0,930221.28
+X,716,ZWE,899,_X ,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",N/A,0.0,23632404.03
+X,716,ZWE,899,_X ,73,Iron or steel articles,N/A,0.0,96855.55
+X,716,ZWE,710,ZAF,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",N/A,0.0,17779.4
+X,716,ZWE,710,ZAF,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",N/A,0.0,41956.53
+X,716,ZWE,710,ZAF,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",N/A,0.0,181570267.75
+X,716,ZWE,710,ZAF,73,Iron or steel articles,N/A,0.0,5898344.02
+X,716,ZWE,724,ESP,09,"Coffee, tea, mate and spices",N/A,0.0,3.0
+X,716,ZWE,729,SDN,73,Iron or steel articles,N/A,0.0,185.71
+X,716,ZWE,764,THA,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",N/A,0.0,833.3
+X,716,ZWE,784,ARE,08,"Fruit and nuts, edible; peel of citrus fruit or melons",N/A,0.0,1393.01
+X,716,ZWE,784,ARE,09,"Coffee, tea, mate and spices",N/A,0.0,198.57
+X,716,ZWE,784,ARE,29,Organic chemicals,N/A,0.0,94.94
+X,716,ZWE,784,ARE,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",N/A,0.0,1709038776.99
+X,716,ZWE,800,UGA,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",N/A,0.0,4154911.32
+X,716,ZWE,826,GBR,08,"Fruit and nuts, edible; peel of citrus fruit or melons",N/A,0.0,44298.4
+X,716,ZWE,826,GBR,09,"Coffee, tea, mate and spices",N/A,0.0,212.01
+X,716,ZWE,826,GBR,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",N/A,0.0,258844.52
+X,716,ZWE,826,GBR,73,Iron or steel articles,N/A,0.0,15522.4
+X,716,ZWE,842,USA,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",N/A,0.0,25986.58
+X,716,ZWE,842,USA,09,"Coffee, tea, mate and spices",N/A,0.0,87.55
+X,716,ZWE,842,USA,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",N/A,0.0,14.99
+X,716,ZWE,842,USA,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",N/A,0.0,8153.76
+X,716,ZWE,894,ZMB,02,Meat and edible meat offal,N/A,0.0,2266.03
+X,716,ZWE,894,ZMB,08,"Fruit and nuts, edible; peel of citrus fruit or melons",N/A,0.0,133044.83
+X,716,ZWE,894,ZMB,09,"Coffee, tea, mate and spices",N/A,0.0,1001920.27
+X,716,ZWE,894,ZMB,29,Organic chemicals,N/A,0.0,694343.92
+X,716,ZWE,894,ZMB,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",N/A,0.0,134.17
+X,716,ZWE,894,ZMB,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",N/A,0.0,13127.18
+X,716,ZWE,894,ZMB,73,Iron or steel articles,N/A,0.0,1036571.4
+X,716,ZWE,899,_X ,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",N/A,0.0,2436303.15
+X,716,ZWE,899,_X ,08,"Fruit and nuts, edible; peel of citrus fruit or melons",N/A,0.0,7637575.23
+X,716,ZWE,899,_X ,09,"Coffee, tea, mate and spices",N/A,0.0,10914.77
+X,716,ZWE,156,CHN,73,Iron or steel articles,N/A,0.0,123.01
+X,716,ZWE,156,CHN,81,"Metals; n.e.c., cermets and articles thereof",N/A,0.0,20.36
+X,716,ZWE,231,ETH,08,"Fruit and nuts, edible; peel of citrus fruit or melons",N/A,0.0,5945.93
+X,716,ZWE,251,FRA,09,"Coffee, tea, mate and spices",N/A,0.0,12997.43
+X,716,ZWE,276,DEU,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",N/A,0.0,26448.69
+X,716,ZWE,276,DEU,08,"Fruit and nuts, edible; peel of citrus fruit or melons",N/A,0.0,69192.12
+X,716,ZWE,276,DEU,09,"Coffee, tea, mate and spices",N/A,0.0,700.64
+X,716,ZWE,276,DEU,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",N/A,0.0,6489.98
+X,716,ZWE,276,DEU,73,Iron or steel articles,N/A,0.0,2500.93
+X,716,ZWE,344,HKG,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",N/A,0.0,926.04
+X,716,ZWE,344,HKG,08,"Fruit and nuts, edible; peel of citrus fruit or melons",N/A,0.0,948.35
+X,716,ZWE,344,HKG,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",N/A,0.0,16571.92
+X,716,ZWE,372,IRL,02,Meat and edible meat offal,N/A,0.0,7.02
+X,716,ZWE,372,IRL,08,"Fruit and nuts, edible; peel of citrus fruit or melons",N/A,0.0,19949.62
+X,716,ZWE,392,JPN,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",N/A,0.0,18904.31
+X,716,ZWE,404,KEN,09,"Coffee, tea, mate and spices",N/A,0.0,16.08
+X,716,ZWE,404,KEN,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",N/A,0.0,19810.57
+X,716,ZWE,404,KEN,73,Iron or steel articles,N/A,0.0,121.35
+X,716,ZWE,410,KOR,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",N/A,0.0,130.85
+X,716,ZWE,454,MWI,09,"Coffee, tea, mate and spices",N/A,0.0,36166.72
+X,716,ZWE,454,MWI,73,Iron or steel articles,N/A,0.0,5662.2
+X,716,ZWE,458,MYS,09,"Coffee, tea, mate and spices",N/A,0.0,0.19
+X,716,ZWE,480,MUS,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",N/A,0.0,2735.2
+X,716,ZWE,508,MOZ,02,Meat and edible meat offal,N/A,0.0,168429.36
+X,716,ZWE,508,MOZ,08,"Fruit and nuts, edible; peel of citrus fruit or melons",N/A,0.0,7323993.4
+X,716,ZWE,508,MOZ,09,"Coffee, tea, mate and spices",N/A,0.0,6063382.77
+X,716,ZWE,508,MOZ,13,"Lac; gums, resins and other vegetable saps and extracts",N/A,0.0,27961.88
+X,716,ZWE,508,MOZ,29,Organic chemicals,N/A,0.0,75898.72
+X,716,ZWE,508,MOZ,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",N/A,0.0,4629691.8
+X,716,ZWE,508,MOZ,73,Iron or steel articles,N/A,0.0,712467.02
+X,716,ZWE,516,NAM,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",N/A,0.0,21666.94
+X,716,ZWE,516,NAM,73,Iron or steel articles,N/A,0.0,1756.31
+X,716,ZWE,528,NLD,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",N/A,0.0,2846624.24
+X,716,ZWE,528,NLD,08,"Fruit and nuts, edible; peel of citrus fruit or melons",N/A,0.0,63188.52
+X,716,ZWE,528,NLD,09,"Coffee, tea, mate and spices",N/A,0.0,1.61
+X,716,ZWE,643,RUS,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",N/A,0.0,175.6
+X,716,ZWE,643,RUS,08,"Fruit and nuts, edible; peel of citrus fruit or melons",N/A,0.0,5236.35
+X,716,ZWE,643,RUS,09,"Coffee, tea, mate and spices",N/A,0.0,3223.09
+X,716,ZWE,699,IND,08,"Fruit and nuts, edible; peel of citrus fruit or melons",N/A,0.0,0.19
+X,716,ZWE,699,IND,29,Organic chemicals,N/A,0.0,2.99
+X,716,ZWE,702,SGP,08,"Fruit and nuts, edible; peel of citrus fruit or melons",N/A,0.0,835.44
+X,716,ZWE,710,ZAF,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",N/A,0.0,10187.85
+X,716,ZWE,710,ZAF,08,"Fruit and nuts, edible; peel of citrus fruit or melons",N/A,0.0,21092677.26
+X,716,ZWE,710,ZAF,09,"Coffee, tea, mate and spices",N/A,0.0,12227153.8
+X,716,ZWE,710,ZAF,13,"Lac; gums, resins and other vegetable saps and extracts",N/A,0.0,264.78
+X,716,ZWE,710,ZAF,29,Organic chemicals,N/A,0.0,237768.49
+X,716,ZWE,0,W00,29,Organic chemicals,N/A,0.0,1008109.06
+X,716,ZWE,0,W00,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",N/A,0.0,17920.54
+X,716,ZWE,0,W00,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",N/A,0.0,41971.52
+X,716,ZWE,0,W00,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",N/A,0.0,1987233336.4
+X,716,ZWE,0,W00,73,Iron or steel articles,N/A,0.0,11655308.07
+X,716,ZWE,0,W00,81,"Metals; n.e.c., cermets and articles thereof",N/A,0.0,20.36
+X,716,ZWE,36,AUS,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",N/A,0.0,16740.73
+X,716,ZWE,56,BEL,02,Meat and edible meat offal,N/A,0.0,14.99
+X,716,ZWE,56,BEL,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",N/A,0.0,63678619.32
+X,716,ZWE,72,BWA,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",N/A,0.0,803.94
+X,716,ZWE,72,BWA,08,"Fruit and nuts, edible; peel of citrus fruit or melons",N/A,0.0,112556.39
+X,716,ZWE,72,BWA,09,"Coffee, tea, mate and spices",N/A,0.0,67567.84
+X,716,ZWE,72,BWA,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",N/A,0.0,6.97
+X,716,ZWE,72,BWA,73,Iron or steel articles,N/A,0.0,3885198.17
+X,716,ZWE,136,CYM,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",N/A,0.0,505.0
+X,716,ZWE,156,CHN,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",N/A,0.0,179926.82
+X,716,ZWE,0,W00,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",N/A,0.0,2180993.19
+X,716,ZWE,0,W00,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,4409297.87
+X,716,ZWE,0,W00,89,"Ships, boats and floating structures",N/A,0.0,48199.16
+X,716,ZWE,0,W00,91,Clocks and watches and parts thereof,N/A,0.0,529.02
+X,716,ZWE,0,W00,96,Miscellaneous manufactured articles,N/A,0.0,98448.1
+X,716,ZWE,0,W00,97,Works of art; collectors' pieces and antiques,N/A,0.0,8044912.09
+X,716,ZWE,0,W00,99,Commodities not specified according to kind,N/A,0.0,687373.64
+X,716,ZWE,4,AFG,39,Plastics and articles thereof,N/A,0.0,8357.68
+X,716,ZWE,4,AFG,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,24032.58
+X,716,ZWE,12,DZA,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,1147257.58
+X,716,ZWE,24,AGO,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,109363.04
+X,716,ZWE,31,AZE,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,217672.51
+X,716,ZWE,31,AZE,39,Plastics and articles thereof,N/A,0.0,2005.31
+X,716,ZWE,31,AZE,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,8846.95
+X,716,ZWE,36,AUS,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,0.0,1457.81
+X,716,ZWE,36,AUS,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,107341.56
+X,716,ZWE,36,AUS,26,"Ores, slag and ash",N/A,0.0,119.95
+X,716,ZWE,36,AUS,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",N/A,0.0,15678.6
+X,716,ZWE,36,AUS,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,98.42
+X,716,ZWE,36,AUS,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",N/A,0.0,197.11
+X,716,ZWE,36,AUS,65,Headgear and parts thereof,N/A,0.0,20.01
+X,716,ZWE,40,AUT,97,Works of art; collectors' pieces and antiques,N/A,0.0,172864.76
+X,716,ZWE,51,ARM,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,1695382.57
+X,716,ZWE,52,BRB,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,6468.29
+X,716,ZWE,56,BEL,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",N/A,0.0,15.0
+X,716,ZWE,56,BEL,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,70429605.05
+X,716,ZWE,56,BEL,38,Chemical products n.e.c.,N/A,0.0,3.45
+X,716,ZWE,72,BWA,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",N/A,0.0,56872.3
+X,716,ZWE,72,BWA,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",N/A,0.0,955937.46
+X,716,ZWE,72,BWA,17,Sugars and sugar confectionery,N/A,0.0,8172704.71
+X,716,ZWE,72,BWA,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",N/A,0.0,1219910.08
+X,716,ZWE,72,BWA,21,Miscellaneous edible preparations,N/A,0.0,68540.11
+X,716,ZWE,72,BWA,23,"Food industries, residues and wastes thereof; prepared animal fodder",N/A,0.0,1795.45
+X,716,ZWE,72,BWA,24,Tobacco and manufactured tobacco substitutes,N/A,0.0,5899669.25
+X,716,ZWE,72,BWA,26,"Ores, slag and ash",N/A,0.0,1209685.25
+X,716,ZWE,72,BWA,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",N/A,0.0,97339.8
+X,716,ZWE,72,BWA,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",N/A,0.0,4926.0
+X,716,ZWE,72,BWA,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",N/A,0.0,43.87
+X,716,ZWE,72,BWA,38,Chemical products n.e.c.,N/A,0.0,56286.57
+X,716,ZWE,72,BWA,39,Plastics and articles thereof,N/A,0.0,33024.64
+X,716,ZWE,72,BWA,40,Rubber and articles thereof,N/A,0.0,8414.51
+X,716,ZWE,72,BWA,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,0.0,4104.53
+X,716,ZWE,72,BWA,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,62869.33
+X,716,ZWE,72,BWA,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",N/A,0.0,33024.65
+X,716,ZWE,72,BWA,64,Footwear; gaiters and the like; parts of such articles,N/A,0.0,36447.55
+X,716,ZWE,72,BWA,65,Headgear and parts thereof,N/A,0.0,2097.23
+X,716,ZWE,72,BWA,69,Ceramic products,N/A,0.0,1777624.74
+X,716,ZWE,72,BWA,72,Iron and steel,N/A,0.0,17938.23
+X,716,ZWE,72,BWA,76,Aluminium and articles thereof,N/A,0.0,17205.63
+X,716,ZWE,72,BWA,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,25069.6
+X,716,ZWE,72,BWA,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",N/A,0.0,20063.79
+X,716,ZWE,72,BWA,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,353437.98
+X,716,ZWE,894,ZMB,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",N/A,0.0,188926.5
+X,716,ZWE,894,ZMB,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",N/A,0.0,788083.83
+X,716,ZWE,894,ZMB,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",N/A,0.0,930386.13
+X,716,ZWE,894,ZMB,38,Chemical products n.e.c.,N/A,0.0,455942.16
+X,716,ZWE,894,ZMB,39,Plastics and articles thereof,N/A,0.0,8660585.9
+X,716,ZWE,894,ZMB,40,Rubber and articles thereof,N/A,0.0,1737.79
+X,716,ZWE,894,ZMB,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",N/A,0.0,25474.5
+X,716,ZWE,894,ZMB,52,Cotton,N/A,0.0,296541.13
+X,716,ZWE,894,ZMB,55,Man-made staple fibres,N/A,0.0,30771.28
+X,716,ZWE,894,ZMB,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",N/A,0.0,598030.26
+X,716,ZWE,894,ZMB,57,Carpets and other textile floor coverings,N/A,0.0,577.86
+X,716,ZWE,894,ZMB,62,Apparel and clothing accessories; not knitted or crocheted,N/A,0.0,225619.4
+X,716,ZWE,894,ZMB,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",N/A,0.0,198476.65
+X,716,ZWE,894,ZMB,64,Footwear; gaiters and the like; parts of such articles,N/A,0.0,468307.01
+X,716,ZWE,894,ZMB,65,Headgear and parts thereof,N/A,0.0,670.44
+X,716,ZWE,894,ZMB,69,Ceramic products,N/A,0.0,2011941.27
+X,716,ZWE,894,ZMB,72,Iron and steel,N/A,0.0,1413478.1
+X,716,ZWE,894,ZMB,74,Copper and articles thereof,N/A,0.0,44974.3
+X,716,ZWE,894,ZMB,76,Aluminium and articles thereof,N/A,0.0,6810.79
+X,716,ZWE,894,ZMB,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",N/A,0.0,5937454.65
+X,716,ZWE,894,ZMB,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",N/A,0.0,23703.89
+X,716,ZWE,894,ZMB,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",N/A,0.0,2249177.82
+X,716,ZWE,894,ZMB,89,"Ships, boats and floating structures",N/A,0.0,23230.68
+X,716,ZWE,894,ZMB,96,Miscellaneous manufactured articles,N/A,0.0,2209.84
+X,716,ZWE,894,ZMB,97,Works of art; collectors' pieces and antiques,N/A,0.0,8664.0
+X,716,ZWE,894,ZMB,99,Commodities not specified according to kind,N/A,0.0,79972.61
+X,716,ZWE,899,_X ,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",N/A,0.0,109503.78
+X,716,ZWE,899,_X ,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,N/A,0.0,15328.1
+X,716,ZWE,899,_X ,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",N/A,0.0,1658.25
+X,716,ZWE,899,_X ,21,Miscellaneous edible preparations,N/A,0.0,3765.2
+X,716,ZWE,899,_X ,23,"Food industries, residues and wastes thereof; prepared animal fodder",N/A,0.0,279180.0
+X,716,ZWE,0,W00,02,Meat and edible meat offal,N/A,0.0,170717.4
+X,716,ZWE,0,W00,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",N/A,0.0,5383231.98
+X,716,ZWE,0,W00,08,"Fruit and nuts, edible; peel of citrus fruit or melons",N/A,0.0,36510835.04
+X,716,ZWE,0,W00,09,"Coffee, tea, mate and spices",N/A,0.0,19424546.34
+X,716,ZWE,0,W00,13,"Lac; gums, resins and other vegetable saps and extracts",N/A,0.0,28226.66
+X,716,ZWE,0,W00,41,Raw hides and skins (other than furskins) and leather,N/A,0.0,30697355.46
+X,716,ZWE,0,W00,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,N/A,0.0,932518.82
+X,716,ZWE,0,W00,61,Apparel and clothing accessories; knitted or crocheted,N/A,0.0,923634.46
