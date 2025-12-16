@@ -1,0 +1,221 @@
+
+Processing tradeInGoods_baci_1996.csv
+    Kept obs: 2,824,063 / 4,226,791 (0.668) | Value retained: 99.896%
+  Year 1996 | rows=4,412,751 | both=4,226,791 | sum_X=5,075,859,197,724 | sum_M=5,076,652,523,282
+    Trimmed (>10,000$): 2,824,063 rows | consistent=1.000
+✓ Finished 1996
+
+Processing tradeInGoods_baci_1997.csv
+    Kept obs: 3,254,266 / 5,095,517 (0.639) | Value retained: 99.879%
+  Year 1997 | rows=5,292,833 | both=5,095,517 | sum_X=5,531,152,308,137 | sum_M=5,528,256,084,399
+    Trimmed (>10,000$): 3,254,266 rows | consistent=1.000
+✓ Finished 1997
+
+Processing tradeInGoods_baci_1998.csv
+    Kept obs: 3,377,694 / 5,375,988 (0.628) | Value retained: 99.868%
+  Year 1998 | rows=5,568,360 | both=5,375,988 | sum_X=5,497,054,633,696 | sum_M=5,496,393,126,180
+    Trimmed (>10,000$): 3,377,694 rows | consistent=1.000
+✓ Finished 1998
+
+Processing tradeInGoods_baci_1999.csv
+    Kept obs: 3,498,323 / 5,704,492 (0.613) | Value retained: 99.862%
+  Year 1999 | rows=5,904,030 | both=5,704,492 | sum_X=5,758,786,904,351 | sum_M=5,755,119,976,257
+    Trimmed (>10,000$): 3,498,323 rows | consistent=1.000
+✓ Finished 1999
+
+Processing tradeInGoods_baci_2000.csv
+    Kept obs: 3,701,683 / 7,141,252 (0.518) | Value retained: 99.866%
+  Year 2000 | rows=7,212,557 | both=7,141,252 | sum_X=6,501,486,600,288 | sum_M=6,507,044,976,986
+    Trimmed (>10,000$): 3,701,683 rows | consistent=1.000
+✓ Finished 2000
+
+Processing tradeInGoods_baci_2001.csv
+    Kept obs: 3,790,908 / 7,439,234 (0.510) | Value retained: 99.856%
+  Year 2001 | rows=7,513,183 | both=7,439,234 | sum_X=6,318,930,240,779 | sum_M=6,324,762,303,611
+    Trimmed (>10,000$): 3,790,908 rows | consistent=1.000
+✓ Finished 2001
+
+Processing tradeInGoods_baci_2002.csv
+    Kept obs: 3,898,307 / 7,710,401 (0.506) | Value retained: 99.859%
+  Year 2002 | rows=7,790,113 | both=7,710,401 | sum_X=6,644,456,575,765 | sum_M=6,650,601,570,014
+    Trimmed (>10,000$): 3,898,307 rows | consistent=1.000
+✓ Finished 2002
+
+Processing tradeInGoods_baci_2003.csv
+    Kept obs: 4,097,715 / 7,988,035 (0.513) | Value retained: 99.875%
+  Year 2003 | rows=8,048,824 | both=7,988,035 | sum_X=7,685,726,894,302 | sum_M=7,694,125,942,118
+    Trimmed (>10,000$): 4,097,715 rows | consistent=1.000
+✓ Finished 2003
+
+Processing tradeInGoods_baci_2004.csv
+    Kept obs: 4,337,359 / 8,355,502 (0.519) | Value retained: 99.893%
+  Year 2004 | rows=8,447,590 | both=8,355,502 | sum_X=9,273,187,953,966 | sum_M=9,281,167,606,178
+    Trimmed (>10,000$): 4,337,359 rows | consistent=1.000
+✓ Finished 2004
+
+Processing tradeInGoods_baci_2005.csv
+    Kept obs: 4,541,140 / 8,701,195 (0.522) | Value retained: 99.904%
+  Year 2005 | rows=8,839,610 | both=8,701,195 | sum_X=10,531,615,464,453 | sum_M=10,542,982,480,760
+    Trimmed (>10,000$): 4,541,140 rows | consistent=1.000
+✓ Finished 2005
+
+Processing tradeInGoods_baci_2006.csv
+    Kept obs: 4,723,384 / 9,049,483 (0.522) | Value retained: 99.912%
+  Year 2006 | rows=9,081,162 | both=9,049,483 | sum_X=11,857,391,164,548 | sum_M=11,861,712,387,709
+    Trimmed (>10,000$): 4,723,384 rows | consistent=1.000
+✓ Finished 2006
+
+Processing tradeInGoods_baci_2007.csv
+    Kept obs: 4,958,418 / 9,226,346 (0.537) | Value retained: 99.925%
+  Year 2007 | rows=9,260,729 | both=9,226,346 | sum_X=13,959,680,208,433 | sum_M=13,961,684,275,644
+    Trimmed (>10,000$): 4,958,418 rows | consistent=1.000
+✓ Finished 2007
+
+Processing tradeInGoods_baci_2008.csv
+    Kept obs: 5,182,511 / 9,458,382 (0.548) | Value retained: 99.935%
+  Year 2008 | rows=9,487,401 | both=9,458,382 | sum_X=16,190,291,499,720 | sum_M=16,207,579,028,724
+    Trimmed (>10,000$): 5,182,511 rows | consistent=1.000
+✓ Finished 2008
+
+Processing tradeInGoods_baci_2009.csv
+    Kept obs: 4,848,754 / 9,303,268 (0.521) | Value retained: 99.915%
+  Year 2009 | rows=9,330,972 | both=9,303,268 | sum_X=12,439,107,298,366 | sum_M=12,440,644,525,185
+    Trimmed (>10,000$): 4,848,754 rows | consistent=1.000
+✓ Finished 2009
+
+Processing tradeInGoods_baci_2010.csv
+    Kept obs: 5,039,683 / 9,600,998 (0.525) | Value retained: 99.928%
+  Year 2010 | rows=9,627,914 | both=9,600,998 | sum_X=15,082,136,332,087 | sum_M=15,084,708,172,834
+    Trimmed (>10,000$): 5,039,683 rows | consistent=1.000
+✓ Finished 2010
+
+Processing tradeInGoods_baci_2011.csv
+    Kept obs: 5,199,496 / 9,784,574 (0.531) | Value retained: 99.940%
+  Year 2011 | rows=9,795,492 | both=9,784,574 | sum_X=17,969,800,384,707 | sum_M=17,967,871,382,939
+    Trimmed (>10,000$): 5,199,496 rows | consistent=1.000
+✓ Finished 2011
+
+Processing tradeInGoods_baci_2012.csv
+    Kept obs: 5,203,506 / 9,976,061 (0.522) | Value retained: 99.935%
+  Year 2012 | rows=9,986,856 | both=9,976,061 | sum_X=16,915,321,645,035 | sum_M=16,916,489,940,310
+    Trimmed (>10,000$): 5,203,506 rows | consistent=1.000
+✓ Finished 2012
+
+Processing tradeInGoods_baci_2013.csv
+✗ Failed on tradeInGoods_baci_2013.csv: Error tokenizing data. C error: Expected 11 fields in line 12222046, saw 12
+
+Traceback (most recent call last):
+  File "/var/folders/p7/4fn3fxvn3wd9lw6y_ppgwd_h0000gn/T/ipykernel_54462/3182577467.py", line 23, in <module>
+    df_clean = clean_cepii_year(f)
+  File "/var/folders/p7/4fn3fxvn3wd9lw6y_ppgwd_h0000gn/T/ipykernel_54462/4146170081.py", line 13, in clean_cepii_year
+    df = pd.read_csv(file_path,sep=";",encoding="latin1",low_memory=False)
+  File "/Users/david/Documents/BID/Trade/Trade_Bid/.venv/lib/python3.13/site-packages/pandas/io/parsers/readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/Users/david/Documents/BID/Trade/Trade_Bid/.venv/lib/python3.13/site-packages/pandas/io/parsers/readers.py", line 626, in _read
+    return parser.read(nrows)
+           ~~~~~~~~~~~^^^^^^^
+  File "/Users/david/Documents/BID/Trade/Trade_Bid/.venv/lib/python3.13/site-packages/pandas/io/parsers/readers.py", line 1923, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+        ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        nrows
+        ^^^^^
+    )
+    ^
+  File "/Users/david/Documents/BID/Trade/Trade_Bid/.venv/lib/python3.13/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 239, in read
+    data = self._reader.read(nrows)
+  File "pandas/_libs/parsers.pyx", line 820, in pandas._libs.parsers.TextReader.read
+  File "pandas/_libs/parsers.pyx", line 914, in pandas._libs.parsers.TextReader._read_rows
+  File "pandas/_libs/parsers.pyx", line 891, in pandas._libs.parsers.TextReader._check_tokenize_status
+  File "pandas/_libs/parsers.pyx", line 2061, in pandas._libs.parsers.raise_parser_error
+pandas.errors.ParserError: Error tokenizing data. C error: Expected 11 fields in line 12222046, saw 12
+
+
+
+Processing tradeInGoods_baci_2014.csv
+    Kept obs: 5,360,114 / 10,296,216 (0.521) | Value retained: 99.938%
+  Year 2014 | rows=10,304,401 | both=10,296,216 | sum_X=18,395,813,302,804 | sum_M=18,396,339,283,423
+    Trimmed (>10,000$): 5,360,114 rows | consistent=1.000
+✓ Finished 2014
+
+Processing tradeInGoods_baci_2015.csv
+    Kept obs: 5,305,196 / 10,657,050 (0.498) | Value retained: 99.927%
+  Year 2015 | rows=10,665,050 | both=10,657,050 | sum_X=16,101,848,349,978 | sum_M=16,102,155,205,002
+    Trimmed (>10,000$): 5,305,196 rows | consistent=1.000
+✓ Finished 2015
+
+Processing tradeInGoods_baci_2016.csv
+    Kept obs: 5,286,767 / 10,684,298 (0.495) | Value retained: 99.924%
+  Year 2016 | rows=10,692,293 | both=10,684,298 | sum_X=15,708,123,751,709 | sum_M=15,708,556,418,561
+    Trimmed (>10,000$): 5,286,767 rows | consistent=1.000
+✓ Finished 2016
+
+Processing tradeInGoods_baci_2017.csv
+    Kept obs: 5,415,848 / 10,957,576 (0.494) | Value retained: 99.931%
+  Year 2017 | rows=10,966,619 | both=10,957,576 | sum_X=17,646,700,492,680 | sum_M=17,647,122,934,797
+    Trimmed (>10,000$): 5,415,848 rows | consistent=1.000
+✓ Finished 2017
+
+Processing tradeInGoods_baci_2018.csv
+    Kept obs: 5,500,644 / 11,051,166 (0.498) | Value retained: 99.936%
+  Year 2018 | rows=11,060,939 | both=11,051,166 | sum_X=19,129,587,377,234 | sum_M=19,130,042,444,870
+    Trimmed (>10,000$): 5,500,644 rows | consistent=1.000
+✓ Finished 2018
+
+Processing tradeInGoods_baci_2019.csv
+    Kept obs: 5,483,096 / 11,174,983 (0.491) | Value retained: 99.933%
+  Year 2019 | rows=11,194,567 | both=11,174,983 | sum_X=18,567,329,880,043 | sum_M=18,567,926,305,906
+    Trimmed (>10,000$): 5,483,096 rows | consistent=1.000
+✓ Finished 2019
+
+Processing tradeInGoods_baci_2020.csv
+    Kept obs: 5,256,167 / 10,787,906 (0.487) | Value retained: 99.931%
+  Year 2020 | rows=10,795,324 | both=10,787,906 | sum_X=17,175,870,153,081 | sum_M=17,176,351,252,842
+    Trimmed (>10,000$): 5,256,167 rows | consistent=1.000
+✓ Finished 2020
+
+Processing tradeInGoods_baci_2021.csv
+    Kept obs: 5,504,946 / 11,324,861 (0.486) | Value retained: 99.943%
+  Year 2021 | rows=11,334,463 | both=11,324,861 | sum_X=21,438,581,385,209 | sum_M=21,439,516,204,877
+    Trimmed (>10,000$): 5,504,946 rows | consistent=1.000
+✓ Finished 2021
+
+Processing tradeInGoods_baci_2022.csv
+    Kept obs: 5,535,214 / 11,269,010 (0.491) | Value retained: 99.950%
+  Year 2022 | rows=11,269,010 | both=11,269,010 | sum_X=24,150,855,287,186 | sum_M=24,150,855,287,186
+    Trimmed (>10,000$): 5,535,214 rows | consistent=1.000
+✓ Finished 2022
+
+Processing tradeInGoods_baci_2023.csv
+    Kept obs: 5,426,909 / 11,031,704 (0.492) | Value retained: 99.948%
+  Year 2023 | rows=11,031,704 | both=11,031,704 | sum_X=22,604,614,159,546 | sum_M=22,604,614,159,546
+    Trimmed (>10,000$): 5,426,909 rows | consistent=1.000
+✓ Finished 2023
+
+✓ Saved summary panel:
+       n_both     n_kept  share_kept_obs  year  min_value           note  \
+10  4226791.0        NaN             NaN  1996          0           full   
+2   4226791.0  4035265.0        0.954688  1996       1000  robust_counts   
+3         NaN        NaN             NaN  1996       1000  robust_values   
+4   4226791.0  3248453.0        0.768539  1996       5000  robust_counts   
+5         NaN        NaN             NaN  1996       5000  robust_values   
+
+     tol  total_export_value  kept_export_value  share_value_retained  \
+10  0.05                 NaN                NaN                   NaN   
+2   0.05                 NaN                NaN                   NaN   
+3   0.05        5.042629e+12       5.042488e+12              0.999972   
+4   0.05                 NaN                NaN                   NaN   
+5   0.05        5.042629e+12       5.040432e+12              0.999564   
+
+      n_total  share_both  share_consistent  n_trimmed  mean_rel_diff  \
+10  4412751.0    0.957858               1.0        NaN            NaN   
+2         NaN         NaN               NaN        NaN            NaN   
+3         NaN         NaN               NaN        NaN            NaN   
+4         NaN         NaN               NaN        NaN            NaN   
+5         NaN         NaN               NaN        NaN            NaN   
+
+    median_rel_diff  
+10              NaN  
+2               NaN  
+3               NaN  
+4               NaN  
+5               NaN  
