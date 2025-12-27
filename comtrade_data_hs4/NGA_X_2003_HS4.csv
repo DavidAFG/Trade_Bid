@@ -1,0 +1,353 @@
+flowCode,reporterCode,reporterISO,partnerCode,partnerISO,cmdCode,cmdDesc,qtyUnitAbbr,qty,fobvalue
+X,566,NGA,0,W00,2501,Salt (including table salt and denatured salt); pure sodium chloride whether or not in aqueous solution; sea water,kg,2410600.0,646079.0
+X,566,NGA,0,W00,2505,"Sands of all kinds; natural, whether or not coloured, other than metal-bearing sands of chapter 26",kg,1811.0,23978.0
+X,566,NGA,0,W00,2522,"Quicklime, slaked lime and hydraulic lime; other than calcium oxide and hydroxide of heading no. 2825",kg,138.0,434.0
+X,566,NGA,0,W00,2523,"Portland cement, aluminous cement ('ciment fondu'), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",kg,15350185.0,1537218.0
+X,566,NGA,0,W00,2525,"Mica, including splittings; mica waste",kg,44000.0,3547.0
+X,566,NGA,0,W00,2701,"Coal; briquettes, ovoids and similar solid fuels manufactured from coal",kg,50.0,248.0
+X,566,NGA,0,W00,2009,"Fruit juices (including grape must) and vegetable juices, unfermented, not containing added spirit; whether or not containing added sugar or other sweetening matter",kg,40540.0,59422.0
+X,566,NGA,0,W00,1006,Rice,kg,74200.0,465206.0
+X,566,NGA,48,BHR,2501,Salt (including table salt and denatured salt); pure sodium chloride whether or not in aqueous solution; sea water,kg,15000.0,2479.0
+X,566,NGA,140,CAF,2501,Salt (including table salt and denatured salt); pure sodium chloride whether or not in aqueous solution; sea water,kg,15000.0,2401.0
+X,566,NGA,204,BEN,2009,"Fruit juices (including grape must) and vegetable juices, unfermented, not containing added spirit; whether or not containing added sugar or other sweetening matter",kg,40540.0,59422.0
+X,566,NGA,204,BEN,2523,"Portland cement, aluminous cement ('ciment fondu'), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",kg,10000000.0,639218.0
+X,566,NGA,208,DNK,2522,"Quicklime, slaked lime and hydraulic lime; other than calcium oxide and hydroxide of heading no. 2825",kg,69.0,269.0
+X,566,NGA,148,TCD,2501,Salt (including table salt and denatured salt); pure sodium chloride whether or not in aqueous solution; sea water,kg,2380600.0,641199.0
+X,566,NGA,148,TCD,2523,"Portland cement, aluminous cement ('ciment fondu'), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",kg,5260185.0,880964.0
+X,566,NGA,148,TCD,2701,"Coal; briquettes, ovoids and similar solid fuels manufactured from coal",kg,50.0,248.0
+X,566,NGA,266,GAB,2505,"Sands of all kinds; natural, whether or not coloured, other than metal-bearing sands of chapter 26",kg,1811.0,23978.0
+X,566,NGA,276,DEU,2522,"Quicklime, slaked lime and hydraulic lime; other than calcium oxide and hydroxide of heading no. 2825",kg,69.0,165.0
+X,566,NGA,380,ITA,2523,"Portland cement, aluminous cement ('ciment fondu'), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",kg,30000.0,3097.0
+X,566,NGA,768,TGO,1006,Rice,kg,74200.0,465206.0
+X,566,NGA,826,GBR,2525,"Mica, including splittings; mica waste",kg,44000.0,3547.0
+X,566,NGA,842,USA,2523,"Portland cement, aluminous cement ('ciment fondu'), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",kg,60000.0,13939.0
+X,566,NGA,0,W00,2706,"Tar distilled from coal, from lignite, peat and other mineral tars, whether or not dehydrated or partially distilled; including reconstituted tars",kg,15000.0,24006.0
+X,566,NGA,0,W00,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,793807803.0,23210023057.0
+X,566,NGA,0,W00,2710,"Petroleum oils, oils from bituminous minerals, not crude; preparations n.e.s. containing less than 70% petroleum oils, oils from bituminous minerals; these being the basic constituents of the preparations",kg,10010052.0,2722533.0
+X,566,NGA,0,W00,2711,Petroleum gases and other gaseous hydrocarbons,kg,342665738.0,357958296.0
+X,566,NGA,0,W00,2929,"Nitrogen-function compounds, n.e.s. in chapter 29",kg,15641.0,52150.0
+X,566,NGA,32,ARG,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,1265043.0,33241080.0
+X,566,NGA,36,AUS,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,898175.0,26976235.0
+X,566,NGA,72,BWA,2711,Petroleum gases and other gaseous hydrocarbons,kg,52.0,8790.0
+X,566,NGA,76,BRA,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,56015098.0,1634236200.0
+X,566,NGA,76,BRA,2710,"Petroleum oils, oils from bituminous minerals, not crude; preparations n.e.s. containing less than 70% petroleum oils, oils from bituminous minerals; these being the basic constituents of the preparations",kg,9983922.0,2478033.0
+X,566,NGA,120,CMR,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,10121730.0,293654576.0
+X,566,NGA,124,CAN,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,25059812.0,753711653.0
+X,566,NGA,152,CHL,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,2945810.0,86064690.0
+X,566,NGA,156,CHN,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,3447237.0,109583021.0
+X,566,NGA,156,CHN,2710,"Petroleum oils, oils from bituminous minerals, not crude; preparations n.e.s. containing less than 70% petroleum oils, oils from bituminous minerals; these being the basic constituents of the preparations",kg,130.0,217265.0
+X,566,NGA,288,GHA,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,15593607.0,451296909.0
+X,566,NGA,204,BEN,2710,"Petroleum oils, oils from bituminous minerals, not crude; preparations n.e.s. containing less than 70% petroleum oils, oils from bituminous minerals; these being the basic constituents of the preparations",kg,14000.0,10817.0
+X,566,NGA,251,FRA,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,43215085.0,1262844171.0
+X,566,NGA,148,TCD,2706,"Tar distilled from coal, from lignite, peat and other mineral tars, whether or not dehydrated or partially distilled; including reconstituted tars",kg,15000.0,24006.0
+X,566,NGA,276,DEU,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,17125988.0,504999596.0
+X,566,NGA,360,IDN,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,26546081.0,770476633.0
+X,566,NGA,380,ITA,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,22845735.0,667983228.0
+X,566,NGA,380,ITA,2711,Petroleum gases and other gaseous hydrocarbons,kg,220949.0,891495.0
+X,566,NGA,384,CIV,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,12535848.0,359832075.0
+X,566,NGA,392,JPN,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,31030923.0,965611211.0
+X,566,NGA,410,KOR,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,3155190.0,94402522.0
+X,566,NGA,410,KOR,2711,Petroleum gases and other gaseous hydrocarbons,kg,40496.0,5168985.0
+X,566,NGA,528,NLD,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,18832207.0,529018475.0
+X,566,NGA,842,USA,2929,"Nitrogen-function compounds, n.e.s. in chapter 29",kg,15641.0,52150.0
+X,566,NGA,604,PER,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,3856278.0,115291236.0
+X,566,NGA,620,PRT,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,20504137.0,588836512.0
+X,566,NGA,686,SEN,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,8686980.0,254123641.0
+X,566,NGA,699,IND,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,79469406.0,2375457491.0
+X,566,NGA,699,IND,2711,Petroleum gases and other gaseous hydrocarbons,kg,260573.0,17484297.0
+X,566,NGA,710,ZAF,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,20165529.0,587815825.0
+X,566,NGA,724,ESP,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,50179776.0,1483728285.0
+X,566,NGA,757,CHE,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,951127.0,27284260.0
+X,566,NGA,826,GBR,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,955514.0,26084818.0
+X,566,NGA,826,GBR,2711,Petroleum gases and other gaseous hydrocarbons,kg,2200.0,2589091.0
+X,566,NGA,490,S19,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,8640627.0,240512859.0
+X,566,NGA,842,USA,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,307907329.0,8912294477.0
+X,566,NGA,842,USA,2710,"Petroleum oils, oils from bituminous minerals, not crude; preparations n.e.s. containing less than 70% petroleum oils, oils from bituminous minerals; these being the basic constituents of the preparations",kg,12000.0,16418.0
+X,566,NGA,842,USA,2711,Petroleum gases and other gaseous hydrocarbons,kg,130411000.0,89051839.0
+X,566,NGA,540,NCL,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,909390.0,28777838.0
+X,566,NGA,858,URY,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,948141.0,25883540.0
+X,566,NGA,899,_X ,2711,Petroleum gases and other gaseous hydrocarbons,kg,211730468.0,242763799.0
+X,566,NGA,0,W00,3004,"Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed products for therapeutic or prophylactic use, put up in measured doses or in forms or packings for retail sale",kg,3700.0,13574.0
+X,566,NGA,0,W00,3903,"Polymers of styrene, in primary forms",kg,25680.0,2913686.0
+X,566,NGA,0,W00,3904,"Polymers of vinyl chloride or of other halogenated olefins, in primary forms",kg,2500.0,8297.0
+X,566,NGA,0,W00,3908,Polyamides in primary forms,kg,10.0,6.0
+X,566,NGA,0,W00,3912,"Cellulose and its chemical derivatives, n.e.s. or included, in primary forms",kg,1250.0,2551.0
+X,566,NGA,0,W00,3917,"Tubes, pipes and hoses and fittings thereof (for example, joints, elbows, flanges), of plastics",kg,60000.0,103993.0
+X,566,NGA,0,W00,3918,"Floor coverings of plastics, self-adhesive or not, in rolls or tiles; wall or ceiling coverings of plastics, in rolls of a width not less than 45cm",kg,2548.0,28345.0
+X,566,NGA,0,W00,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,2297661.0,1547996.0
+X,566,NGA,0,W00,3926,"Articles of plastics and articles of other materials of heading no. 3901 to 3914, n.e.s. in chapter 39",kg,134865.0,104264.0
+X,566,NGA,0,W00,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,1194350.0,1485161.0
+X,566,NGA,0,W00,4008,"Plates, sheets, strip, rods and profile shapes, of vulcanised rubber other than hard rubber",kg,10000.0,4646.0
+X,566,NGA,0,W00,4009,"Tubes, pipes and hoses, of vulcanised rubber (other than hard rubber), with or without their fittings (eg joints, elbows, flanges)",kg,22000.0,58088.0
+X,566,NGA,0,W00,4010,"Conveyor or transmission belts or belting, of vulcanised rubber",kg,4700.0,319811.0
+X,566,NGA,0,W00,4011,"New pneumatic tyres, of rubber",N/A,,13192786.0
+X,566,NGA,0,W00,4012,"Retreaded or used pneumatic tyres of rubber; solid or cushion tyres, interchangeable tyre treads and tyre flaps, of rubber",N/A,,1084965.0
+X,566,NGA,148,TCD,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,1887614.0,857547.0
+X,566,NGA,148,TCD,3926,"Articles of plastics and articles of other materials of heading no. 3901 to 3914, n.e.s. in chapter 39",kg,5.0,1264.0
+X,566,NGA,148,TCD,4008,"Plates, sheets, strip, rods and profile shapes, of vulcanised rubber other than hard rubber",kg,10000.0,4646.0
+X,566,NGA,148,TCD,4011,"New pneumatic tyres, of rubber",N/A,,34260.0
+X,566,NGA,12,DZA,4011,"New pneumatic tyres, of rubber",N/A,,470629.0
+X,566,NGA,24,AGO,4011,"New pneumatic tyres, of rubber",N/A,,107561.0
+X,566,NGA,56,BEL,4012,"Retreaded or used pneumatic tyres of rubber; solid or cushion tyres, interchangeable tyre treads and tyre flaps, of rubber",N/A,,83445.0
+X,566,NGA,120,CMR,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,114432.0,100396.0
+X,566,NGA,120,CMR,4011,"New pneumatic tyres, of rubber",N/A,,4802033.0
+X,566,NGA,132,CPV,4011,"New pneumatic tyres, of rubber",N/A,,16301.0
+X,566,NGA,156,CHN,4009,"Tubes, pipes and hoses, of vulcanised rubber (other than hard rubber), with or without their fittings (eg joints, elbows, flanges)",kg,3000.0,5400.0
+X,566,NGA,156,CHN,4011,"New pneumatic tyres, of rubber",N/A,,538392.0
+X,566,NGA,178,COG,4011,"New pneumatic tyres, of rubber",N/A,,33568.0
+X,566,NGA,184,COK,4011,"New pneumatic tyres, of rubber",N/A,,69688.0
+X,566,NGA,204,BEN,3004,"Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed products for therapeutic or prophylactic use, put up in measured doses or in forms or packings for retail sale",kg,3700.0,13574.0
+X,566,NGA,204,BEN,3903,"Polymers of styrene, in primary forms",kg,25680.0,2913686.0
+X,566,NGA,204,BEN,3908,Polyamides in primary forms,kg,10.0,6.0
+X,566,NGA,204,BEN,3917,"Tubes, pipes and hoses and fittings thereof (for example, joints, elbows, flanges), of plastics",kg,60000.0,103993.0
+X,566,NGA,204,BEN,3918,"Floor coverings of plastics, self-adhesive or not, in rolls or tiles; wall or ceiling coverings of plastics, in rolls of a width not less than 45cm",kg,2500.0,1213.0
+X,566,NGA,204,BEN,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,15.0,19.0
+X,566,NGA,204,BEN,3926,"Articles of plastics and articles of other materials of heading no. 3901 to 3914, n.e.s. in chapter 39",kg,132360.0,101400.0
+X,566,NGA,204,BEN,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,15.0,2.0
+X,566,NGA,204,BEN,4012,"Retreaded or used pneumatic tyres of rubber; solid or cushion tyres, interchangeable tyre treads and tyre flaps, of rubber",N/A,,1000015.0
+X,566,NGA,251,FRA,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,397385.0,788338.0
+X,566,NGA,251,FRA,4011,"New pneumatic tyres, of rubber",N/A,,161956.0
+X,566,NGA,562,NER,4011,"New pneumatic tyres, of rubber",N/A,,18253.0
+X,566,NGA,266,GAB,4011,"New pneumatic tyres, of rubber",N/A,,47383.0
+X,566,NGA,288,GHA,3926,"Articles of plastics and articles of other materials of heading no. 3901 to 3914, n.e.s. in chapter 39",kg,2500.0,1600.0
+X,566,NGA,288,GHA,4011,"New pneumatic tyres, of rubber",N/A,,121806.0
+X,566,NGA,288,GHA,4012,"Retreaded or used pneumatic tyres of rubber; solid or cushion tyres, interchangeable tyre treads and tyre flaps, of rubber",N/A,,1504.0
+X,566,NGA,380,ITA,3918,"Floor coverings of plastics, self-adhesive or not, in rolls or tiles; wall or ceiling coverings of plastics, in rolls of a width not less than 45cm",kg,48.0,27132.0
+X,566,NGA,380,ITA,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,201600.0,180606.0
+X,566,NGA,380,ITA,4010,"Conveyor or transmission belts or belting, of vulcanised rubber",kg,1400.0,186685.0
+X,566,NGA,380,ITA,4011,"New pneumatic tyres, of rubber",N/A,,149974.0
+X,566,NGA,384,CIV,4011,"New pneumatic tyres, of rubber",N/A,,171398.0
+X,566,NGA,404,KEN,4011,"New pneumatic tyres, of rubber",N/A,,214534.0
+X,566,NGA,466,MLI,3904,"Polymers of vinyl chloride or of other halogenated olefins, in primary forms",kg,2500.0,8297.0
+X,566,NGA,466,MLI,3912,"Cellulose and its chemical derivatives, n.e.s. or included, in primary forms",kg,1250.0,2551.0
+X,566,NGA,466,MLI,4011,"New pneumatic tyres, of rubber",N/A,,153714.0
+X,566,NGA,478,MRT,4011,"New pneumatic tyres, of rubber",N/A,,237588.0
+X,566,NGA,490,S19,4011,"New pneumatic tyres, of rubber",N/A,,29045.0
+X,566,NGA,562,NER,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,143850.0,302381.0
+X,566,NGA,562,NER,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,396900.0,349313.0
+X,566,NGA,608,PHL,4011,"New pneumatic tyres, of rubber",N/A,,42714.0
+X,566,NGA,686,SEN,4011,"New pneumatic tyres, of rubber",N/A,,32435.0
+X,566,NGA,702,SGP,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,198450.0,166903.0
+X,566,NGA,710,ZAF,4011,"New pneumatic tyres, of rubber",N/A,,741361.0
+X,566,NGA,724,ESP,4010,"Conveyor or transmission belts or belting, of vulcanised rubber",kg,3300.0,133125.0
+X,566,NGA,736,SDN,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,136250.0,61042.0
+X,566,NGA,768,TGO,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,12500.0,193796.0
+X,566,NGA,784,ARE,4011,"New pneumatic tyres, of rubber",N/A,,50207.0
+X,566,NGA,800,UGA,4011,"New pneumatic tyres, of rubber",N/A,,77965.0
+X,566,NGA,826,GBR,4011,"New pneumatic tyres, of rubber",N/A,,909981.0
+X,566,NGA,834,TZA,4011,"New pneumatic tyres, of rubber",N/A,,16435.0
+X,566,NGA,842,USA,4009,"Tubes, pipes and hoses, of vulcanised rubber (other than hard rubber), with or without their fittings (eg joints, elbows, flanges)",kg,19000.0,52688.0
+X,566,NGA,842,USA,4011,"New pneumatic tyres, of rubber",N/A,,3943606.0
+X,566,NGA,854,BFA,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,3000.0,32815.0
+X,566,NGA,0,W00,4013,"Inner tubes, of rubber",N/A,,5967.0
+X,566,NGA,0,W00,4015,"Articles of apparel and clothing accessories (including gloves), for all purposes, of vulcanised rubber other than hard rubber",kg,987730.0,241317.0
+X,566,NGA,0,W00,5109,"Yarn of wool or of fine animal hair, put up for retail sale",kg,15.0,58004.0
+X,566,NGA,0,W00,7007,"Safety glass, consisting of toughened (tempered) or laminated glass",N/A,,85.0
+X,566,NGA,0,W00,7201,"Pig iron and spiegeleisen in pigs, blocks or other primary forms",kg,30110.0,8055.0
+X,566,NGA,24,AGO,7007,"Safety glass, consisting of toughened (tempered) or laminated glass",N/A,,85.0
+X,566,NGA,148,TCD,7201,"Pig iron and spiegeleisen in pigs, blocks or other primary forms",kg,50.0,2639.0
+X,566,NGA,204,BEN,4013,"Inner tubes, of rubber",N/A,,5967.0
+X,566,NGA,204,BEN,4015,"Articles of apparel and clothing accessories (including gloves), for all purposes, of vulcanised rubber other than hard rubber",kg,967730.0,238078.0
+X,566,NGA,204,BEN,5109,"Yarn of wool or of fine animal hair, put up for retail sale",kg,15.0,58004.0
+X,566,NGA,288,GHA,4015,"Articles of apparel and clothing accessories (including gloves), for all purposes, of vulcanised rubber other than hard rubber",kg,20000.0,3240.0
+X,566,NGA,699,IND,7201,"Pig iron and spiegeleisen in pigs, blocks or other primary forms",kg,30060.0,5416.0
+X,566,NGA,0,W00,8406,Turbines; steam and other vapour turbines,N/A,,2507.0
+X,566,NGA,0,W00,8407,Reciprocating or rotary internal combustion piston engines,N/A,,3144.0
+X,566,NGA,0,W00,8408,Compression-ignition internal combustion piston engines (diesel or semi-diesel engines),N/A,,60702.0
+X,566,NGA,0,W00,8411,"Turbo-jets, turbo-propellers and other gas turbines",N/A,,3900.0
+X,566,NGA,0,W00,7210,"Iron or non-alloy steel; flat-rolled products, width 600mm or more, clad, plated or coated",kg,330000.0,177805.0
+X,566,NGA,0,W00,7211,"Iron or non-alloy steel; flat-rolled products, width less than 600mm, not clad, plated or coated",kg,22000.0,66821.0
+X,566,NGA,24,AGO,8408,Compression-ignition internal combustion piston engines (diesel or semi-diesel engines),N/A,,59754.0
+X,566,NGA,156,CHN,8406,Turbines; steam and other vapour turbines,N/A,,2507.0
+X,566,NGA,204,BEN,7210,"Iron or non-alloy steel; flat-rolled products, width 600mm or more, clad, plated or coated",kg,330000.0,177805.0
+X,566,NGA,204,BEN,8411,"Turbo-jets, turbo-propellers and other gas turbines",N/A,,3900.0
+X,566,NGA,764,THA,7211,"Iron or non-alloy steel; flat-rolled products, width less than 600mm, not clad, plated or coated",kg,22000.0,66821.0
+X,566,NGA,842,USA,8407,Reciprocating or rotary internal combustion piston engines,N/A,,3144.0
+X,566,NGA,842,USA,8408,Compression-ignition internal combustion piston engines (diesel or semi-diesel engines),N/A,,947.0
+X,566,NGA,0,W00,8412,"Engines and motors; n.e.s. (eg reaction engines, hydraulic power engines, pneumatic power engines)",N/A,,39028.0
+X,566,NGA,0,W00,8413,"Pumps; for liquids, whether or not fitted with measuring device, liquid elevators",N/A,,29117.0
+X,566,NGA,0,W00,8414,"Air or vacuum pumps, air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan whether or not fitted with filters",N/A,,54821511.0
+X,566,NGA,0,W00,8419,"Machinery, plant or laboratory equipment for the treatment of materials by a process involving change of temperature (ie heating, cooking, etc); instantaneous or storage water heaters, non-electric",N/A,,53663.0
+X,566,NGA,0,W00,8420,"Machines; calendering or other rolling machines, for other than metal or glass and cylinders therefor",N/A,,13663.0
+X,566,NGA,0,W00,8421,"Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus for liquids or gases",N/A,,250826.0
+X,566,NGA,0,W00,8424,"Mechanical appliances for projecting, dispersing or spraying liquids or powders; fire extinguishers, spray guns, steam, sand blasting machines",N/A,,6733.0
+X,566,NGA,0,W00,8425,Pulley tackle and hoists other than skip hoists; winches and capstans; jacks,N/A,,39525.0
+X,566,NGA,0,W00,8439,"Machinery; for making pulp of fibrous cellulosic material, or for making or finishing paper or paperboard",N/A,,22283.0
+X,566,NGA,0,W00,8441,"Machines; for making up paper pulp, paper or paperboard, including cutting machines of all kinds",N/A,,40.0
+X,566,NGA,0,W00,8448,"Machinery, auxiliary; for use with machines of heading no. 8444 to 8447 (eg dobbies, jaquards, automatic stop motions, shuttle changing mechanisms) parts, accessories for machines of heading no. 8444, 8447",kg,11.0,93.0
+X,566,NGA,0,W00,8459,"Machine-tools; (including way-type unit head machines) for drilling, boring, milling, threading or tapping by removing metal, other than lathes of heading no. 8458",N/A,,7802.0
+X,566,NGA,0,W00,8426,"Derricks, cranes, including cable cranes, mobile lifting frames, straddle carriers and works trucks fitted with a crane",N/A,,137700.0
+X,566,NGA,0,W00,8427,Fork-lift and other works trucks; fitted with lifting or handling equipment,N/A,,553006.0
+X,566,NGA,0,W00,8428,"Lifting, handling, loading or unloading machinery (eg lifts, escalators, conveyors, teleferics)",N/A,,5884.0
+X,566,NGA,12,DZA,8435,"Presses, crushers and similar machinery; used in the manufacture of wine, cider, fruit juices or similar beverages",N/A,,3871.0
+X,566,NGA,24,AGO,8414,"Air or vacuum pumps, air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan whether or not fitted with filters",N/A,,64.0
+X,566,NGA,24,AGO,8425,Pulley tackle and hoists other than skip hoists; winches and capstans; jacks,N/A,,64.0
+X,566,NGA,24,AGO,8431,Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430,kg,7260.0,32867.0
+X,566,NGA,56,BEL,8429,"Bulldozers, graders, levellers, scrapers, angledozers, mechanical shovels, excavators, shovel loaders, tamping machines and road rollers, self-propelled",u,6.0,209582.0
+X,566,NGA,56,BEL,8431,Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430,kg,5600.0,10245.0
+X,566,NGA,0,W00,8429,"Bulldozers, graders, levellers, scrapers, angledozers, mechanical shovels, excavators, shovel loaders, tamping machines and road rollers, self-propelled",u,9.0,427684.0
+X,566,NGA,0,W00,8430,"Moving, grading, levelling, scraping, excavating, tamping, compacting, extracting or boring machinery, for earth, minerals, or ores; pile drivers and extractors; snow ploughs and snow blowers",N/A,,141055.0
+X,566,NGA,0,W00,8431,Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430,kg,1407751.0,6624400.0
+X,566,NGA,0,W00,8435,"Presses, crushers and similar machinery; used in the manufacture of wine, cider, fruit juices or similar beverages",N/A,,13137.0
+X,566,NGA,0,W00,8438,"Machinery n.e.s. in this chapter, for the industrial preparation or manufacture of food or drink; other than machinery for extraction or preparation of animal or fixed vegetable fats or oils",N/A,,209290.0
+X,566,NGA,156,CHN,8425,Pulley tackle and hoists other than skip hoists; winches and capstans; jacks,N/A,,37084.0
+X,566,NGA,156,CHN,8428,"Lifting, handling, loading or unloading machinery (eg lifts, escalators, conveyors, teleferics)",N/A,,4338.0
+X,566,NGA,156,CHN,8431,Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430,kg,267252.0,1491069.0
+X,566,NGA,251,FRA,8431,Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430,kg,16000.0,4672.0
+X,566,NGA,276,DEU,8421,"Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus for liquids or gases",N/A,,2305.0
+X,566,NGA,276,DEU,8448,"Machinery, auxiliary; for use with machines of heading no. 8444 to 8447 (eg dobbies, jaquards, automatic stop motions, shuttle changing mechanisms) parts, accessories for machines of heading no. 8444, 8447",kg,11.0,93.0
+X,566,NGA,288,GHA,8431,Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430,kg,197960.0,459830.0
+X,566,NGA,380,ITA,8412,"Engines and motors; n.e.s. (eg reaction engines, hydraulic power engines, pneumatic power engines)",N/A,,39028.0
+X,566,NGA,380,ITA,8441,"Machines; for making up paper pulp, paper or paperboard, including cutting machines of all kinds",N/A,,40.0
+X,566,NGA,384,CIV,8426,"Derricks, cranes, including cable cranes, mobile lifting frames, straddle carriers and works trucks fitted with a crane",N/A,,99226.0
+X,566,NGA,392,JPN,8435,"Presses, crushers and similar machinery; used in the manufacture of wine, cider, fruit juices or similar beverages",N/A,,9266.0
+X,566,NGA,490,S19,8413,"Pumps; for liquids, whether or not fitted with measuring device, liquid elevators",N/A,,2053.0
+X,566,NGA,490,S19,8425,Pulley tackle and hoists other than skip hoists; winches and capstans; jacks,N/A,,2377.0
+X,566,NGA,490,S19,8431,Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430,kg,73115.0,1286796.0
+X,566,NGA,699,IND,8438,"Machinery n.e.s. in this chapter, for the industrial preparation or manufacture of food or drink; other than machinery for extraction or preparation of animal or fixed vegetable fats or oils",N/A,,204.0
+X,566,NGA,702,SGP,8430,"Moving, grading, levelling, scraping, excavating, tamping, compacting, extracting or boring machinery, for earth, minerals, or ores; pile drivers and extractors; snow ploughs and snow blowers",N/A,,43276.0
+X,566,NGA,702,SGP,8431,Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430,kg,429861.0,1750795.0
+X,566,NGA,710,ZAF,8421,"Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus for liquids or gases",N/A,,150630.0
+X,566,NGA,710,ZAF,8426,"Derricks, cranes, including cable cranes, mobile lifting frames, straddle carriers and works trucks fitted with a crane",N/A,,21762.0
+X,566,NGA,740,SUR,8431,Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430,kg,2500.0,37326.0
+X,566,NGA,748,SWZ,8431,Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430,kg,5580.0,1630.0
+X,566,NGA,826,GBR,8419,"Machinery, plant or laboratory equipment for the treatment of materials by a process involving change of temperature (ie heating, cooking, etc); instantaneous or storage water heaters, non-electric",N/A,,53663.0
+X,566,NGA,826,GBR,8421,"Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus for liquids or gases",N/A,,2273.0
+X,566,NGA,826,GBR,8431,Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430,kg,174494.0,237826.0
+X,566,NGA,528,NLD,8413,"Pumps; for liquids, whether or not fitted with measuring device, liquid elevators",N/A,,8647.0
+X,566,NGA,528,NLD,8424,"Mechanical appliances for projecting, dispersing or spraying liquids or powders; fire extinguishers, spray guns, steam, sand blasting machines",N/A,,5570.0
+X,566,NGA,528,NLD,8429,"Bulldozers, graders, levellers, scrapers, angledozers, mechanical shovels, excavators, shovel loaders, tamping machines and road rollers, self-propelled",u,3.0,218102.0
+X,566,NGA,842,USA,8413,"Pumps; for liquids, whether or not fitted with measuring device, liquid elevators",N/A,,18417.0
+X,566,NGA,842,USA,8414,"Air or vacuum pumps, air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan whether or not fitted with filters",N/A,,54821448.0
+X,566,NGA,842,USA,8420,"Machines; calendering or other rolling machines, for other than metal or glass and cylinders therefor",N/A,,13663.0
+X,566,NGA,842,USA,8421,"Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus for liquids or gases",N/A,,95618.0
+X,566,NGA,842,USA,8424,"Mechanical appliances for projecting, dispersing or spraying liquids or powders; fire extinguishers, spray guns, steam, sand blasting machines",N/A,,1162.0
+X,566,NGA,842,USA,8426,"Derricks, cranes, including cable cranes, mobile lifting frames, straddle carriers and works trucks fitted with a crane",N/A,,16713.0
+X,566,NGA,842,USA,8427,Fork-lift and other works trucks; fitted with lifting or handling equipment,N/A,,553006.0
+X,566,NGA,842,USA,8428,"Lifting, handling, loading or unloading machinery (eg lifts, escalators, conveyors, teleferics)",N/A,,1546.0
+X,566,NGA,842,USA,8430,"Moving, grading, levelling, scraping, excavating, tamping, compacting, extracting or boring machinery, for earth, minerals, or ores; pile drivers and extractors; snow ploughs and snow blowers",N/A,,97779.0
+X,566,NGA,842,USA,8431,Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430,kg,228129.0,1311344.0
+X,566,NGA,842,USA,8438,"Machinery n.e.s. in this chapter, for the industrial preparation or manufacture of food or drink; other than machinery for extraction or preparation of animal or fixed vegetable fats or oils",N/A,,209086.0
+X,566,NGA,842,USA,8439,"Machinery; for making pulp of fibrous cellulosic material, or for making or finishing paper or paperboard",N/A,,22283.0
+X,566,NGA,842,USA,8459,"Machine-tools; (including way-type unit head machines) for drilling, boring, milling, threading or tapping by removing metal, other than lathes of heading no. 8458",N/A,,7802.0
+X,566,NGA,0,W00,8514,"Industrial or laboratory electric (including induction or dielectric) furnaces, ovens, other induction or dielectric heating equipment",N/A,,2244101.0
+X,566,NGA,0,W00,8463,"Machine-tools; n.e.s. for working metal, sintered metal carbides or cermets without removing material",u,1.0,4391.0
+X,566,NGA,0,W00,8468,"Machinery and apparatus for soldering, brazing, welding, whether or not capable of cutting, other than those of heading no. 8515; gas-operated surface tempering machines and appliances",N/A,,6830.0
+X,566,NGA,0,W00,8471,"Automatic data processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data n.e.s.",N/A,,8911.0
+X,566,NGA,0,W00,8473,"Machinery; parts and accessories (not covers, carrying cases and the like) suitable for use solely, principally with machines of heading no. 8469 to 8472",kg,734.0,180490.0
+X,566,NGA,0,W00,8474,"Machinery for sorting, screening, separating, washing, crushing, grinding, mixing or kneading earth, stone, ores in solid form, shaping, moulding machinery for solid mineral fuels",N/A,,46375.0
+X,566,NGA,0,W00,8477,"Machinery; for working rubber or plastics or for the manufacture of products from these materials, n.e.s. in this chapter",N/A,,374.0
+X,566,NGA,0,W00,8479,"Machinery and mechanical appliances; having individual functions, n.e.s. in this chapter",N/A,,27415.0
+X,566,NGA,0,W00,8481,"Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, including pressure-reducing valves and thermostatically controlled valves",kg,427024.0,640314.0
+X,566,NGA,0,W00,8483,Transmission shafts (including cam and crank) and cranks; bearing housings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers; flywheels and pulleys; clutches and shaft couplings,N/A,,2951.0
+X,566,NGA,0,W00,8484,"Gaskets and similar joints of metal sheeting combined with other material or of two or more layers of metal; sets or assortments of gaskets and similar joints, dissimilar in composition, put up in pouches, envelopes or similar packings; mechanical seals",kg,6462.0,4900.0
+X,566,NGA,0,W00,8501,Electric motors and generators (excluding generating sets),N/A,,523641.0
+X,566,NGA,0,W00,8502,Electric generating sets and rotary converters,N/A,,120188.0
+X,566,NGA,0,W00,8503,Electric motors and generators; parts suitable for use solely or principally with the machines of heading no. 8501 or 8502,kg,17555.0,36443.0
+X,566,NGA,0,W00,8504,"Electric transformers, static converters (eg rectifiers) and inductors",N/A,,91501.0
+X,566,NGA,0,W00,8506,Cells and batteries; primary,N/A,,223915.0
+X,566,NGA,0,W00,8507,"Electric accumulators, including separators therefor; whether or not rectangular (including square)",N/A,,107906.0
+X,566,NGA,0,W00,8510,"Shavers, hair clippers and hair removing appliances, with self-contained electric motor",N/A,,602.0
+X,566,NGA,0,W00,8513,"Lamps; portable, electric, designed to function by their own source of energy (eg dry batteries, accumulators, magnetos), excluding lighting equipment of heading no. 8512",N/A,,3332.0
+X,566,NGA,0,W00,8517,"Electrical apparatus for line telephony or line telegraphy, including line telephone sets with cordless handsets and telecommunication apparatus for carrier-current line systems or for digital line systems; videophones",N/A,,1367.0
+X,566,NGA,0,W00,8525,"Transmission apparatus for radio-telephony, radio-telegraphy, radio-broadcasting or television, whether or not incorporating reception, sound recording or reproducing apparatus; television cameras; still image video cameras, other video camera recorders",N/A,,197.0
+X,566,NGA,24,AGO,8501,Electric motors and generators (excluding generating sets),N/A,,106653.0
+X,566,NGA,56,BEL,8503,Electric motors and generators; parts suitable for use solely or principally with the machines of heading no. 8501 or 8502,kg,3972.0,3074.0
+X,566,NGA,120,CMR,8481,"Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, including pressure-reducing valves and thermostatically controlled valves",kg,23915.0,29388.0
+X,566,NGA,148,TCD,8506,Cells and batteries; primary,N/A,,2479.0
+X,566,NGA,148,TCD,8507,"Electric accumulators, including separators therefor; whether or not rectangular (including square)",N/A,,1177.0
+X,566,NGA,148,TCD,8513,"Lamps; portable, electric, designed to function by their own source of energy (eg dry batteries, accumulators, magnetos), excluding lighting equipment of heading no. 8512",N/A,,3332.0
+X,566,NGA,156,CHN,8479,"Machinery and mechanical appliances; having individual functions, n.e.s. in this chapter",N/A,,27415.0
+X,566,NGA,156,CHN,8481,"Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, including pressure-reducing valves and thermostatically controlled valves",kg,187001.0,318996.0
+X,566,NGA,156,CHN,8501,Electric motors and generators (excluding generating sets),N/A,,25266.0
+X,566,NGA,156,CHN,8504,"Electric transformers, static converters (eg rectifiers) and inductors",N/A,,17523.0
+X,566,NGA,180,COD,8501,Electric motors and generators (excluding generating sets),N/A,,119359.0
+X,566,NGA,180,COD,8502,Electric generating sets and rotary converters,N/A,,79375.0
+X,566,NGA,204,BEN,8506,Cells and batteries; primary,N/A,,154813.0
+X,566,NGA,204,BEN,8507,"Electric accumulators, including separators therefor; whether or not rectangular (including square)",N/A,,93158.0
+X,566,NGA,276,DEU,8477,"Machinery; for working rubber or plastics or for the manufacture of products from these materials, n.e.s. in this chapter",N/A,,374.0
+X,566,NGA,276,DEU,8481,"Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, including pressure-reducing valves and thermostatically controlled valves",kg,1200.0,2026.0
+X,566,NGA,276,DEU,8517,"Electrical apparatus for line telephony or line telegraphy, including line telephone sets with cordless handsets and telecommunication apparatus for carrier-current line systems or for digital line systems; videophones",N/A,,1367.0
+X,566,NGA,288,GHA,8507,"Electric accumulators, including separators therefor; whether or not rectangular (including square)",N/A,,1793.0
+X,566,NGA,324,GIN,8501,Electric motors and generators (excluding generating sets),N/A,,216877.0
+X,566,NGA,360,IDN,8481,"Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, including pressure-reducing valves and thermostatically controlled valves",kg,1891.0,9952.0
+X,566,NGA,380,ITA,8483,Transmission shafts (including cam and crank) and cranks; bearing housings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers; flywheels and pulleys; clutches and shaft couplings,N/A,,54.0
+X,566,NGA,380,ITA,8504,"Electric transformers, static converters (eg rectifiers) and inductors",N/A,,66848.0
+X,566,NGA,380,ITA,8525,"Transmission apparatus for radio-telephony, radio-telegraphy, radio-broadcasting or television, whether or not incorporating reception, sound recording or reproducing apparatus; television cameras; still image video cameras, other video camera recorders",N/A,,197.0
+X,566,NGA,422,LBN,8468,"Machinery and apparatus for soldering, brazing, welding, whether or not capable of cutting, other than those of heading no. 8515; gas-operated surface tempering machines and appliances",N/A,,6830.0
+X,566,NGA,490,S19,8503,Electric motors and generators; parts suitable for use solely or principally with the machines of heading no. 8501 or 8502,kg,10838.0,2785.0
+X,566,NGA,490,S19,8504,"Electric transformers, static converters (eg rectifiers) and inductors",N/A,,7130.0
+X,566,NGA,251,FRA,8471,"Automatic data processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data n.e.s.",N/A,,554.0
+X,566,NGA,251,FRA,8481,"Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, including pressure-reducing valves and thermostatically controlled valves",kg,28776.0,4243.0
+X,566,NGA,251,FRA,8503,Electric motors and generators; parts suitable for use solely or principally with the machines of heading no. 8501 or 8502,kg,45.0,4435.0
+X,566,NGA,740,SUR,8483,Transmission shafts (including cam and crank) and cranks; bearing housings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers; flywheels and pulleys; clutches and shaft couplings,N/A,,1114.0
+X,566,NGA,768,TGO,8474,"Machinery for sorting, screening, separating, washing, crushing, grinding, mixing or kneading earth, stone, ores in solid form, shaping, moulding machinery for solid mineral fuels",N/A,,36612.0
+X,566,NGA,776,TON,8484,"Gaskets and similar joints of metal sheeting combined with other material or of two or more layers of metal; sets or assortments of gaskets and similar joints, dissimilar in composition, put up in pouches, envelopes or similar packings; mechanical seals",kg,6397.0,4632.0
+X,566,NGA,784,ARE,8473,"Machinery; parts and accessories (not covers, carrying cases and the like) suitable for use solely, principally with machines of heading no. 8469 to 8472",kg,9.0,901.0
+X,566,NGA,826,GBR,8474,"Machinery for sorting, screening, separating, washing, crushing, grinding, mixing or kneading earth, stone, ores in solid form, shaping, moulding machinery for solid mineral fuels",N/A,,9764.0
+X,566,NGA,826,GBR,8481,"Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, including pressure-reducing valves and thermostatically controlled valves",kg,79500.0,162816.0
+X,566,NGA,826,GBR,8484,"Gaskets and similar joints of metal sheeting combined with other material or of two or more layers of metal; sets or assortments of gaskets and similar joints, dissimilar in composition, put up in pouches, envelopes or similar packings; mechanical seals",kg,65.0,268.0
+X,566,NGA,826,GBR,8501,Electric motors and generators (excluding generating sets),N/A,,5508.0
+X,566,NGA,826,GBR,8507,"Electric accumulators, including separators therefor; whether or not rectangular (including square)",N/A,,11700.0
+X,566,NGA,826,GBR,8510,"Shavers, hair clippers and hair removing appliances, with self-contained electric motor",N/A,,602.0
+X,566,NGA,826,GBR,8514,"Industrial or laboratory electric (including induction or dielectric) furnaces, ovens, other induction or dielectric heating equipment",N/A,,2244101.0
+X,566,NGA,528,NLD,8501,Electric motors and generators (excluding generating sets),N/A,,15067.0
+X,566,NGA,842,USA,8463,"Machine-tools; n.e.s. for working metal, sintered metal carbides or cermets without removing material",u,1.0,4391.0
+X,566,NGA,842,USA,8471,"Automatic data processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data n.e.s.",N/A,,8357.0
+X,566,NGA,842,USA,8473,"Machinery; parts and accessories (not covers, carrying cases and the like) suitable for use solely, principally with machines of heading no. 8469 to 8472",kg,725.0,179589.0
+X,566,NGA,842,USA,8481,"Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, including pressure-reducing valves and thermostatically controlled valves",kg,104741.0,112892.0
+X,566,NGA,842,USA,8483,Transmission shafts (including cam and crank) and cranks; bearing housings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers; flywheels and pulleys; clutches and shaft couplings,N/A,,1783.0
+X,566,NGA,842,USA,8501,Electric motors and generators (excluding generating sets),N/A,,34911.0
+X,566,NGA,842,USA,8502,Electric generating sets and rotary converters,N/A,,40813.0
+X,566,NGA,842,USA,8503,Electric motors and generators; parts suitable for use solely or principally with the machines of heading no. 8501 or 8502,kg,2700.0,26150.0
+X,566,NGA,842,USA,8506,Cells and batteries; primary,N/A,,66624.0
+X,566,NGA,842,USA,8507,"Electric accumulators, including separators therefor; whether or not rectangular (including square)",N/A,,78.0
+X,566,NGA,0,W00,8527,"Radio-telephony, radio-telegraphy or radio-broadcasting reception apparatus; whether or not combined with sound recording, reproducing apparatus or a clock, in the same housing",N/A,,241.0
+X,566,NGA,0,W00,8529,Transmission apparatus; parts suitable for use solely or principally with the apparatus of heading no. 8525 to 8528,kg,8000.0,63047.0
+X,566,NGA,0,W00,8535,"Electrical apparatus for switching, protecting electrical circuits, for making connections to or in electrical circuits; for a voltage exceeding 1000 volts",kg,122000.0,135107.0
+X,566,NGA,0,W00,8538,"Electrical apparatus; parts suitable for use solely or principally with the apparatus of heading no. 8535, 8536 and 8537",kg,35280.0,1000176.0
+X,566,NGA,0,W00,8544,"Insulated wire, cable and other electric conductors, connector fitted or not; optical fibre cables of individually sheathed fibres, whether or not assembled with electric conductors or fitted with connectors",kg,1113172.0,265891.0
+X,566,NGA,0,W00,8545,"Carbon electrodes, carbon brushes, lamp carbons, battery carbons and other articles of graphite or other carbon; with or without metal, of a kind used for electrical purposes",kg,25000.0,4880.0
+X,566,NGA,0,W00,8546,Electrical insulators of any material,kg,20.0,4027.0
+X,566,NGA,0,W00,8703,"Motor cars and other motor vehicles; principally designed for the transport of persons (other than those of heading no. 8702), including station wagons and racing cars",u,1.0,33335.0
+X,566,NGA,0,W00,8704,Vehicles; for the transport of goods,u,42.0,2145629.0
+X,566,NGA,0,W00,8708,"Motor vehicles; parts and accessories, of heading no. 8701 to 8705",kg,40252.0,48164.0
+X,566,NGA,0,W00,8716,"Trailers and semi-trailers; other vehicles, not mechanically propelled; parts thereof",N/A,,18089.0
+X,566,NGA,0,W00,9001,"Optical fibres and optical fibre bundles; optical fibre cables not of heading no. 8544; sheets, plates of polarising material; lenses, prisms, mirrors, of any material; unmounted; not non optical glass",N/A,,4642299.0
+X,566,NGA,0,W00,9003,"Frames and mountings; for spectacles, goggles or the like, and parts",N/A,,7038.0
+X,566,NGA,24,AGO,8708,"Motor vehicles; parts and accessories, of heading no. 8701 to 8705",kg,746.0,1560.0
+X,566,NGA,52,BRB,9001,"Optical fibres and optical fibre bundles; optical fibre cables not of heading no. 8544; sheets, plates of polarising material; lenses, prisms, mirrors, of any material; unmounted; not non optical glass",N/A,,37580.0
+X,566,NGA,56,BEL,8708,"Motor vehicles; parts and accessories, of heading no. 8701 to 8705",kg,14957.0,43319.0
+X,566,NGA,56,BEL,9001,"Optical fibres and optical fibre bundles; optical fibre cables not of heading no. 8544; sheets, plates of polarising material; lenses, prisms, mirrors, of any material; unmounted; not non optical glass",N/A,,35411.0
+X,566,NGA,120,CMR,8716,"Trailers and semi-trailers; other vehicles, not mechanically propelled; parts thereof",N/A,,18089.0
+X,566,NGA,148,TCD,8545,"Carbon electrodes, carbon brushes, lamp carbons, battery carbons and other articles of graphite or other carbon; with or without metal, of a kind used for electrical purposes",kg,25000.0,4880.0
+X,566,NGA,156,CHN,8529,Transmission apparatus; parts suitable for use solely or principally with the apparatus of heading no. 8525 to 8528,kg,8000.0,63047.0
+X,566,NGA,156,CHN,9001,"Optical fibres and optical fibre bundles; optical fibre cables not of heading no. 8544; sheets, plates of polarising material; lenses, prisms, mirrors, of any material; unmounted; not non optical glass",N/A,,558.0
+X,566,NGA,204,BEN,8544,"Insulated wire, cable and other electric conductors, connector fitted or not; optical fibre cables of individually sheathed fibres, whether or not assembled with electric conductors or fitted with connectors",kg,1057184.0,209947.0
+X,566,NGA,204,BEN,8546,Electrical insulators of any material,kg,20.0,4027.0
+X,566,NGA,204,BEN,9003,"Frames and mountings; for spectacles, goggles or the like, and parts",N/A,,7038.0
+X,566,NGA,276,DEU,8527,"Radio-telephony, radio-telegraphy or radio-broadcasting reception apparatus; whether or not combined with sound recording, reproducing apparatus or a clock, in the same housing",N/A,,241.0
+X,566,NGA,276,DEU,8703,"Motor cars and other motor vehicles; principally designed for the transport of persons (other than those of heading no. 8702), including station wagons and racing cars",u,0.0,931.0
+X,566,NGA,288,GHA,8535,"Electrical apparatus for switching, protecting electrical circuits, for making connections to or in electrical circuits; for a voltage exceeding 1000 volts",kg,122000.0,135107.0
+X,566,NGA,288,GHA,8544,"Insulated wire, cable and other electric conductors, connector fitted or not; optical fibre cables of individually sheathed fibres, whether or not assembled with electric conductors or fitted with connectors",kg,40000.0,4011.0
+X,566,NGA,288,GHA,8704,Vehicles; for the transport of goods,u,23.0,1194642.0
+X,566,NGA,324,GIN,8708,"Motor vehicles; parts and accessories, of heading no. 8701 to 8705",kg,2500.0,629.0
+X,566,NGA,490,S19,8538,"Electrical apparatus; parts suitable for use solely or principally with the apparatus of heading no. 8535, 8536 and 8537",kg,35280.0,1000176.0
+X,566,NGA,586,PAK,8704,Vehicles; for the transport of goods,u,5.0,268000.0
+X,566,NGA,757,CHE,8708,"Motor vehicles; parts and accessories, of heading no. 8701 to 8705",kg,49.0,1927.0
+X,566,NGA,826,GBR,8708,"Motor vehicles; parts and accessories, of heading no. 8701 to 8705",kg,22000.0,728.0
+X,566,NGA,528,NLD,8703,"Motor cars and other motor vehicles; principally designed for the transport of persons (other than those of heading no. 8702), including station wagons and racing cars",u,0.0,53.0
+X,566,NGA,528,NLD,9001,"Optical fibres and optical fibre bundles; optical fibre cables not of heading no. 8544; sheets, plates of polarising material; lenses, prisms, mirrors, of any material; unmounted; not non optical glass",N/A,,89499.0
+X,566,NGA,842,USA,8544,"Insulated wire, cable and other electric conductors, connector fitted or not; optical fibre cables of individually sheathed fibres, whether or not assembled with electric conductors or fitted with connectors",kg,15988.0,51933.0
+X,566,NGA,842,USA,8703,"Motor cars and other motor vehicles; principally designed for the transport of persons (other than those of heading no. 8702), including station wagons and racing cars",u,1.0,32350.0
+X,566,NGA,842,USA,8704,Vehicles; for the transport of goods,u,13.0,682987.0
+X,566,NGA,842,USA,9001,"Optical fibres and optical fibre bundles; optical fibre cables not of heading no. 8544; sheets, plates of polarising material; lenses, prisms, mirrors, of any material; unmounted; not non optical glass",N/A,,4479251.0
+X,566,NGA,0,W00,9015,"Surveying (including photogrammetrical surveying), hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances, excluding compasses, rangefinders",N/A,,414817.0
+X,566,NGA,0,W00,9025,"Hydrometers and similar floating instruments, thermometers, pyrometers, barometers, hygrometers and psychrometers, recording or not",N/A,,3871.0
+X,566,NGA,0,W00,9102,"Wrist-watches, pocket-watches, stop-watches and other watches, other than those of heading no. 9101",N/A,,32972.0
+X,566,NGA,24,AGO,9025,"Hydrometers and similar floating instruments, thermometers, pyrometers, barometers, hygrometers and psychrometers, recording or not",N/A,,3534.0
+X,566,NGA,32,ARG,9025,"Hydrometers and similar floating instruments, thermometers, pyrometers, barometers, hygrometers and psychrometers, recording or not",N/A,,337.0
+X,566,NGA,156,CHN,9015,"Surveying (including photogrammetrical surveying), hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances, excluding compasses, rangefinders",N/A,,3692.0
+X,566,NGA,757,CHE,9015,"Surveying (including photogrammetrical surveying), hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances, excluding compasses, rangefinders",N/A,,237.0
+X,566,NGA,842,USA,9015,"Surveying (including photogrammetrical surveying), hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances, excluding compasses, rangefinders",N/A,,410888.0
+X,566,NGA,842,USA,9102,"Wrist-watches, pocket-watches, stop-watches and other watches, other than those of heading no. 9101",N/A,,32972.0
