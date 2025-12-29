@@ -1,0 +1,382 @@
+flowCode,reporterCode,reporterISO,partnerCode,partnerISO,cmdCode,cmdDesc,qtyUnitAbbr,qty,fobvalue
+X,566,NGA,288,GHA,1005,Maize (corn),kg,8590.431,29993.608
+X,566,NGA,842,USA,1008,"Buckwheat, millet and canary seeds; other cereals",kg,5337.71,5118.198
+X,566,NGA,694,SLE,2002,Tomatoes; prepared or preserved otherwise than by vinegar or acetic acid,kg,20003.59,19177.832
+X,566,NGA,686,SEN,2009,"Fruit juices (including grape must) and vegetable juices, unfermented, not containing added spirit; whether or not containing added sugar or other sweetening matter",N/A,0.0,26202.713
+X,566,NGA,384,CIV,2501,Salt (including table salt and denatured salt); pure sodium chloride whether or not in aqueous solution; sea water,kg,319408.072,65760.872
+X,566,NGA,0,W00,2505,"Sands of all kinds; natural, whether or not coloured, other than metal-bearing sands of chapter 26",kg,2405212.288,345827.39
+X,566,NGA,156,CHN,2506,"Quartz; (other than natural sands), quartzite, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape",kg,18000.034,9450.108
+X,566,NGA,266,GAB,2507,Kaolin and other kaolinic clays; whether or not calcined,kg,541707.914,107827.807
+X,566,NGA,266,GAB,2508,"Clays; (not including expanded clays of heading no. 6806), andalusite kyanite and sillimanite, whether or not calcined; mullite; chamotte or dinas earth",kg,151617.167,37511.257
+X,566,NGA,156,CHN,2516,"Granite, porphyry, basalt, sandstone, other monumental and building stone, whether or not roughly trimmed, cut, by sawing etc, into blocks or slabs of a rectangular (including square) shape",kg,264750.049,74296.944
+X,566,NGA,729,SDN,2518,"Dolomite, whether or not calcined or sintered; including dolomite roughly trimmed, or merely cut by sawing or otherwise into blocks or slabs of rectangular (including square) shape; dolomite ramming mix",kg,37370.142,18099.894
+X,566,NGA,792,TUR,2520,"Gypsum; anhydrite; plasters (consisting of calcined gypsum or calcium sulphate), coloured or not, with or without small quantities of accelerators or retarders",kg,888033.637,19983.153
+X,566,NGA,148,TCD,2523,"Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",kg,1029872.339,62388.42
+X,566,NGA,699,IND,2525,"Mica, including splittings; mica waste",kg,7478.34,5236.742
+X,566,NGA,156,CHN,2530,Mineral substances not elsewhere specified or included,kg,41279.88,31613.39
+X,566,NGA,562,NER,2701,"Coal; briquettes, ovoids and similar solid fuels manufactured from coal",kg,789443.918,91726.669
+X,566,NGA,0,W00,1005,Maize (corn),kg,8590.431,29993.608
+X,566,NGA,0,W00,1008,"Buckwheat, millet and canary seeds; other cereals",kg,5337.71,5118.198
+X,566,NGA,204,BEN,2002,Tomatoes; prepared or preserved otherwise than by vinegar or acetic acid,kg,33268.938,31895.58
+X,566,NGA,0,W00,2002,Tomatoes; prepared or preserved otherwise than by vinegar or acetic acid,kg,53272.528,51073.412
+X,566,NGA,466,MLI,2009,"Fruit juices (including grape must) and vegetable juices, unfermented, not containing added spirit; whether or not containing added sugar or other sweetening matter",N/A,0.0,54537.92
+X,566,NGA,430,LBR,2009,"Fruit juices (including grape must) and vegetable juices, unfermented, not containing added spirit; whether or not containing added sugar or other sweetening matter",kg,28643.894,35588.747
+X,566,NGA,384,CIV,2009,"Fruit juices (including grape must) and vegetable juices, unfermented, not containing added spirit; whether or not containing added sugar or other sweetening matter",kg,8586.634,10668.506
+X,566,NGA,288,GHA,2009,"Fruit juices (including grape must) and vegetable juices, unfermented, not containing added spirit; whether or not containing added sugar or other sweetening matter",N/A,0.0,1215967.652
+X,566,NGA,120,CMR,2009,"Fruit juices (including grape must) and vegetable juices, unfermented, not containing added spirit; whether or not containing added sugar or other sweetening matter",kg,23925.568,29726.439
+X,566,NGA,0,W00,2009,"Fruit juices (including grape must) and vegetable juices, unfermented, not containing added spirit; whether or not containing added sugar or other sweetening matter",N/A,0.0,1667166.26
+X,566,NGA,768,TGO,2009,"Fruit juices (including grape must) and vegetable juices, unfermented, not containing added spirit; whether or not containing added sugar or other sweetening matter",N/A,0.0,273276.3
+X,566,NGA,704,VNM,2009,"Fruit juices (including grape must) and vegetable juices, unfermented, not containing added spirit; whether or not containing added sugar or other sweetening matter",kg,4605.102,11982.401
+X,566,NGA,694,SLE,2009,"Fruit juices (including grape must) and vegetable juices, unfermented, not containing added spirit; whether or not containing added sugar or other sweetening matter",kg,7417.237,9215.582
+X,566,NGA,0,W00,2501,Salt (including table salt and denatured salt); pure sodium chloride whether or not in aqueous solution; sea water,kg,319408.072,65760.872
+X,566,NGA,729,SDN,2505,"Sands of all kinds; natural, whether or not coloured, other than metal-bearing sands of chapter 26",kg,116351.701,16729.336
+X,566,NGA,404,KEN,2505,"Sands of all kinds; natural, whether or not coloured, other than metal-bearing sands of chapter 26",kg,50380.915,7243.893
+X,566,NGA,384,CIV,2505,"Sands of all kinds; natural, whether or not coloured, other than metal-bearing sands of chapter 26",kg,72884.201,10479.471
+X,566,NGA,288,GHA,2505,"Sands of all kinds; natural, whether or not coloured, other than metal-bearing sands of chapter 26",kg,1713712.61,246401.851
+X,566,NGA,156,CHN,2505,"Sands of all kinds; natural, whether or not coloured, other than metal-bearing sands of chapter 26",kg,375571.614,54000.618
+X,566,NGA,120,CMR,2505,"Sands of all kinds; natural, whether or not coloured, other than metal-bearing sands of chapter 26",kg,76311.247,10972.22
+X,566,NGA,0,W00,2506,"Quartz; (other than natural sands), quartzite, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape",kg,813449.956,132959.831
+X,566,NGA,729,SDN,2506,"Quartz; (other than natural sands), quartzite, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape",kg,303002.335,47047.254
+X,566,NGA,288,GHA,2506,"Quartz; (other than natural sands), quartzite, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape",kg,466685.76,72462.423
+X,566,NGA,266,GAB,2506,"Quartz; (other than natural sands), quartzite, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape",kg,25761.827,4000.046
+X,566,NGA,0,W00,2507,Kaolin and other kaolinic clays; whether or not calcined,kg,541707.914,107827.807
+X,566,NGA,0,W00,2508,"Clays; (not including expanded clays of heading no. 6806), andalusite kyanite and sillimanite, whether or not calcined; mullite; chamotte or dinas earth",kg,151617.167,37511.257
+X,566,NGA,0,W00,2516,"Granite, porphyry, basalt, sandstone, other monumental and building stone, whether or not roughly trimmed, cut, by sawing etc, into blocks or slabs of a rectangular (including square) shape",kg,264750.049,74296.944
+X,566,NGA,0,W00,2518,"Dolomite, whether or not calcined or sintered; including dolomite roughly trimmed, or merely cut by sawing or otherwise into blocks or slabs of rectangular (including square) shape; dolomite ramming mix",kg,37370.142,18099.894
+X,566,NGA,148,TCD,2520,"Gypsum; anhydrite; plasters (consisting of calcined gypsum or calcium sulphate), coloured or not, with or without small quantities of accelerators or retarders",kg,887044.617,19960.897
+X,566,NGA,0,W00,2520,"Gypsum; anhydrite; plasters (consisting of calcined gypsum or calcium sulphate), coloured or not, with or without small quantities of accelerators or retarders",kg,1775078.254,39944.051
+X,566,NGA,0,W00,2523,"Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",kg,969062117.92,58440787.036
+X,566,NGA,768,TGO,2523,"Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",kg,218222292.196,13219642.375
+X,566,NGA,562,NER,2523,"Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",kg,455975524.798,27358622.147
+X,566,NGA,288,GHA,2523,"Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",kg,293834428.587,17800134.094
+X,566,NGA,156,CHN,2525,"Mica, including splittings; mica waste",kg,100261.662,70208.685
+X,566,NGA,0,W00,2525,"Mica, including splittings; mica waste",kg,107740.002,75445.426
+X,566,NGA,0,W00,2530,Mineral substances not elsewhere specified or included,kg,41279.88,31613.39
+X,566,NGA,0,W00,2701,"Coal; briquettes, ovoids and similar solid fuels manufactured from coal",kg,789443.918,91726.669
+X,566,NGA,768,TGO,2707,Oils and other products of the distillation of high temperature coal tar; similar products in which the weight of the aromatic constituents exceeds that of the non-aromatic constituents,kg,9407817.766,4757223.082
+X,566,NGA,458,MYS,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,470357600.311,176180667.597
+X,566,NGA,724,ESP,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,4485851.766,6814287.813
+X,566,NGA,484,MEX,2711,Petroleum gases and other gaseous hydrocarbons,kg,455608395.618,169877115.094
+X,566,NGA,710,ZAF,2712,"Petroleum jelly; paraffin wax, micro-crystalline petroleum wax, slack wax, ozokerite, lignite wax, peat wax, other mineral waxes, similar products obtained by synthesis, other processes; coloured or not",kg,6256.262,9532.0
+X,566,NGA,562,NER,2716,Electrical energy,1000 kWh,660346.492,27392250.117
+X,566,NGA,288,GHA,2922,Oxygen-function amino-compounds,kg,21038.977,101931.344
+X,566,NGA,686,SEN,2923,"Quaternary ammonium salts and hydroxides; lecithins and other phosphoaminolipids, whether or not chemically defined",kg,5489.615,18873.82
+X,566,NGA,288,GHA,2929,"Nitrogen-function compounds, n.e.c. in chapter 29",kg,4161.869,13673.215
+X,566,NGA,528,NLD,2707,Oils and other products of the distillation of high temperature coal tar; similar products in which the weight of the aromatic constituents exceeds that of the non-aromatic constituents,kg,230783694.046,116699700.574
+X,566,NGA,0,W00,2707,Oils and other products of the distillation of high temperature coal tar; similar products in which the weight of the aromatic constituents exceeds that of the non-aromatic constituents,kg,362087332.718,183095618.972
+X,566,NGA,842,USA,2707,Oils and other products of the distillation of high temperature coal tar; similar products in which the weight of the aromatic constituents exceeds that of the non-aromatic constituents,kg,121895820.906,61638695.315
+X,566,NGA,384,CIV,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,1696799161.564,635565809.641
+X,566,NGA,380,ITA,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,2567242618.189,961605633.793
+X,566,NGA,76,BRA,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,1098939917.589,411627170.906
+X,566,NGA,36,AUS,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,1016298200.928,380672270.202
+X,566,NGA,32,ARG,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,813841832.401,304838695.614
+X,566,NGA,0,W00,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,96263815317.642,36057296059.213
+X,566,NGA,372,IRL,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,83328213.145,31212039.971
+X,566,NGA,360,IDN,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,3764515998.137,1410065323.264
+X,566,NGA,292,GIB,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,707915071.606,265161974.283
+X,566,NGA,288,GHA,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,335202987.846,125556143.114
+X,566,NGA,276,DEU,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,1684702840.174,631034920.853
+X,566,NGA,251,FRA,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,7152386110.16,2679051340.868
+X,566,NGA,214,DOM,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,331488689.067,124164887.528
+X,566,NGA,208,DNK,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,135480332.928,50746528.781
+X,566,NGA,156,CHN,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,902805314.837,338161524.281
+X,566,NGA,124,CAN,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,4062134856.276,1521543673.102
+X,566,NGA,120,CMR,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,925280663.831,346580059.429
+X,566,NGA,899,_X ,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,42840439.003,16046635.876
+X,566,NGA,858,URY,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,648155968.349,242778156.737
+X,566,NGA,842,USA,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,13920260047.028,5214076920.603
+X,566,NGA,826,GBR,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,3137997863.204,1175391995.563
+X,566,NGA,792,TUR,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,202884681.975,75994006.883
+X,566,NGA,784,ARE,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,153599831.034,57533503.778
+X,566,NGA,768,TGO,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,2555582384.123,957238089.14
+X,566,NGA,764,THA,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,813118034.089,304567584.294
+X,566,NGA,752,SWE,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,2553266201.765,956370522.519
+X,566,NGA,724,ESP,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,9109283841.481,3412041619.958
+X,566,NGA,710,ZAF,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,5272372233.309,1974859254.472
+X,566,NGA,702,SGP,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,530836509.649,198834101.103
+X,566,NGA,699,IND,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,19035594651.598,7130114984.026
+X,566,NGA,686,SEN,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,973799777.679,364753742.31
+X,566,NGA,620,PRT,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,329730711.824,123506406.398
+X,566,NGA,604,PER,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,136504991.765,51130332.674
+X,566,NGA,528,NLD,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,8970379234.509,3360012469.429
+X,566,NGA,490,S19,2709,Petroleum oils and oils obtained from bituminous minerals; crude,kg,128887506.268,48277070.221
+X,566,NGA,562,NER,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,93959.968,142731.034
+X,566,NGA,288,GHA,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,41342.607,62801.991
+X,566,NGA,266,GAB,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,45372.948,68924.329
+X,566,NGA,204,BEN,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,158337.175,89767.79
+X,566,NGA,120,CMR,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,884361.289,1343399.797
+X,566,NGA,0,W00,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,138466481.619,180149695.347
+X,566,NGA,899,_X ,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,25521390.11,38768578.776
+X,566,NGA,842,USA,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,67379142.791,89273956.499
+X,566,NGA,768,TGO,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,39856722.966,43585247.318
+X,566,NGA,440,LTU,2711,Petroleum gases and other gaseous hydrocarbons,kg,61735673.753,23018623.573
+X,566,NGA,414,KWT,2711,Petroleum gases and other gaseous hydrocarbons,kg,270518006.618,100864731.614
+X,566,NGA,56,BEL,2711,Petroleum gases and other gaseous hydrocarbons,kg,758217.025,67747986.31
+X,566,NGA,32,ARG,2711,Petroleum gases and other gaseous hydrocarbons,kg,148104779.812,55222012.957
+X,566,NGA,16,ASM,2711,Petroleum gases and other gaseous hydrocarbons,kg,44033155.438,16418102.665
+X,566,NGA,0,W00,2711,Petroleum gases and other gaseous hydrocarbons,N/A,0.0,6169078786.402
+X,566,NGA,410,KOR,2711,Petroleum gases and other gaseous hydrocarbons,kg,561689603.055,211548347.729
+X,566,NGA,400,JOR,2711,Petroleum gases and other gaseous hydrocarbons,kg,492388507.713,183590864.435
+X,566,NGA,392,JPN,2711,Petroleum gases and other gaseous hydrocarbons,kg,1204871752.124,462827835.244
+X,566,NGA,380,ITA,2711,Petroleum gases and other gaseous hydrocarbons,kg,43860493.136,16353724.19
+X,566,NGA,360,IDN,2711,Petroleum gases and other gaseous hydrocarbons,N/A,0.0,47207341.08
+X,566,NGA,292,GIB,2711,Petroleum gases and other gaseous hydrocarbons,kg,10977695.03,58906632.649
+X,566,NGA,251,FRA,2711,Petroleum gases and other gaseous hydrocarbons,kg,1881973994.189,701708563.513
+X,566,NGA,214,DOM,2711,Petroleum gases and other gaseous hydrocarbons,kg,24770070.636,10534027.612
+X,566,NGA,204,BEN,2711,Petroleum gases and other gaseous hydrocarbons,N/A,0.0,82544.878
+X,566,NGA,156,CHN,2711,Petroleum gases and other gaseous hydrocarbons,N/A,0.0,250645418.597
+X,566,NGA,76,BRA,2711,Petroleum gases and other gaseous hydrocarbons,kg,248471268.018,92644434.564
+X,566,NGA,842,USA,2711,Petroleum gases and other gaseous hydrocarbons,kg,169751829.712,237999026.685
+X,566,NGA,818,EGY,2711,Petroleum gases and other gaseous hydrocarbons,kg,596618649.285,222453879.091
+X,566,NGA,792,TUR,2711,Petroleum gases and other gaseous hydrocarbons,kg,894341910.759,333462300.45
+X,566,NGA,784,ARE,2711,Petroleum gases and other gaseous hydrocarbons,kg,276398987.09,103057500.681
+X,566,NGA,772,TKL,2711,Petroleum gases and other gaseous hydrocarbons,kg,98008821.748,36543347.428
+X,566,NGA,768,TGO,2711,Petroleum gases and other gaseous hydrocarbons,N/A,0.0,345890.332
+X,566,NGA,764,THA,2711,Petroleum gases and other gaseous hydrocarbons,kg,90745301.309,33835087.639
+X,566,NGA,724,ESP,2711,Petroleum gases and other gaseous hydrocarbons,kg,2315314496.946,863282922.479
+X,566,NGA,702,SGP,2711,Petroleum gases and other gaseous hydrocarbons,kg,183875652.99,86311522.323
+X,566,NGA,699,IND,2711,Petroleum gases and other gaseous hydrocarbons,kg,2056990838.872,766964948.061
+X,566,NGA,652,BLM,2711,Petroleum gases and other gaseous hydrocarbons,kg,144089.152,12874611.869
+X,566,NGA,620,PRT,2711,Petroleum gases and other gaseous hydrocarbons,kg,995057738.257,371014975.914
+X,566,NGA,616,POL,2711,Petroleum gases and other gaseous hydrocarbons,kg,142573006.213,53159448.374
+X,566,NGA,604,PER,2711,Petroleum gases and other gaseous hydrocarbons,kg,212691510.731,79303675.251
+X,566,NGA,586,PAK,2711,Petroleum gases and other gaseous hydrocarbons,kg,277515464.15,103473787.79
+X,566,NGA,577,F19,2711,Petroleum gases and other gaseous hydrocarbons,kg,25693656.977,10926803.401
+X,566,NGA,568,E19,2711,Petroleum gases and other gaseous hydrocarbons,kg,30585953.31,48755422.259
+X,566,NGA,528,NLD,2711,Petroleum gases and other gaseous hydrocarbons,kg,108136415.641,129186406.934
+X,566,NGA,508,MOZ,2711,Petroleum gases and other gaseous hydrocarbons,kg,46682913.045,21970697.529
+X,566,NGA,504,MAR,2711,Petroleum gases and other gaseous hydrocarbons,kg,48096265.862,22927024.47
+X,566,NGA,490,S19,2711,Petroleum gases and other gaseous hydrocarbons,kg,434565746.934,162031200.737
+X,566,NGA,0,W00,2712,"Petroleum jelly; paraffin wax, micro-crystalline petroleum wax, slack wax, ozokerite, lignite wax, peat wax, other mineral waxes, similar products obtained by synthesis, other processes; coloured or not",kg,6256.262,9532.0
+X,566,NGA,204,BEN,2716,Electrical energy,1000 kWh,2042138.952,84711256.291
+X,566,NGA,0,W00,2716,Electrical energy,1000 kWh,2702485.444,112103506.408
+X,566,NGA,120,CMR,2922,Oxygen-function amino-compounds,kg,20043.211,28990.501
+X,566,NGA,0,W00,2922,Oxygen-function amino-compounds,kg,52805.24,147878.067
+X,566,NGA,404,KEN,2922,Oxygen-function amino-compounds,kg,11723.051,16956.222
+X,566,NGA,0,W00,2923,"Quaternary ammonium salts and hydroxides; lecithins and other phosphoaminolipids, whether or not chemically defined",kg,5489.615,18873.82
+X,566,NGA,0,W00,2929,"Nitrogen-function compounds, n.e.c. in chapter 29",kg,4161.869,13673.215
+X,566,NGA,288,GHA,3003,"Medicaments; (not goods of heading no. 3002, 3005 or 3006) of two or more constituents mixed together for therapeutic or prophylactic use not in measured doses or in forms or packings for retail sale",kg,586.358,87026.867
+X,566,NGA,854,BFA,3004,"Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed products for therapeutic or prophylactic use, put up in measured doses (incl. those in the form of transdermal admin. systems) or packed for retail sale",kg,363.53,22456.01
+X,566,NGA,276,DEU,3901,"Polymers of ethylene, in primary forms",kg,79346.288,106998.379
+X,566,NGA,504,MAR,3902,"Polymers of propylene or of other olefins, in primary forms",kg,767958.996,1043895.151
+X,566,NGA,288,GHA,3905,"Polymers of vinyl acetate or of other vinyl esters, in primary forms; other vinyl polymers in primary forms",kg,2770.823,15950.093
+X,566,NGA,0,W00,3907,"Polyacetals, other polyethers and epoxide resins, in primary forms; polycarbonates, alkyd resins, polyallyl esters and other polyesters, in primary forms",kg,2803108.753,2852777.683
+X,566,NGA,300,GRC,3910,Silicones in primary forms,kg,20341.306,110653.015
+X,566,NGA,430,LBR,3911,"Petroleum resins, coumarone-indene resins, polyterpenes, polysulphides, polysulphones and similar products of chemical synthesis n.e.c. in chapter 39, in primary forms",kg,2847.996,6552.911
+X,566,NGA,344,HKG,3915,"Waste, parings and scrap, of plastics",kg,64798.162,24087.642
+X,566,NGA,694,SLE,3917,"Tubes, pipes and hoses and fittings thereof (for example, joints, elbows, flanges), of plastics",kg,15165.2,31891.444
+X,566,NGA,562,NER,3918,"Floor coverings of plastics, self-adhesive or not, in rolls or tiles; wall or ceiling coverings of plastics, in rolls of a width not less than 45cm",kg,27472.979,98885.984
+X,566,NGA,686,SEN,3919,"Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether or not in rolls",kg,9234.359,89308.564
+X,566,NGA,842,USA,3920,"Plastics; plates, sheets, film, foil and strip (not self-adhesive); non-cellular and not reinforced, laminated, supported or similarly combined with other materials, n.e.c. in chapter 39",kg,81715.79,264115.5
+X,566,NGA,276,DEU,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,13161.433,70973.409
+X,566,NGA,686,SEN,3924,"Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics",kg,8882.81,50871.143
+X,566,NGA,204,BEN,3925,Plastics; builders' wares n.e.c. or included,kg,1331.644,5991.469
+X,566,NGA,562,NER,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,65096.31,128989.261
+X,566,NGA,0,W00,3003,"Medicaments; (not goods of heading no. 3002, 3005 or 3006) of two or more constituents mixed together for therapeutic or prophylactic use not in measured doses or in forms or packings for retail sale",kg,586.358,87026.867
+X,566,NGA,694,SLE,3004,"Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed products for therapeutic or prophylactic use, put up in measured doses (incl. those in the form of transdermal admin. systems) or packed for retail sale",kg,850.763,52553.327
+X,566,NGA,562,NER,3004,"Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed products for therapeutic or prophylactic use, put up in measured doses (incl. those in the form of transdermal admin. systems) or packed for retail sale",kg,725.846,44836.958
+X,566,NGA,430,LBR,3004,"Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed products for therapeutic or prophylactic use, put up in measured doses (incl. those in the form of transdermal admin. systems) or packed for retail sale",kg,208.794,12897.647
+X,566,NGA,288,GHA,3004,"Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed products for therapeutic or prophylactic use, put up in measured doses (incl. those in the form of transdermal admin. systems) or packed for retail sale",kg,7030.397,434281.843
+X,566,NGA,120,CMR,3004,"Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed products for therapeutic or prophylactic use, put up in measured doses (incl. those in the form of transdermal admin. systems) or packed for retail sale",kg,363.53,22456.01
+X,566,NGA,0,W00,3004,"Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed products for therapeutic or prophylactic use, put up in measured doses (incl. those in the form of transdermal admin. systems) or packed for retail sale",kg,9542.86,589481.795
+X,566,NGA,156,CHN,3901,"Polymers of ethylene, in primary forms",kg,17545516.497,23660109.093
+X,566,NGA,842,USA,3901,"Polymers of ethylene, in primary forms",kg,859924.732,1159607.526
+X,566,NGA,104,MMR,3901,"Polymers of ethylene, in primary forms",kg,327154.444,441167.396
+X,566,NGA,76,BRA,3901,"Polymers of ethylene, in primary forms",kg,86032.462,116014.678
+X,566,NGA,56,BEL,3901,"Polymers of ethylene, in primary forms",kg,3388519.067,4569414.118
+X,566,NGA,0,W00,3901,"Polymers of ethylene, in primary forms",kg,40015143.623,53960375.784
+X,566,NGA,826,GBR,3901,"Polymers of ethylene, in primary forms",kg,2287628.425,3084864.337
+X,566,NGA,792,TUR,3901,"Polymers of ethylene, in primary forms",kg,1139113.42,1536093.154
+X,566,NGA,768,TGO,3901,"Polymers of ethylene, in primary forms",kg,1931830.883,2605071.755
+X,566,NGA,724,ESP,3901,"Polymers of ethylene, in primary forms",kg,1163203.947,1568579.204
+X,566,NGA,704,VNM,3901,"Polymers of ethylene, in primary forms",kg,8487899.962,11445923.47
+X,566,NGA,699,IND,3901,"Polymers of ethylene, in primary forms",kg,1724185.473,2325062.154
+X,566,NGA,528,NLD,3901,"Polymers of ethylene, in primary forms",kg,29127.022,39277.757
+X,566,NGA,376,ISR,3901,"Polymers of ethylene, in primary forms",kg,925060.108,1247442.507
+X,566,NGA,300,GRC,3901,"Polymers of ethylene, in primary forms",kg,40600.892,54750.257
+X,566,NGA,288,GHA,3902,"Polymers of propylene or of other olefins, in primary forms",kg,61272.772,83288.756
+X,566,NGA,0,W00,3902,"Polymers of propylene or of other olefins, in primary forms",kg,1091715.378,1483980.778
+X,566,NGA,842,USA,3902,"Polymers of propylene or of other olefins, in primary forms",kg,262483.61,356796.871
+X,566,NGA,0,W00,3905,"Polymers of vinyl acetate or of other vinyl esters, in primary forms; other vinyl polymers in primary forms",kg,2770.823,15950.093
+X,566,NGA,842,USA,3907,"Polyacetals, other polyethers and epoxide resins, in primary forms; polycarbonates, alkyd resins, polyallyl esters and other polyesters, in primary forms",kg,1650010.914,1679247.838
+X,566,NGA,792,TUR,3907,"Polyacetals, other polyethers and epoxide resins, in primary forms; polycarbonates, alkyd resins, polyallyl esters and other polyesters, in primary forms",kg,50539.509,51435.03
+X,566,NGA,702,SGP,3907,"Polyacetals, other polyethers and epoxide resins, in primary forms; polycarbonates, alkyd resins, polyallyl esters and other polyesters, in primary forms",kg,5883.14,5987.384
+X,566,NGA,699,IND,3907,"Polyacetals, other polyethers and epoxide resins, in primary forms; polycarbonates, alkyd resins, polyallyl esters and other polyesters, in primary forms",kg,483748.315,492319.963
+X,566,NGA,156,CHN,3907,"Polyacetals, other polyethers and epoxide resins, in primary forms; polycarbonates, alkyd resins, polyallyl esters and other polyesters, in primary forms",kg,612926.875,623787.467
+X,566,NGA,156,CHN,3910,Silicones in primary forms,kg,205045.636,1115411.073
+X,566,NGA,0,W00,3910,Silicones in primary forms,kg,225386.942,1226064.088
+X,566,NGA,0,W00,3911,"Petroleum resins, coumarone-indene resins, polyterpenes, polysulphides, polysulphones and similar products of chemical synthesis n.e.c. in chapter 39, in primary forms",kg,2847.996,6552.911
+X,566,NGA,156,CHN,3915,"Waste, parings and scrap, of plastics",kg,242633.081,93289.954
+X,566,NGA,0,W00,3915,"Waste, parings and scrap, of plastics",kg,307431.243,117377.596
+X,566,NGA,616,POL,3917,"Tubes, pipes and hoses and fittings thereof (for example, joints, elbows, flanges), of plastics",kg,21179.565,63412.625
+X,566,NGA,384,CIV,3917,"Tubes, pipes and hoses and fittings thereof (for example, joints, elbows, flanges), of plastics",kg,39032.605,121035.305
+X,566,NGA,288,GHA,3917,"Tubes, pipes and hoses and fittings thereof (for example, joints, elbows, flanges), of plastics",kg,60681.894,181684.479
+X,566,NGA,120,CMR,3917,"Tubes, pipes and hoses and fittings thereof (for example, joints, elbows, flanges), of plastics",kg,19904.995,59596.503
+X,566,NGA,56,BEL,3917,"Tubes, pipes and hoses and fittings thereof (for example, joints, elbows, flanges), of plastics",kg,1733092.446,19403419.915
+X,566,NGA,0,W00,3917,"Tubes, pipes and hoses and fittings thereof (for example, joints, elbows, flanges), of plastics",kg,1889056.705,19861040.272
+X,566,NGA,0,W00,3918,"Floor coverings of plastics, self-adhesive or not, in rolls or tiles; wall or ceiling coverings of plastics, in rolls of a width not less than 45cm",kg,27472.979,98885.984
+X,566,NGA,384,CIV,3919,"Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether or not in rolls",kg,4781.893,46247.283
+X,566,NGA,300,GRC,3919,"Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether or not in rolls",kg,6275.611,60693.526
+X,566,NGA,288,GHA,3919,"Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether or not in rolls",kg,20667.797,199885.143
+X,566,NGA,180,COD,3919,"Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether or not in rolls",kg,2752.703,26622.305
+X,566,NGA,120,CMR,3919,"Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether or not in rolls",kg,6836.665,66119.668
+X,566,NGA,0,W00,3919,"Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether or not in rolls",kg,50549.028,488876.488
+X,566,NGA,686,SEN,3920,"Plastics; plates, sheets, film, foil and strip (not self-adhesive); non-cellular and not reinforced, laminated, supported or similarly combined with other materials, n.e.c. in chapter 39",kg,27417.641,89126.583
+X,566,NGA,384,CIV,3920,"Plastics; plates, sheets, film, foil and strip (not self-adhesive); non-cellular and not reinforced, laminated, supported or similarly combined with other materials, n.e.c. in chapter 39",kg,52094.599,169344.022
+X,566,NGA,288,GHA,3920,"Plastics; plates, sheets, film, foil and strip (not self-adhesive); non-cellular and not reinforced, laminated, supported or similarly combined with other materials, n.e.c. in chapter 39",kg,443399.307,2876815.842
+X,566,NGA,120,CMR,3920,"Plastics; plates, sheets, film, foil and strip (not self-adhesive); non-cellular and not reinforced, laminated, supported or similarly combined with other materials, n.e.c. in chapter 39",kg,4467.911,14523.848
+X,566,NGA,12,DZA,3920,"Plastics; plates, sheets, film, foil and strip (not self-adhesive); non-cellular and not reinforced, laminated, supported or similarly combined with other materials, n.e.c. in chapter 39",kg,4776.523,15527.053
+X,566,NGA,0,W00,3920,"Plastics; plates, sheets, film, foil and strip (not self-adhesive); non-cellular and not reinforced, laminated, supported or similarly combined with other materials, n.e.c. in chapter 39",kg,613871.77,3429452.847
+X,566,NGA,270,GMB,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,4625.954,16331.082
+X,566,NGA,266,GAB,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,5292.564,18684.428
+X,566,NGA,262,DJI,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,100551.123,542224.86
+X,566,NGA,204,BEN,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,64172.378,226548.823
+X,566,NGA,120,CMR,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,10437.721,55551.226
+X,566,NGA,0,W00,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,327639.456,1493207.059
+X,566,NGA,842,USA,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,34600.225,186582.721
+X,566,NGA,768,TGO,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,34064.794,120259.515
+X,566,NGA,686,SEN,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,17747.243,86984.274
+X,566,NGA,384,CIV,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,21996.984,77656.321
+X,566,NGA,380,ITA,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,59.945,260.003
+X,566,NGA,324,GIN,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,1406.88,4966.731
+X,566,NGA,288,GHA,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,19522.212,86183.664
+X,566,NGA,288,GHA,3924,"Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics",kg,2885.865,16797.223
+X,566,NGA,0,W00,3924,"Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics",kg,20693.166,119613.512
+X,566,NGA,768,TGO,3924,"Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics",kg,8924.491,51945.146
+X,566,NGA,0,W00,3925,Plastics; builders' wares n.e.c. or included,kg,1331.644,5991.469
+X,566,NGA,528,NLD,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,3405909.704,6748858.354
+X,566,NGA,458,MYS,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,1941293.024,3846699.643
+X,566,NGA,120,CMR,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,49086.886,97266.361
+X,566,NGA,100,BGR,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,79121.289,156779.955
+X,566,NGA,56,BEL,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,109317.401,216613.98
+X,566,NGA,0,W00,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,30233996.917,59909093.424
+X,566,NGA,440,LTU,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,1153443.621,2285564.883
+X,566,NGA,422,LBN,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,29480.727,58416.479
+X,566,NGA,384,CIV,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,269339.726,533700.485
+X,566,NGA,380,ITA,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,2544328.069,5041622.132
+X,566,NGA,376,ISR,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,80595.847,159701.813
+X,566,NGA,276,DEU,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,2056170.277,4074330.548
+X,566,NGA,251,FRA,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,4384607.881,8688162.664
+X,566,NGA,246,FIN,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,302171.093,598756.303
+X,566,NGA,204,BEN,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,196347.551,389065.454
+X,566,NGA,156,CHN,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,660876.315,1309535.786
+X,566,NGA,124,CAN,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,42743.786,84697.418
+X,566,NGA,854,BFA,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,32724.595,64844.248
+X,566,NGA,826,GBR,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,691296.992,1369814.787
+X,566,NGA,818,EGY,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,20933.562,41480.15
+X,566,NGA,768,TGO,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,168455.769,333797.493
+X,566,NGA,724,ESP,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,5470613.699,10840098.584
+X,566,NGA,710,ZAF,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,1727417.957,3422903.167
+X,566,NGA,702,SGP,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,706971.814,1400874.671
+X,566,NGA,699,IND,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,1899275.877,3763442.07
+X,566,NGA,642,ROU,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,834149.174,1652878.411
+X,566,NGA,616,POL,4001,"Natural rubber, balata, gutta-percha, guayule, chicle and similar gums; in primary forms or in plates, sheets or strip",kg,1312227.971,2600198.324
+X,566,NGA,710,ZAF,7003,"Glass; cast glass and rolled glass in sheets or profiles, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked",N/A,0.0,4646.21
+X,566,NGA,699,IND,7005,"Glass; float glass and surface ground or polished glass, in sheets, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked",m²,5609.784,24062.231
+X,566,NGA,288,GHA,7010,"Carboys, bottles, flasks, jars, pots, phials, ampoules, containers of glass of a kind used for the conveyance or packing of goods; preserving jars of glass; stoppers, lids and other closures of glass",kg,6724061.449,5388850.405
+X,566,NGA,682,SAU,7020,Glass; articles n.e.c. in chapter 70,kg,490.575,6098.324
+X,566,NGA,0,W00,7003,"Glass; cast glass and rolled glass in sheets or profiles, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked",N/A,0.0,4646.21
+X,566,NGA,288,GHA,7005,"Glass; float glass and surface ground or polished glass, in sheets, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked",m²,75057.437,321946.364
+X,566,NGA,0,W00,7005,"Glass; float glass and surface ground or polished glass, in sheets, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked",m²,80667.221,346008.595
+X,566,NGA,120,CMR,7010,"Carboys, bottles, flasks, jars, pots, phials, ampoules, containers of glass of a kind used for the conveyance or packing of goods; preserving jars of glass; stoppers, lids and other closures of glass",kg,328551.038,263309.967
+X,566,NGA,0,W00,7010,"Carboys, bottles, flasks, jars, pots, phials, ampoules, containers of glass of a kind used for the conveyance or packing of goods; preserving jars of glass; stoppers, lids and other closures of glass",kg,7619615.67,6106572.538
+X,566,NGA,430,LBR,7010,"Carboys, bottles, flasks, jars, pots, phials, ampoules, containers of glass of a kind used for the conveyance or packing of goods; preserving jars of glass; stoppers, lids and other closures of glass",kg,567003.183,454412.167
+X,566,NGA,0,W00,7020,Glass; articles n.e.c. in chapter 70,kg,490.575,6098.324
+X,566,NGA,404,KEN,7207,Iron or non-alloy steel; semi-finished products thereof,kg,3020852.885,2526986.473
+X,566,NGA,204,BEN,7210,"Iron or non-alloy steel; flat-rolled products, width 600mm or more, clad, plated or coated",kg,155586.939,131421.534
+X,566,NGA,288,GHA,7213,"Iron or non-alloy steel; bars and rods, hot-rolled, in irregularly wound coils",kg,1079093.176,527248.041
+X,566,NGA,0,W00,7214,"Iron or non-alloy steel; bars and rods, not further worked than forged, hot-rolled, hot drawn or hot-extruded, but including those twisted after rolling",kg,5646154.431,2722223.033
+X,566,NGA,204,BEN,7215,"Iron or non-alloy steel; bars and rods, n.e.c. in chapter 72",kg,358440.054,540287.138
+X,566,NGA,288,GHA,7216,"Iron or non-alloy steel, angles, shapes and sections",kg,1929229.918,1382186.856
+X,566,NGA,764,THA,8007,Tin; articles n.e.c. in chapter 80,kg,740.737,22226.92
+X,566,NGA,156,CHN,8112,"Beryllium, chromium, germanium, vanadium, gallium, hafnium, indium, niobium (columbium), rhenium and thallium; and articles of these metals, including waste and scrap",kg,12.429,18892.675
+X,566,NGA,528,NLD,8411,"Turbo-jets, turbo-propellers and other gas turbines",kg,12.126,2995.659
+X,566,NGA,120,CMR,7207,Iron or non-alloy steel; semi-finished products thereof,kg,7246939.822,4090330.235
+X,566,NGA,0,W00,7207,Iron or non-alloy steel; semi-finished products thereof,kg,16367190.48,10059949.286
+X,566,NGA,504,MAR,7207,Iron or non-alloy steel; semi-finished products thereof,kg,6099397.773,3442632.578
+X,566,NGA,0,W00,7210,"Iron or non-alloy steel; flat-rolled products, width 600mm or more, clad, plated or coated",kg,155586.939,131421.534
+X,566,NGA,0,W00,7213,"Iron or non-alloy steel; bars and rods, hot-rolled, in irregularly wound coils",kg,1079093.176,527248.041
+X,566,NGA,854,BFA,7214,"Iron or non-alloy steel; bars and rods, not further worked than forged, hot-rolled, hot drawn or hot-extruded, but including those twisted after rolling",kg,13268.659,8354.648
+X,566,NGA,768,TGO,7214,"Iron or non-alloy steel; bars and rods, not further worked than forged, hot-rolled, hot drawn or hot-extruded, but including those twisted after rolling",kg,438965.64,210989.022
+X,566,NGA,288,GHA,7214,"Iron or non-alloy steel; bars and rods, not further worked than forged, hot-rolled, hot drawn or hot-extruded, but including those twisted after rolling",kg,4207051.29,2022120.993
+X,566,NGA,266,GAB,7214,"Iron or non-alloy steel; bars and rods, not further worked than forged, hot-rolled, hot drawn or hot-extruded, but including those twisted after rolling",kg,3163.519,1991.919
+X,566,NGA,204,BEN,7214,"Iron or non-alloy steel; bars and rods, not further worked than forged, hot-rolled, hot drawn or hot-extruded, but including those twisted after rolling",kg,983705.323,478766.451
+X,566,NGA,0,W00,7215,"Iron or non-alloy steel; bars and rods, n.e.c. in chapter 72",kg,2904324.531,4377772.992
+X,566,NGA,686,SEN,7215,"Iron or non-alloy steel; bars and rods, n.e.c. in chapter 72",kg,2266177.385,3415875.205
+X,566,NGA,562,NER,7215,"Iron or non-alloy steel; bars and rods, n.e.c. in chapter 72",kg,158883.344,239489.494
+X,566,NGA,324,GIN,7215,"Iron or non-alloy steel; bars and rods, n.e.c. in chapter 72",kg,120823.748,182121.155
+X,566,NGA,0,W00,7216,"Iron or non-alloy steel, angles, shapes and sections",kg,1929229.918,1382186.856
+X,566,NGA,458,MYS,8007,Tin; articles n.e.c. in chapter 80,kg,50212.462,1506700.193
+X,566,NGA,0,W00,8007,Tin; articles n.e.c. in chapter 80,kg,51225.881,1537109.335
+X,566,NGA,899,_X ,8007,Tin; articles n.e.c. in chapter 80,kg,272.682,8182.222
+X,566,NGA,0,W00,8112,"Beryllium, chromium, germanium, vanadium, gallium, hafnium, indium, niobium (columbium), rhenium and thallium; and articles of these metals, including waste and scrap",kg,12.429,18892.675
+X,566,NGA,0,W00,8411,"Turbo-jets, turbo-propellers and other gas turbines",kg,12.126,2995.659
+X,566,NGA,0,W00,8413,"Pumps; for liquids, whether or not fitted with measuring device, liquid elevators",N/A,0.0,1775970.621
+X,566,NGA,528,NLD,8413,"Pumps; for liquids, whether or not fitted with measuring device, liquid elevators",N/A,0.0,1108426.0
+X,566,NGA,643,RUS,8413,"Pumps; for liquids, whether or not fitted with measuring device, liquid elevators",N/A,0.0,667544.621
+X,566,NGA,0,W00,8418,"Refrigerators, freezers and other refrigerating or freezing equipment, electric or other; heat pumps other than air conditioning machines of heading no. 8415",u,378.777,103626.296
+X,566,NGA,384,CIV,8418,"Refrigerators, freezers and other refrigerating or freezing equipment, electric or other; heat pumps other than air conditioning machines of heading no. 8415",u,336.71,61956.55
+X,566,NGA,562,NER,8418,"Refrigerators, freezers and other refrigerating or freezing equipment, electric or other; heat pumps other than air conditioning machines of heading no. 8415",u,42.067,41669.746
+X,566,NGA,0,W00,8419,"Machinery, plant (not domestic), or laboratory equipment; electrically heated or not, (excluding items in 85.14) for the treatment of materials by a process involving change of temperature; including instantaneous or non electric storage water heaters",N/A,0.0,166640.329
+X,566,NGA,430,LBR,8419,"Machinery, plant (not domestic), or laboratory equipment; electrically heated or not, (excluding items in 85.14) for the treatment of materials by a process involving change of temperature; including instantaneous or non electric storage water heaters",N/A,0.0,166640.329
+X,566,NGA,0,W00,8424,"Mechanical appliances for projecting, dispersing or spraying liquids or powders; fire extinguishers, spray guns, steam, sand blasting machines",N/A,0.0,141087.065
+X,566,NGA,528,NLD,8424,"Mechanical appliances for projecting, dispersing or spraying liquids or powders; fire extinguishers, spray guns, steam, sand blasting machines",N/A,0.0,141087.065
+X,566,NGA,0,W00,8428,"Lifting, handling, loading or unloading machinery; n.e.c. in heading no. 8425, 8426 or 8427 (e.g. lifts, escalators, conveyors, teleferics)",N/A,0.0,3595.796
+X,566,NGA,288,GHA,8428,"Lifting, handling, loading or unloading machinery; n.e.c. in heading no. 8425, 8426 or 8427 (e.g. lifts, escalators, conveyors, teleferics)",N/A,0.0,3595.796
+X,566,NGA,0,W00,8431,Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430,kg,56.638,599.299
+X,566,NGA,288,GHA,8431,Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430,kg,56.638,599.299
+X,566,NGA,0,W00,8432,"Agricultural, horticultural or forestry machinery for soil preparation or cultivation; lawn or sports-ground rollers",N/A,0.0,804186.143
+X,566,NGA,826,GBR,8432,"Agricultural, horticultural or forestry machinery for soil preparation or cultivation; lawn or sports-ground rollers",N/A,0.0,804186.143
+X,566,NGA,0,W00,8438,"Machinery n.e.c. in this chapter, for the industrial preparation or manufacture of food or drink; other than machinery for extraction or preparation of animal or fixed vegetable fats or oils",N/A,0.0,2601224.406
+X,566,NGA,276,DEU,8438,"Machinery n.e.c. in this chapter, for the industrial preparation or manufacture of food or drink; other than machinery for extraction or preparation of animal or fixed vegetable fats or oils",N/A,0.0,55875.229
+X,566,NGA,678,STP,8438,"Machinery n.e.c. in this chapter, for the industrial preparation or manufacture of food or drink; other than machinery for extraction or preparation of animal or fixed vegetable fats or oils",N/A,0.0,2545349.177
+X,566,NGA,0,W00,8467,"Tools; for working in the hand, pneumatic, hydraulic or with self-contained electric or non-electric motor",u,5609.888,377808.148
+X,566,NGA,842,USA,8467,"Tools; for working in the hand, pneumatic, hydraulic or with self-contained electric or non-electric motor",u,5609.888,377808.148
+X,566,NGA,0,W00,8480,"Moulding boxes for metal foundry, moulding patterns, moulds for metals (excluding ingot moulds), metal carbides, glass, mineral materials, rubber or plastics",kg,2392.983,84509.455
+X,566,NGA,842,USA,8480,"Moulding boxes for metal foundry, moulding patterns, moulds for metals (excluding ingot moulds), metal carbides, glass, mineral materials, rubber or plastics",kg,2392.983,84509.455
+X,566,NGA,0,W00,8501,Electric motors and generators (excluding generating sets),N/A,0.0,9998.025
+X,566,NGA,204,BEN,8501,Electric motors and generators (excluding generating sets),N/A,0.0,9998.025
+X,566,NGA,0,W00,8502,Electric generating sets and rotary converters,N/A,0.0,2595542.544
+X,566,NGA,288,GHA,8502,Electric generating sets and rotary converters,u,59.792,693867.73
+X,566,NGA,324,GIN,8502,Electric generating sets and rotary converters,u,4.001,67707.775
+X,566,NGA,430,LBR,8502,Electric generating sets and rotary converters,N/A,0.0,65149.133
+X,566,NGA,694,SLE,8502,Electric generating sets and rotary converters,N/A,0.0,1768817.906
+X,566,NGA,0,W00,8517,"Telephone sets, including telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data (including wired/wireless networks), excluding items of 8443, 8525, 8527, or 8528",N/A,0.0,19884.167
+X,566,NGA,842,USA,8517,"Telephone sets, including telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data (including wired/wireless networks), excluding items of 8443, 8525, 8527, or 8528",N/A,0.0,19884.167
+X,566,NGA,0,W00,8523,"Discs, tapes, solid-state non-volatile storage devices, smart cards and other media for the recording of sound or of other phenomena, whether or not recorded, including matrices and masters for the production of discs, excluding products of Chapter 37",N/A,0.0,19884.167
+X,566,NGA,842,USA,8523,"Discs, tapes, solid-state non-volatile storage devices, smart cards and other media for the recording of sound or of other phenomena, whether or not recorded, including matrices and masters for the production of discs, excluding products of Chapter 37",N/A,0.0,19884.167
+X,566,NGA,0,W00,8525,"Transmission apparatus for radio-broadcasting or television, whether or not incorporating reception apparatus or sound recording or reproducing apparatus; television cameras, digital cameras and video camera recorders",N/A,0.0,19471.4
+X,566,NGA,410,KOR,8525,"Transmission apparatus for radio-broadcasting or television, whether or not incorporating reception apparatus or sound recording or reproducing apparatus; television cameras, digital cameras and video camera recorders",N/A,0.0,19471.4
+X,566,NGA,288,GHA,8537,"Boards, panels, consoles, desks, cabinets, bases with apparatus of heading no. 8535, 8536 for electricity control and distribution, (other than switching apparatus of heading no. 8517)",kg,415.745,39883.276
+X,566,NGA,842,USA,8541,"Diodes, transistors, similar semiconductor devices; including photovoltaic cells assembled or not in modules, panels, light emitting mounted piezo-electric crystals",N/A,0.0,14913.375
+X,566,NGA,724,ESP,8548,"Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators; electrical parts of machinery or apparatus, n.e.c. or included elsewhere in chapter 85",kg,335332.34,332190.397
+X,566,NGA,842,USA,8703,"Motor cars and other motor vehicles; principally designed for the transport of persons (other than those of heading no. 8702), including station wagons and racing cars",u,0.0,1.001
+X,566,NGA,288,GHA,8705,"Special purpose motor vehicles; not those for the transport of persons or goods (e.g. breakdown lorries, road sweeper lorries, spraying lorries, mobile workshops, mobile radiological units etc)",u,1.477,121331.703
+X,566,NGA,380,ITA,8708,"Motor vehicles; parts and accessories, of heading no. 8701 to 8705",kg,13797.544,179892.543
+X,566,NGA,288,GHA,8711,"Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, with or without side-cars; side-cars",u,12.418,19469.46
+X,566,NGA,834,TZA,8716,"Trailers and semi-trailers; other vehicles, not mechanically propelled; parts thereof",kg,39825.15,191515.121
+X,566,NGA,842,USA,9006,"Cameras, photographic (excluding cinematographic); photographic flashlight apparatus and flashbulbs other than discharge lamps of heading no. 8539",N/A,0.0,39769.331
+X,566,NGA,0,W00,8537,"Boards, panels, consoles, desks, cabinets, bases with apparatus of heading no. 8535, 8536 for electricity control and distribution, (other than switching apparatus of heading no. 8517)",kg,415.745,39883.276
+X,566,NGA,0,W00,8541,"Diodes, transistors, similar semiconductor devices; including photovoltaic cells assembled or not in modules, panels, light emitting mounted piezo-electric crystals",N/A,0.0,14913.375
+X,566,NGA,710,ZAF,8548,"Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators; electrical parts of machinery or apparatus, n.e.c. or included elsewhere in chapter 85",kg,88427.023,87598.493
+X,566,NGA,699,IND,8548,"Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators; electrical parts of machinery or apparatus, n.e.c. or included elsewhere in chapter 85",kg,12999.435,12877.635
+X,566,NGA,410,KOR,8548,"Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators; electrical parts of machinery or apparatus, n.e.c. or included elsewhere in chapter 85",kg,128205.146,127003.91
+X,566,NGA,276,DEU,8548,"Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators; electrical parts of machinery or apparatus, n.e.c. or included elsewhere in chapter 85",kg,361254.417,416532.356
+X,566,NGA,56,BEL,8548,"Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators; electrical parts of machinery or apparatus, n.e.c. or included elsewhere in chapter 85",kg,683689.878,677283.948
+X,566,NGA,0,W00,8548,"Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators; electrical parts of machinery or apparatus, n.e.c. or included elsewhere in chapter 85",kg,1638205.72,1718478.601
+X,566,NGA,792,TUR,8548,"Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators; electrical parts of machinery or apparatus, n.e.c. or included elsewhere in chapter 85",kg,326.835,37283.292
+X,566,NGA,764,THA,8548,"Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators; electrical parts of machinery or apparatus, n.e.c. or included elsewhere in chapter 85",kg,27970.645,27708.57
+X,566,NGA,0,W00,8703,"Motor cars and other motor vehicles; principally designed for the transport of persons (other than those of heading no. 8702), including station wagons and racing cars",u,0.0,1.001
+X,566,NGA,0,W00,8705,"Special purpose motor vehicles; not those for the transport of persons or goods (e.g. breakdown lorries, road sweeper lorries, spraying lorries, mobile workshops, mobile radiological units etc)",u,1.477,121331.703
+X,566,NGA,276,DEU,8708,"Motor vehicles; parts and accessories, of heading no. 8701 to 8705",kg,899.099,11722.459
+X,566,NGA,0,W00,8708,"Motor vehicles; parts and accessories, of heading no. 8701 to 8705",kg,14696.643,191615.002
+X,566,NGA,120,CMR,8711,"Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, with or without side-cars; side-cars",u,1.509,9086.831
+X,566,NGA,0,W00,8711,"Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, with or without side-cars; side-cars",u,13.927,28556.291
+X,566,NGA,231,ETH,8716,"Trailers and semi-trailers; other vehicles, not mechanically propelled; parts thereof",kg,49781.437,239393.901
+X,566,NGA,0,W00,8716,"Trailers and semi-trailers; other vehicles, not mechanically propelled; parts thereof",kg,89606.587,430909.022
+X,566,NGA,0,W00,9006,"Cameras, photographic (excluding cinematographic); photographic flashlight apparatus and flashbulbs other than discharge lamps of heading no. 8539",N/A,0.0,39769.331
+X,566,NGA,0,W00,9015,"Surveying (including photogrammetrical surveying), hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances, excluding compasses, rangefinders",N/A,0.0,785916.787
+X,566,NGA,826,GBR,9015,"Surveying (including photogrammetrical surveying), hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances, excluding compasses, rangefinders",N/A,0.0,766032.62
+X,566,NGA,842,USA,9015,"Surveying (including photogrammetrical surveying), hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances, excluding compasses, rangefinders",u,2.018,19884.167
+X,566,NGA,0,W00,9032,Regulating or controlling instruments and apparatus; automatic type,kg,298.993,35791.899
+X,566,NGA,842,USA,9032,Regulating or controlling instruments and apparatus; automatic type,kg,298.993,35791.899

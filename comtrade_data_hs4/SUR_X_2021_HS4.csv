@@ -1,0 +1,712 @@
+flowCode,reporterCode,reporterISO,partnerCode,partnerISO,cmdCode,cmdDesc,qtyUnitAbbr,qty,fobvalue
+X,740,SUR,0,W00,1005,Maize (corn),kg,30615.0,26161.6
+X,740,SUR,328,GUY,1005,Maize (corn),kg,30615.0,26161.6
+X,740,SUR,0,W00,1006,Rice,kg,67596634.0,32432395.54
+X,740,SUR,191,HRV,1006,Rice,kg,500000.0,249709.43
+X,740,SUR,212,DMA,1006,Rice,kg,24500.0,13548.75
+X,740,SUR,251,FRA,1006,Rice,kg,3512176.0,2028800.39
+X,740,SUR,270,GMB,1006,Rice,kg,2800.0,1797.75
+X,740,SUR,276,DEU,1006,Rice,kg,208800.0,120060.0
+X,740,SUR,300,GRC,1006,Rice,kg,50096.0,28304.24
+X,740,SUR,328,GUY,1006,Rice,kg,555.0,49000.0
+X,740,SUR,380,ITA,1006,Rice,kg,150600.0,61746.0
+X,740,SUR,388,JAM,1006,Rice,kg,45191320.0,22770096.87
+X,740,SUR,410,KOR,1006,Rice,kg,125193.0,70733.79
+X,740,SUR,440,LTU,1006,Rice,kg,100171.0,54092.34
+X,740,SUR,528,NLD,1006,Rice,kg,3299312.0,946584.07
+X,740,SUR,531,CUW,1006,Rice,kg,5000.0,4723.59
+X,740,SUR,533,ABW,1006,Rice,kg,850927.0,804938.0
+X,740,SUR,616,POL,1006,Rice,kg,1050270.0,429027.3
+X,740,SUR,620,PRT,1006,Rice,kg,7798670.0,2275890.87
+X,740,SUR,768,TGO,1006,Rice,kg,1700000.0,874152.02
+X,740,SUR,780,TTO,1006,Rice,kg,350240.0,166109.79
+X,740,SUR,792,TUR,1006,Rice,kg,2000000.0,1100000.0
+X,740,SUR,826,GBR,1006,Rice,kg,569500.0,333442.49
+X,740,SUR,842,USA,1006,Rice,kg,100000.0,42500.0
+X,740,SUR,862,VEN,1006,Rice,kg,6504.0,7137.85
+X,740,SUR,0,W00,1404,Vegetable products not elsewhere specified or included,kg,1500.0,2390.97
+X,740,SUR,528,NLD,1404,Vegetable products not elsewhere specified or included,kg,1500.0,2390.97
+X,740,SUR,0,W00,2001,"Vegetables, fruit, nuts and other edible parts of plants; prepared or preserved by vinegar or acetic acid",kg,4856.0,6369.83
+X,740,SUR,251,FRA,2001,"Vegetables, fruit, nuts and other edible parts of plants; prepared or preserved by vinegar or acetic acid",kg,2650.0,4245.0
+X,740,SUR,528,NLD,2001,"Vegetables, fruit, nuts and other edible parts of plants; prepared or preserved by vinegar or acetic acid",kg,1590.0,1013.18
+X,740,SUR,862,VEN,2001,"Vegetables, fruit, nuts and other edible parts of plants; prepared or preserved by vinegar or acetic acid",kg,616.0,1111.65
+X,740,SUR,0,W00,2002,Tomatoes; prepared or preserved otherwise than by vinegar or acetic acid,kg,13002.5,11467.74
+X,740,SUR,862,VEN,2002,Tomatoes; prepared or preserved otherwise than by vinegar or acetic acid,kg,13002.5,11467.74
+X,740,SUR,0,W00,2003,"Mushrooms and truffles, prepared or preserved other than by vinegar or acetic acid",kg,35.0,4384.91
+X,740,SUR,862,VEN,2003,"Mushrooms and truffles, prepared or preserved other than by vinegar or acetic acid",kg,35.0,4384.91
+X,740,SUR,0,W00,2005,"Vegetables preparations n.e.c.; prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading no. 2006",kg,12182.97,21470.4
+X,740,SUR,251,FRA,2005,"Vegetables preparations n.e.c.; prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading no. 2006",kg,1870.0,8671.84
+X,740,SUR,328,GUY,2005,"Vegetables preparations n.e.c.; prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading no. 2006",kg,1957.0,1384.86
+X,740,SUR,531,CUW,2005,"Vegetables preparations n.e.c.; prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading no. 2006",kg,1821.0,2070.0
+X,740,SUR,862,VEN,2005,"Vegetables preparations n.e.c.; prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading no. 2006",kg,6534.97,9343.7
+X,740,SUR,0,W00,2006,"Vegetables, fruit, nuts, fruit-peel and other parts of plants, preserved by sugar (drained, glace or crystallised)",kg,708.0,1489.54
+X,740,SUR,528,NLD,2006,"Vegetables, fruit, nuts, fruit-peel and other parts of plants, preserved by sugar (drained, glace or crystallised)",kg,708.0,1489.54
+X,740,SUR,0,W00,2007,"Jams, fruit jellies, marmalades, fruit or nut puree and fruit or nut pastes, being cooked preparations; whether or not containing added sugar or other sweetening matter",kg,2585.0,11548.15
+X,740,SUR,528,NLD,2007,"Jams, fruit jellies, marmalades, fruit or nut puree and fruit or nut pastes, being cooked preparations; whether or not containing added sugar or other sweetening matter",kg,1145.0,8840.62
+X,740,SUR,862,VEN,2007,"Jams, fruit jellies, marmalades, fruit or nut puree and fruit or nut pastes, being cooked preparations; whether or not containing added sugar or other sweetening matter",kg,1440.0,2707.53
+X,740,SUR,0,W00,2008,"Fruit, nuts and other edible parts of plants; prepared or preserved in ways n.e.c., whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included",kg,62692.29,150067.45
+X,740,SUR,251,FRA,2008,"Fruit, nuts and other edible parts of plants; prepared or preserved in ways n.e.c., whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included",kg,26167.4,76404.24
+X,740,SUR,328,GUY,2008,"Fruit, nuts and other edible parts of plants; prepared or preserved in ways n.e.c., whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included",kg,8933.0,7945.83
+X,740,SUR,528,NLD,2008,"Fruit, nuts and other edible parts of plants; prepared or preserved in ways n.e.c., whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included",kg,9368.59,33645.2
+X,740,SUR,531,CUW,2008,"Fruit, nuts and other edible parts of plants; prepared or preserved in ways n.e.c., whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included",kg,2299.0,4887.39
+X,740,SUR,862,VEN,2008,"Fruit, nuts and other edible parts of plants; prepared or preserved in ways n.e.c., whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included",kg,15924.3,27184.79
+X,740,SUR,0,W00,2009,"Fruit juices (including grape must) and vegetable juices, unfermented, not containing added spirit; whether or not containing added sugar or other sweetening matter",kg,331574.5,210519.45
+X,740,SUR,251,FRA,2009,"Fruit juices (including grape must) and vegetable juices, unfermented, not containing added spirit; whether or not containing added sugar or other sweetening matter",kg,7470.0,16390.41
+X,740,SUR,276,DEU,2009,"Fruit juices (including grape must) and vegetable juices, unfermented, not containing added spirit; whether or not containing added sugar or other sweetening matter",kg,88735.0,47197.33
+X,740,SUR,328,GUY,2009,"Fruit juices (including grape must) and vegetable juices, unfermented, not containing added spirit; whether or not containing added sugar or other sweetening matter",kg,173416.0,111778.35
+X,740,SUR,528,NLD,2009,"Fruit juices (including grape must) and vegetable juices, unfermented, not containing added spirit; whether or not containing added sugar or other sweetening matter",kg,19452.5,17959.71
+X,740,SUR,862,VEN,2009,"Fruit juices (including grape must) and vegetable juices, unfermented, not containing added spirit; whether or not containing added sugar or other sweetening matter",kg,42501.0,17193.65
+X,740,SUR,0,W00,2505,"Sands of all kinds; natural, whether or not coloured, other than metal-bearing sands of chapter 26",kg,20724801.5,104138.39
+X,740,SUR,251,FRA,2505,"Sands of all kinds; natural, whether or not coloured, other than metal-bearing sands of chapter 26",kg,7620000.0,11217.45
+X,740,SUR,531,CUW,2505,"Sands of all kinds; natural, whether or not coloured, other than metal-bearing sands of chapter 26",kg,12200000.0,85400.0
+X,740,SUR,842,USA,2505,"Sands of all kinds; natural, whether or not coloured, other than metal-bearing sands of chapter 26",kg,4801.5,1220.94
+X,740,SUR,899,_X ,2505,"Sands of all kinds; natural, whether or not coloured, other than metal-bearing sands of chapter 26",kg,900000.0,6300.0
+X,740,SUR,0,W00,2508,"Clays; (not including expanded clays of heading no. 6806), andalusite kyanite and sillimanite, whether or not calcined; mullite; chamotte or dinas earth",kg,50.0,2690.91
+X,740,SUR,826,GBR,2508,"Clays; (not including expanded clays of heading no. 6806), andalusite kyanite and sillimanite, whether or not calcined; mullite; chamotte or dinas earth",kg,50.0,2690.91
+X,740,SUR,0,W00,2509,Chalk,kg,5000.0,2292.06
+X,740,SUR,251,FRA,2509,Chalk,kg,5000.0,2292.06
+X,740,SUR,0,W00,2517,"Pebbles, gravel, crushed stone for concrete aggregates for road or railway ballast, shingle or flint; macadam of slag, dross etc tarred granules, chippings, powder of stones of heading no. 2515 and 2516",kg,244833383.3,6356348.63
+X,740,SUR,251,FRA,2517,"Pebbles, gravel, crushed stone for concrete aggregates for road or railway ballast, shingle or flint; macadam of slag, dross etc tarred granules, chippings, powder of stones of heading no. 2515 and 2516",kg,30498000.0,361743.71
+X,740,SUR,328,GUY,2517,"Pebbles, gravel, crushed stone for concrete aggregates for road or railway ballast, shingle or flint; macadam of slag, dross etc tarred granules, chippings, powder of stones of heading no. 2515 and 2516",kg,214335383.3,5994604.92
+X,740,SUR,0,W00,2523,"Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",kg,415500.0,89606.42
+X,740,SUR,251,FRA,2523,"Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",kg,408000.0,60582.22
+X,740,SUR,780,TTO,2523,"Portland cement, aluminous cement (ciment fondu), slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers",kg,7500.0,29024.2
+X,740,SUR,0,W00,2530,Mineral substances not elsewhere specified or included,kg,5780.0,7100.0
+X,740,SUR,124,CAN,2530,Mineral substances not elsewhere specified or included,kg,3790.0,3800.0
+X,740,SUR,152,CHL,2530,Mineral substances not elsewhere specified or included,kg,1640.0,1647.0
+X,740,SUR,528,NLD,2530,Mineral substances not elsewhere specified or included,kg,350.0,1653.0
+X,740,SUR,0,W00,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,111763252.0,72679239.41
+X,740,SUR,28,ATG,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,15990276.0,9536934.23
+X,740,SUR,52,BRB,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,1339.0,829264.94
+X,740,SUR,76,BRA,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,4000050.0,2534863.77
+X,740,SUR,124,CAN,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,262805.0,104300.6
+X,740,SUR,136,CYM,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,136773.0,845359.73
+X,740,SUR,196,CYP,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,303675.0,127341.88
+X,740,SUR,251,FRA,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,13612100.0,8262777.95
+X,740,SUR,276,DEU,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,140335.0,58976.05
+X,740,SUR,328,GUY,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,67666284.0,38775410.1
+X,740,SUR,430,LBR,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,2200.0,15113.86
+X,740,SUR,470,MLT,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,9900.0,61141.36
+X,740,SUR,524,NPL,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,4000.0,18725.2
+X,740,SUR,528,NLD,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,163827.0,69332.02
+X,740,SUR,534,SXM,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,1769680.0,850622.37
+X,740,SUR,548,VUT,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,3800.0,16194.77
+X,740,SUR,579,NOR,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,214910.0,98509.5
+X,740,SUR,591,PAN,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,1152680.0,673359.4
+X,740,SUR,652,BLM,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,5125970.0,6560922.36
+X,740,SUR,670,VCT,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,293950.0,120327.08
+X,740,SUR,699,IND,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,40000.0,2500.0
+X,740,SUR,826,GBR,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,11600.0,53205.64
+X,740,SUR,842,USA,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,734985.0,2988676.04
+X,740,SUR,862,VEN,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,120313.0,67138.29
+X,740,SUR,899,_X ,2710,"Petroleum oils and oils from bituminous minerals, not crude; preparations n.e.c. containing by weight 70% or more of petroleum oils or oils from bituminous minerals; these being the basic constituents of the preparations; waste oils",kg,1800.0,8242.27
+X,740,SUR,0,W00,2713,"Petroleum coke, petroleum bitumen; other residues of petroleum oils or oils obtained from bituminous minerals",kg,2945463.0,1004895.69
+X,740,SUR,328,GUY,2713,"Petroleum coke, petroleum bitumen; other residues of petroleum oils or oils obtained from bituminous minerals",kg,21463.0,11306.25
+X,740,SUR,780,TTO,2713,"Petroleum coke, petroleum bitumen; other residues of petroleum oils or oils obtained from bituminous minerals",kg,2924000.0,993589.44
+X,740,SUR,0,W00,2714,"Bitumen and asphalt, natural; bituminous or oil shale and tar sands; asphaltites and asphaltic rocks",kg,287293.0,255470.69
+X,740,SUR,328,GUY,2714,"Bitumen and asphalt, natural; bituminous or oil shale and tar sands; asphaltites and asphaltic rocks",kg,265293.0,244970.69
+X,740,SUR,531,CUW,2714,"Bitumen and asphalt, natural; bituminous or oil shale and tar sands; asphaltites and asphaltic rocks",kg,22000.0,10500.0
+X,740,SUR,0,W00,2903,Halogenated derivatives of hydrocarbons,kg,20520.0,12008.0
+X,740,SUR,842,USA,2903,Halogenated derivatives of hydrocarbons,kg,20520.0,12008.0
+X,740,SUR,0,W00,2904,"Sulphonated, nitrated or nitrosated derivatives of hydrocarbons; whether or not halogenated",kg,5940.0,21205.8
+X,740,SUR,328,GUY,2904,"Sulphonated, nitrated or nitrosated derivatives of hydrocarbons; whether or not halogenated",kg,5940.0,21205.8
+X,740,SUR,0,W00,2905,"Acyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives",kg,240.0,1517.46
+X,740,SUR,531,CUW,2905,"Acyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives",kg,240.0,1517.46
+X,740,SUR,0,W00,2914,"Ketones and quinones; whether or not with other oxygen function, and their halogenated, sulphonated, nitrated or nitrostated derivatives",kg,2623.0,1953.83
+X,740,SUR,862,VEN,2914,"Ketones and quinones; whether or not with other oxygen function, and their halogenated, sulphonated, nitrated or nitrostated derivatives",kg,2623.0,1953.83
+X,740,SUR,0,W00,2922,Oxygen-function amino-compounds,kg,10661.6,48900.1
+X,740,SUR,826,GBR,2922,Oxygen-function amino-compounds,kg,10641.0,46558.8
+X,740,SUR,842,USA,2922,Oxygen-function amino-compounds,kg,20.6,2341.3
+X,740,SUR,0,W00,3004,"Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed products for therapeutic or prophylactic use, put up in measured doses (incl. those in the form of transdermal admin. systems) or packed for retail sale",kg,437.0,8101.95
+X,740,SUR,328,GUY,3004,"Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed products for therapeutic or prophylactic use, put up in measured doses (incl. those in the form of transdermal admin. systems) or packed for retail sale",kg,286.0,5885.69
+X,740,SUR,528,NLD,3004,"Medicaments; (not goods of heading no. 3002, 3005 or 3006) consisting of mixed or unmixed products for therapeutic or prophylactic use, put up in measured doses (incl. those in the form of transdermal admin. systems) or packed for retail sale",kg,151.0,2216.26
+X,740,SUR,0,W00,3005,"Wadding, gauze, bandages (dressings, adhesive plasters, poultices), impregnated or coated with pharmaceutical substances or in forms or packings for retail sale, for medical, surgical or veterinary use",kg,6000.0,3332.25
+X,740,SUR,192,CUB,3005,"Wadding, gauze, bandages (dressings, adhesive plasters, poultices), impregnated or coated with pharmaceutical substances or in forms or packings for retail sale, for medical, surgical or veterinary use",kg,6000.0,3332.25
+X,740,SUR,0,W00,3908,Polyamides in primary forms,kg,10400.0,3520.99
+X,740,SUR,528,NLD,3908,Polyamides in primary forms,kg,10400.0,3520.99
+X,740,SUR,0,W00,3915,"Waste, parings and scrap, of plastics",kg,574160.0,203578.5
+X,740,SUR,76,BRA,3915,"Waste, parings and scrap, of plastics",kg,80800.0,33340.0
+X,740,SUR,340,HND,3915,"Waste, parings and scrap, of plastics",kg,28600.0,6435.0
+X,740,SUR,458,MYS,3915,"Waste, parings and scrap, of plastics",kg,50000.0,37960.0
+X,740,SUR,484,MEX,3915,"Waste, parings and scrap, of plastics",kg,61500.0,5480.0
+X,740,SUR,528,NLD,3915,"Waste, parings and scrap, of plastics",kg,34000.0,2880.0
+X,740,SUR,704,VNM,3915,"Waste, parings and scrap, of plastics",kg,132500.0,41307.5
+X,740,SUR,724,ESP,3915,"Waste, parings and scrap, of plastics",kg,126400.0,58118.0
+X,740,SUR,780,TTO,3915,"Waste, parings and scrap, of plastics",kg,24360.0,14760.0
+X,740,SUR,899,_X ,3915,"Waste, parings and scrap, of plastics",kg,36000.0,3298.0
+X,740,SUR,0,W00,3917,"Tubes, pipes and hoses and fittings thereof (for example, joints, elbows, flanges), of plastics",kg,5704.0,18637.96
+X,740,SUR,76,BRA,3917,"Tubes, pipes and hoses and fittings thereof (for example, joints, elbows, flanges), of plastics",kg,490.0,2300.0
+X,740,SUR,251,FRA,3917,"Tubes, pipes and hoses and fittings thereof (for example, joints, elbows, flanges), of plastics",kg,700.0,1146.41
+X,740,SUR,328,GUY,3917,"Tubes, pipes and hoses and fittings thereof (for example, joints, elbows, flanges), of plastics",kg,4500.0,12700.0
+X,740,SUR,531,CUW,3917,"Tubes, pipes and hoses and fittings thereof (for example, joints, elbows, flanges), of plastics",kg,14.0,2491.55
+X,740,SUR,0,W00,3919,"Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether or not in rolls",kg,8363.0,39837.15
+X,740,SUR,52,BRB,3919,"Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether or not in rolls",kg,1107.0,10903.95
+X,740,SUR,251,FRA,3919,"Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether or not in rolls",kg,7236.0,26773.2
+X,740,SUR,328,GUY,3919,"Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether or not in rolls",kg,20.0,2160.0
+X,740,SUR,0,W00,3921,"Plastic plates, sheets, film, foil and strip n.e.c. in chapter 39",kg,7600.0,154910.0
+X,740,SUR,328,GUY,3921,"Plastic plates, sheets, film, foil and strip n.e.c. in chapter 39",kg,7600.0,154910.0
+X,740,SUR,0,W00,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,141785.96,325263.23
+X,740,SUR,251,FRA,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,13312.2,42722.62
+X,740,SUR,328,GUY,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,55500.0,119563.79
+X,740,SUR,528,NLD,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,3418.2,7375.55
+X,740,SUR,531,CUW,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,2060.0,15557.21
+X,740,SUR,533,ABW,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,1200.0,1314.99
+X,740,SUR,780,TTO,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,108.0,29895.0
+X,740,SUR,842,USA,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,315.0,3680.0
+X,740,SUR,862,VEN,3923,"Plastic articles for the conveyance or packing of goods; stoppers, lids, caps and other closures of plastics",kg,65872.56,105154.07
+X,740,SUR,0,W00,3924,"Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics",kg,386662.29,1432996.44
+X,740,SUR,28,ATG,3924,"Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics",kg,520.55,15310.0
+X,740,SUR,52,BRB,3924,"Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics",kg,52098.9,75751.37
+X,740,SUR,212,DMA,3924,"Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics",kg,326.69,7727.09
+X,740,SUR,308,GRD,3924,"Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics",kg,161.55,4610.0
+X,740,SUR,328,GUY,3924,"Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics",kg,140463.0,1071010.97
+X,740,SUR,528,NLD,3924,"Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics",kg,132718.0,192301.42
+X,740,SUR,531,CUW,3924,"Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics",kg,143.6,3830.0
+X,740,SUR,662,LCA,3924,"Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics",kg,32675.0,38754.69
+X,740,SUR,862,VEN,3924,"Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics",kg,27555.0,23700.9
+X,740,SUR,0,W00,3925,Plastics; builders' wares n.e.c. or included,kg,136925.0,220734.61
+X,740,SUR,251,FRA,3925,Plastics; builders' wares n.e.c. or included,kg,20000.0,24084.81
+X,740,SUR,533,ABW,3925,Plastics; builders' wares n.e.c. or included,kg,78325.0,152918.69
+X,740,SUR,662,LCA,3925,Plastics; builders' wares n.e.c. or included,kg,38600.0,43731.11
+X,740,SUR,0,W00,3926,"Articles of plastics and articles of other materials of heading no. 3901 to 3914, n.e.c. in chapter 39",kg,561353.64,782619.55
+X,740,SUR,76,BRA,3926,"Articles of plastics and articles of other materials of heading no. 3901 to 3914, n.e.c. in chapter 39",kg,148460.0,153391.92
+X,740,SUR,188,CRI,3926,"Articles of plastics and articles of other materials of heading no. 3901 to 3914, n.e.c. in chapter 39",kg,42908.0,66372.1
+X,740,SUR,192,CUB,3926,"Articles of plastics and articles of other materials of heading no. 3901 to 3914, n.e.c. in chapter 39",kg,2000.0,4853.62
+X,740,SUR,251,FRA,3926,"Articles of plastics and articles of other materials of heading no. 3901 to 3914, n.e.c. in chapter 39",kg,1850.0,4722.84
+X,740,SUR,328,GUY,3926,"Articles of plastics and articles of other materials of heading no. 3901 to 3914, n.e.c. in chapter 39",kg,362427.0,542101.46
+X,740,SUR,528,NLD,3926,"Articles of plastics and articles of other materials of heading no. 3901 to 3914, n.e.c. in chapter 39",kg,320.0,1667.54
+X,740,SUR,531,CUW,3926,"Articles of plastics and articles of other materials of heading no. 3901 to 3914, n.e.c. in chapter 39",kg,570.0,2882.22
+X,740,SUR,533,ABW,3926,"Articles of plastics and articles of other materials of heading no. 3901 to 3914, n.e.c. in chapter 39",kg,2700.0,4144.24
+X,740,SUR,842,USA,3926,"Articles of plastics and articles of other materials of heading no. 3901 to 3914, n.e.c. in chapter 39",kg,118.64,2483.61
+X,740,SUR,0,W00,4009,"Tubes, pipes and hoses, of vulcanised rubber (other than hard rubber), with or without their fittings (e.g. joints, elbows, flanges)",kg,466.0,20464.03
+X,740,SUR,251,FRA,4009,"Tubes, pipes and hoses, of vulcanised rubber (other than hard rubber), with or without their fittings (e.g. joints, elbows, flanges)",kg,416.0,6450.7
+X,740,SUR,276,DEU,4009,"Tubes, pipes and hoses, of vulcanised rubber (other than hard rubber), with or without their fittings (e.g. joints, elbows, flanges)",kg,30.0,9122.11
+X,740,SUR,328,GUY,4009,"Tubes, pipes and hoses, of vulcanised rubber (other than hard rubber), with or without their fittings (e.g. joints, elbows, flanges)",kg,20.0,4891.22
+X,740,SUR,0,W00,4010,"Conveyor or transmission belts or belting, of vulcanised rubber",kg,36.0,2335.52
+X,740,SUR,251,FRA,4010,"Conveyor or transmission belts or belting, of vulcanised rubber",kg,35.0,1143.06
+X,740,SUR,531,CUW,4010,"Conveyor or transmission belts or belting, of vulcanised rubber",kg,1.0,1192.46
+X,740,SUR,0,W00,4011,"New pneumatic tyres, of rubber",u,96.0,34796.9
+X,740,SUR,251,FRA,4011,"New pneumatic tyres, of rubber",u,16.0,12696.9
+X,740,SUR,328,GUY,4011,"New pneumatic tyres, of rubber",u,80.0,22100.0
+X,740,SUR,0,W00,4012,"Retreaded or used pneumatic tyres of rubber; solid or cushion tyres, tyre treads and tyre flaps, of rubber",N/A,0.0,7544.15
+X,740,SUR,251,FRA,4012,"Retreaded or used pneumatic tyres of rubber; solid or cushion tyres, tyre treads and tyre flaps, of rubber",u,2.0,6044.15
+X,740,SUR,862,VEN,4012,"Retreaded or used pneumatic tyres of rubber; solid or cushion tyres, tyre treads and tyre flaps, of rubber",kg,5000.0,1500.0
+X,740,SUR,0,W00,4014,"Hygienic or pharmaceutical articles (including teats), of vulcanised rubber other than hard rubber, with or without fittings of hard rubber",kg,8880.0,43068.0
+X,740,SUR,76,BRA,4014,"Hygienic or pharmaceutical articles (including teats), of vulcanised rubber other than hard rubber, with or without fittings of hard rubber",kg,8880.0,43068.0
+X,740,SUR,0,W00,4016,"Articles of vulcanised rubber other than hard rubber, n.e.c. in chapter 40",kg,436.96,31047.55
+X,740,SUR,76,BRA,4016,"Articles of vulcanised rubber other than hard rubber, n.e.c. in chapter 40",kg,0.96,1325.41
+X,740,SUR,251,FRA,4016,"Articles of vulcanised rubber other than hard rubber, n.e.c. in chapter 40",kg,22.0,1499.33
+X,740,SUR,328,GUY,4016,"Articles of vulcanised rubber other than hard rubber, n.e.c. in chapter 40",kg,400.0,17955.12
+X,740,SUR,528,NLD,4016,"Articles of vulcanised rubber other than hard rubber, n.e.c. in chapter 40",kg,4.0,7840.8
+X,740,SUR,842,USA,4016,"Articles of vulcanised rubber other than hard rubber, n.e.c. in chapter 40",kg,10.0,2426.89
+X,740,SUR,0,W00,7001,"Glass; cullet and other waste and scrap of glass, glass in the mass",kg,101198.0,7083.85
+X,740,SUR,780,TTO,7001,"Glass; cullet and other waste and scrap of glass, glass in the mass",kg,101198.0,7083.85
+X,740,SUR,0,W00,7006,"Glass of heading no. 7003, 7004 or 7005, bent, edge-worked, engraved, drilled, enamelled or otherwise worked, not framed or fitted with other materials",kg,2.0,2363.0
+X,740,SUR,156,CHN,7006,"Glass of heading no. 7003, 7004 or 7005, bent, edge-worked, engraved, drilled, enamelled or otherwise worked, not framed or fitted with other materials",kg,2.0,2363.0
+X,740,SUR,0,W00,7007,"Safety glass, consisting of toughened (tempered) or laminated glass",N/A,0.0,64011.34
+X,740,SUR,328,GUY,7007,"Safety glass, consisting of toughened (tempered) or laminated glass",N/A,0.0,4059.91
+X,740,SUR,528,NLD,7007,"Safety glass, consisting of toughened (tempered) or laminated glass",N/A,0.0,3643.3
+X,740,SUR,842,USA,7007,"Safety glass, consisting of toughened (tempered) or laminated glass",kg,87.0,56308.13
+X,740,SUR,0,W00,7013,"Glassware of a kind used for table, kitchen, toilet, office, indoor decoration or similar purposes (other than of heading no. 7010 or 7018)",kg,700.0,9000.0
+X,740,SUR,328,GUY,7013,"Glassware of a kind used for table, kitchen, toilet, office, indoor decoration or similar purposes (other than of heading no. 7010 or 7018)",kg,700.0,9000.0
+X,740,SUR,0,W00,7015,"Clock, watch and similar glasses, glasses for non-corrective or corrective spectacles, curved, bent, hallowed etc, not optically worked; hollow glass spheres and their segments for manufacture",kg,55775.0,188614.29
+X,740,SUR,76,BRA,7015,"Clock, watch and similar glasses, glasses for non-corrective or corrective spectacles, curved, bent, hallowed etc, not optically worked; hollow glass spheres and their segments for manufacture",kg,55775.0,188614.29
+X,740,SUR,0,W00,7204,Ferrous waste and scrap; remelting scrap ingots of iron or steel,kg,63408707.0,7067730.88
+X,740,SUR,56,BEL,7204,Ferrous waste and scrap; remelting scrap ingots of iron or steel,kg,49500.0,10152.82
+X,740,SUR,156,CHN,7204,Ferrous waste and scrap; remelting scrap ingots of iron or steel,kg,6836000.0,762914.99
+X,740,SUR,276,DEU,7204,Ferrous waste and scrap; remelting scrap ingots of iron or steel,kg,6482000.0,713001.07
+X,740,SUR,344,HKG,7204,Ferrous waste and scrap; remelting scrap ingots of iron or steel,kg,17405000.0,1914019.43
+X,740,SUR,490,S19,7204,Ferrous waste and scrap; remelting scrap ingots of iron or steel,kg,17720000.0,1959718.8
+X,740,SUR,528,NLD,7204,Ferrous waste and scrap; remelting scrap ingots of iron or steel,kg,10810207.0,1231432.94
+X,740,SUR,699,IND,7204,Ferrous waste and scrap; remelting scrap ingots of iron or steel,kg,355000.0,39050.0
+X,740,SUR,702,SGP,7204,Ferrous waste and scrap; remelting scrap ingots of iron or steel,kg,2500000.0,275000.0
+X,740,SUR,764,THA,7204,Ferrous waste and scrap; remelting scrap ingots of iron or steel,kg,996000.0,109496.07
+X,740,SUR,784,ARE,7204,Ferrous waste and scrap; remelting scrap ingots of iron or steel,kg,213000.0,25184.76
+X,740,SUR,842,USA,7204,Ferrous waste and scrap; remelting scrap ingots of iron or steel,kg,42000.0,27760.0
+X,740,SUR,0,W00,7208,"Iron or non-alloy steel; flat-rolled products of a width of 600mm or more, hot-rolled, not clad, plated or coated",kg,235723.0,34844.74
+X,740,SUR,251,FRA,7208,"Iron or non-alloy steel; flat-rolled products of a width of 600mm or more, hot-rolled, not clad, plated or coated",kg,1723.0,4844.74
+X,740,SUR,328,GUY,7208,"Iron or non-alloy steel; flat-rolled products of a width of 600mm or more, hot-rolled, not clad, plated or coated",kg,234000.0,30000.0
+X,740,SUR,0,W00,7211,"Iron or non-alloy steel; flat-rolled products, width less than 600mm, not clad, plated or coated",kg,615.0,1027.16
+X,740,SUR,251,FRA,7211,"Iron or non-alloy steel; flat-rolled products, width less than 600mm, not clad, plated or coated",kg,615.0,1027.16
+X,740,SUR,0,W00,7212,"Iron or non-alloy steel; flat-rolled products, width less than 600mm, clad, plated or coated",kg,49478.0,21181.43
+X,740,SUR,328,GUY,7212,"Iron or non-alloy steel; flat-rolled products, width less than 600mm, clad, plated or coated",kg,49478.0,21181.43
+X,740,SUR,0,W00,7214,"Iron or non-alloy steel; bars and rods, not further worked than forged, hot-rolled, hot drawn or hot-extruded, but including those twisted after rolling",kg,25000.0,26264.0
+X,740,SUR,328,GUY,7214,"Iron or non-alloy steel; bars and rods, not further worked than forged, hot-rolled, hot drawn or hot-extruded, but including those twisted after rolling",kg,25000.0,26264.0
+X,740,SUR,0,W00,7216,"Iron or non-alloy steel, angles, shapes and sections",kg,55968.0,143469.09
+X,740,SUR,251,FRA,7216,"Iron or non-alloy steel, angles, shapes and sections",kg,24968.0,35026.09
+X,740,SUR,388,JAM,7216,"Iron or non-alloy steel, angles, shapes and sections",kg,31000.0,108443.0
+X,740,SUR,0,W00,7219,Stainless steel; flat-rolled products of width of 600mm or more,kg,640.0,2260.8
+X,740,SUR,531,CUW,7219,Stainless steel; flat-rolled products of width of 600mm or more,kg,640.0,2260.8
+X,740,SUR,0,W00,7222,"Stainless steel bars and rods, angles, shapes and sections",kg,5604.0,25054.25
+X,740,SUR,251,FRA,7222,"Stainless steel bars and rods, angles, shapes and sections",kg,2250.0,9395.0
+X,740,SUR,531,CUW,7222,"Stainless steel bars and rods, angles, shapes and sections",kg,3354.0,15659.25
+X,740,SUR,0,W00,7228,"Alloy steel bars, rods, shapes and sections; hollow drill bars and rods, of alloy or non-alloy steel",kg,520.0,8684.42
+X,740,SUR,251,FRA,7228,"Alloy steel bars, rods, shapes and sections; hollow drill bars and rods, of alloy or non-alloy steel",kg,500.0,5637.0
+X,740,SUR,328,GUY,7228,"Alloy steel bars, rods, shapes and sections; hollow drill bars and rods, of alloy or non-alloy steel",kg,20.0,3047.42
+X,740,SUR,0,W00,8407,Reciprocating or rotary internal combustion piston engines,u,18.0,539944.41
+X,740,SUR,76,BRA,8407,Reciprocating or rotary internal combustion piston engines,u,2.0,3000.0
+X,740,SUR,842,USA,8407,Reciprocating or rotary internal combustion piston engines,u,16.0,536944.41
+X,740,SUR,0,W00,8408,Compression-ignition internal combustion piston engines (diesel or semi-diesel engines),u,122.0,175645.84
+X,740,SUR,76,BRA,8408,Compression-ignition internal combustion piston engines (diesel or semi-diesel engines),u,1.0,22478.69
+X,740,SUR,124,CAN,8408,Compression-ignition internal combustion piston engines (diesel or semi-diesel engines),u,7.0,24500.0
+X,740,SUR,251,FRA,8408,Compression-ignition internal combustion piston engines (diesel or semi-diesel engines),u,1.0,16526.08
+X,740,SUR,328,GUY,8408,Compression-ignition internal combustion piston engines (diesel or semi-diesel engines),u,1.0,15000.0
+X,740,SUR,566,NGA,8408,Compression-ignition internal combustion piston engines (diesel or semi-diesel engines),u,110.0,3750.0
+X,740,SUR,604,PER,8408,Compression-ignition internal combustion piston engines (diesel or semi-diesel engines),u,1.0,52391.07
+X,740,SUR,724,ESP,8408,Compression-ignition internal combustion piston engines (diesel or semi-diesel engines),u,1.0,41000.0
+X,740,SUR,0,W00,8409,Parts suitable for use solely or principally with the engines of heading no. 8407 or 8408,kg,246305.0,3707103.32
+X,740,SUR,276,DEU,8409,Parts suitable for use solely or principally with the engines of heading no. 8407 or 8408,kg,2250.0,4885.37
+X,740,SUR,328,GUY,8409,Parts suitable for use solely or principally with the engines of heading no. 8407 or 8408,kg,52.0,14487.86
+X,740,SUR,376,ISR,8409,Parts suitable for use solely or principally with the engines of heading no. 8407 or 8408,kg,6.0,2198.34
+X,740,SUR,528,NLD,8409,Parts suitable for use solely or principally with the engines of heading no. 8407 or 8408,kg,17077.0,569988.95
+X,740,SUR,531,CUW,8409,Parts suitable for use solely or principally with the engines of heading no. 8407 or 8408,kg,19.0,7739.74
+X,740,SUR,780,TTO,8409,Parts suitable for use solely or principally with the engines of heading no. 8407 or 8408,kg,42.0,9862.87
+X,740,SUR,826,GBR,8409,Parts suitable for use solely or principally with the engines of heading no. 8407 or 8408,kg,1400.0,96000.0
+X,740,SUR,842,USA,8409,Parts suitable for use solely or principally with the engines of heading no. 8407 or 8408,kg,225459.0,3001940.19
+X,740,SUR,0,W00,8411,"Turbo-jets, turbo-propellers and other gas turbines",kg,28.0,377566.4
+X,740,SUR,842,USA,8411,"Turbo-jets, turbo-propellers and other gas turbines",kg,28.0,377566.4
+X,740,SUR,0,W00,8412,"Engines and motors; n.e.c. (e.g. reaction engines, hydraulic power engines, pneumatic power engines)",N/A,0.0,110770.48
+X,740,SUR,76,BRA,8412,"Engines and motors; n.e.c. (e.g. reaction engines, hydraulic power engines, pneumatic power engines)",u,1.0,41555.89
+X,740,SUR,528,NLD,8412,"Engines and motors; n.e.c. (e.g. reaction engines, hydraulic power engines, pneumatic power engines)",kg,2100.0,20000.0
+X,740,SUR,842,USA,8412,"Engines and motors; n.e.c. (e.g. reaction engines, hydraulic power engines, pneumatic power engines)",N/A,0.0,49214.59
+X,740,SUR,0,W00,8413,"Pumps; for liquids, whether or not fitted with measuring device, liquid elevators",N/A,0.0,973228.34
+X,740,SUR,76,BRA,8413,"Pumps; for liquids, whether or not fitted with measuring device, liquid elevators",N/A,0.0,22428.0
+X,740,SUR,251,FRA,8413,"Pumps; for liquids, whether or not fitted with measuring device, liquid elevators",u,4.0,7393.63
+X,740,SUR,328,GUY,8413,"Pumps; for liquids, whether or not fitted with measuring device, liquid elevators",u,107.0,13917.18
+X,740,SUR,414,KWT,8413,"Pumps; for liquids, whether or not fitted with measuring device, liquid elevators",u,1.0,2189.12
+X,740,SUR,528,NLD,8413,"Pumps; for liquids, whether or not fitted with measuring device, liquid elevators",u,25.0,1800.0
+X,740,SUR,531,CUW,8413,"Pumps; for liquids, whether or not fitted with measuring device, liquid elevators",u,10.0,7246.07
+X,740,SUR,757,CHE,8413,"Pumps; for liquids, whether or not fitted with measuring device, liquid elevators",u,1.0,1350.0
+X,740,SUR,780,TTO,8413,"Pumps; for liquids, whether or not fitted with measuring device, liquid elevators",N/A,0.0,98891.32
+X,740,SUR,784,ARE,8413,"Pumps; for liquids, whether or not fitted with measuring device, liquid elevators",u,1.0,6390.32
+X,740,SUR,842,USA,8413,"Pumps; for liquids, whether or not fitted with measuring device, liquid elevators",u,83.0,811622.7
+X,740,SUR,0,W00,8414,"Air or vacuum pumps, air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan whether or not fitted with filters",N/A,0.0,1427557.26
+X,740,SUR,170,COL,8414,"Air or vacuum pumps, air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan whether or not fitted with filters",u,2.0,20994.78
+X,740,SUR,276,DEU,8414,"Air or vacuum pumps, air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan whether or not fitted with filters",u,1.0,12645.55
+X,740,SUR,328,GUY,8414,"Air or vacuum pumps, air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan whether or not fitted with filters",kg,43.3,5604.43
+X,740,SUR,528,NLD,8414,"Air or vacuum pumps, air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan whether or not fitted with filters",kg,18297.5,9917.0
+X,740,SUR,531,CUW,8414,"Air or vacuum pumps, air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan whether or not fitted with filters",kg,151.0,3008.93
+X,740,SUR,780,TTO,8414,"Air or vacuum pumps, air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan whether or not fitted with filters",N/A,0.0,1326979.72
+X,740,SUR,842,USA,8414,"Air or vacuum pumps, air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan whether or not fitted with filters",u,11.0,48406.85
+X,740,SUR,0,W00,8415,"Air conditioning machines; comprising a motor driven fan and elements for changing the temperature and humidity, including those machines in which the humidity cannot be separately regulated",N/A,0.0,25562.95
+X,740,SUR,328,GUY,8415,"Air conditioning machines; comprising a motor driven fan and elements for changing the temperature and humidity, including those machines in which the humidity cannot be separately regulated",u,4.0,2500.0
+X,740,SUR,842,USA,8415,"Air conditioning machines; comprising a motor driven fan and elements for changing the temperature and humidity, including those machines in which the humidity cannot be separately regulated",kg,856.0,23062.95
+X,740,SUR,0,W00,8418,"Refrigerators, freezers and other refrigerating or freezing equipment, electric or other; heat pumps other than air conditioning machines of heading no. 8415",N/A,0.0,20135.43
+X,740,SUR,251,FRA,8418,"Refrigerators, freezers and other refrigerating or freezing equipment, electric or other; heat pumps other than air conditioning machines of heading no. 8415",u,14.0,11630.83
+X,740,SUR,842,USA,8418,"Refrigerators, freezers and other refrigerating or freezing equipment, electric or other; heat pumps other than air conditioning machines of heading no. 8415",kg,42.0,1400.0
+X,740,SUR,862,VEN,8418,"Refrigerators, freezers and other refrigerating or freezing equipment, electric or other; heat pumps other than air conditioning machines of heading no. 8415",kg,494.0,7104.6
+X,740,SUR,0,W00,8419,"Machinery, plant (not domestic), or laboratory equipment; electrically heated or not, (excluding items in 85.14) for the treatment of materials by a process involving change of temperature; including instantaneous or non electric storage water heaters",u,196.0,14235.33
+X,740,SUR,76,BRA,8419,"Machinery, plant (not domestic), or laboratory equipment; electrically heated or not, (excluding items in 85.14) for the treatment of materials by a process involving change of temperature; including instantaneous or non electric storage water heaters",u,173.0,4759.0
+X,740,SUR,246,FIN,8419,"Machinery, plant (not domestic), or laboratory equipment; electrically heated or not, (excluding items in 85.14) for the treatment of materials by a process involving change of temperature; including instantaneous or non electric storage water heaters",u,1.0,1803.35
+X,740,SUR,328,GUY,8419,"Machinery, plant (not domestic), or laboratory equipment; electrically heated or not, (excluding items in 85.14) for the treatment of materials by a process involving change of temperature; including instantaneous or non electric storage water heaters",u,1.0,2000.0
+X,740,SUR,392,JPN,8419,"Machinery, plant (not domestic), or laboratory equipment; electrically heated or not, (excluding items in 85.14) for the treatment of materials by a process involving change of temperature; including instantaneous or non electric storage water heaters",u,1.0,1144.12
+X,740,SUR,531,CUW,8419,"Machinery, plant (not domestic), or laboratory equipment; electrically heated or not, (excluding items in 85.14) for the treatment of materials by a process involving change of temperature; including instantaneous or non electric storage water heaters",u,20.0,4528.86
+X,740,SUR,0,W00,8421,"Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus for liquids or gases",N/A,0.0,158115.74
+X,740,SUR,251,FRA,8421,"Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus for liquids or gases",u,161.0,5195.67
+X,740,SUR,328,GUY,8421,"Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus for liquids or gases",u,183.0,7228.65
+X,740,SUR,528,NLD,8421,"Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus for liquids or gases",u,686.0,44332.51
+X,740,SUR,531,CUW,8421,"Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus for liquids or gases",u,30.0,1106.69
+X,740,SUR,780,TTO,8421,"Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus for liquids or gases",N/A,0.0,33343.46
+X,740,SUR,842,USA,8421,"Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus for liquids or gases",N/A,0.0,66908.76
+X,740,SUR,0,W00,8422,"Dish washing machines; machinery for cleaning, drying, filling, closing, sealing, capsuling or labelling bottles, cans, boxes, bags, etc, machinery for aerating beverages",N/A,0.0,95421.85
+X,740,SUR,124,CAN,8422,"Dish washing machines; machinery for cleaning, drying, filling, closing, sealing, capsuling or labelling bottles, cans, boxes, bags, etc, machinery for aerating beverages",u,1.0,90000.0
+X,740,SUR,528,NLD,8422,"Dish washing machines; machinery for cleaning, drying, filling, closing, sealing, capsuling or labelling bottles, cans, boxes, bags, etc, machinery for aerating beverages",N/A,0.0,5421.85
+X,740,SUR,0,W00,8423,"Weighing machines; excluding balances of a sensitivity of 5cg or better, including weight operated counting or checking machines and weights of all kinds",u,232.0,550211.62
+X,740,SUR,76,BRA,8423,"Weighing machines; excluding balances of a sensitivity of 5cg or better, including weight operated counting or checking machines and weights of all kinds",u,200.0,4600.0
+X,740,SUR,170,COL,8423,"Weighing machines; excluding balances of a sensitivity of 5cg or better, including weight operated counting or checking machines and weights of all kinds",u,1.0,258565.0
+X,740,SUR,528,NLD,8423,"Weighing machines; excluding balances of a sensitivity of 5cg or better, including weight operated counting or checking machines and weights of all kinds",u,2.0,1063.12
+X,740,SUR,591,PAN,8423,"Weighing machines; excluding balances of a sensitivity of 5cg or better, including weight operated counting or checking machines and weights of all kinds",u,25.0,273610.0
+X,740,SUR,842,USA,8423,"Weighing machines; excluding balances of a sensitivity of 5cg or better, including weight operated counting or checking machines and weights of all kinds",u,4.0,12373.5
+X,740,SUR,0,W00,8424,"Mechanical appliances for projecting, dispersing or spraying liquids or powders; fire extinguishers, spray guns, steam, sand blasting machines",u,58.0,60218.67
+X,740,SUR,246,FIN,8424,"Mechanical appliances for projecting, dispersing or spraying liquids or powders; fire extinguishers, spray guns, steam, sand blasting machines",u,1.0,33662.7
+X,740,SUR,528,NLD,8424,"Mechanical appliances for projecting, dispersing or spraying liquids or powders; fire extinguishers, spray guns, steam, sand blasting machines",u,1.0,9733.93
+X,740,SUR,842,USA,8424,"Mechanical appliances for projecting, dispersing or spraying liquids or powders; fire extinguishers, spray guns, steam, sand blasting machines",u,6.0,15322.04
+X,740,SUR,862,VEN,8424,"Mechanical appliances for projecting, dispersing or spraying liquids or powders; fire extinguishers, spray guns, steam, sand blasting machines",u,50.0,1500.0
+X,740,SUR,0,W00,8425,Pulley tackle and hoists other than skip hoists; winches and capstans; jacks,u,18.0,481029.0
+X,740,SUR,246,FIN,8425,Pulley tackle and hoists other than skip hoists; winches and capstans; jacks,u,4.0,2103.91
+X,740,SUR,320,GTM,8425,Pulley tackle and hoists other than skip hoists; winches and capstans; jacks,u,2.0,7290.0
+X,740,SUR,328,GUY,8425,Pulley tackle and hoists other than skip hoists; winches and capstans; jacks,u,2.0,20000.0
+X,740,SUR,531,CUW,8425,Pulley tackle and hoists other than skip hoists; winches and capstans; jacks,u,8.0,1836.85
+X,740,SUR,842,USA,8425,Pulley tackle and hoists other than skip hoists; winches and capstans; jacks,u,2.0,449798.24
+X,740,SUR,0,W00,8426,"Derricks, cranes, including cable cranes, mobile lifting frames, straddle carriers and works trucks fitted with a crane",u,7.0,244842.54
+X,740,SUR,328,GUY,8426,"Derricks, cranes, including cable cranes, mobile lifting frames, straddle carriers and works trucks fitted with a crane",u,3.0,122000.0
+X,740,SUR,528,NLD,8426,"Derricks, cranes, including cable cranes, mobile lifting frames, straddle carriers and works trucks fitted with a crane",u,4.0,122842.54
+X,740,SUR,0,W00,8427,Fork-lift and other works trucks; fitted with lifting or handling equipment,u,3.0,7631.25
+X,740,SUR,76,BRA,8427,Fork-lift and other works trucks; fitted with lifting or handling equipment,u,1.0,2500.0
+X,740,SUR,528,NLD,8427,Fork-lift and other works trucks; fitted with lifting or handling equipment,u,2.0,5131.25
+X,740,SUR,0,W00,8428,"Lifting, handling, loading or unloading machinery; n.e.c. in heading no. 8425, 8426 or 8427 (e.g. lifts, escalators, conveyors, teleferics)",u,2.0,30257.75
+X,740,SUR,276,DEU,8428,"Lifting, handling, loading or unloading machinery; n.e.c. in heading no. 8425, 8426 or 8427 (e.g. lifts, escalators, conveyors, teleferics)",u,2.0,30257.75
+X,740,SUR,0,W00,8429,"Bulldozers, graders, levellers, scrapers, angledozers, mechanical shovels, excavators, shovel loaders, tamping machines and road rollers, self-propelled",u,11.0,479817.58
+X,740,SUR,251,FRA,8429,"Bulldozers, graders, levellers, scrapers, angledozers, mechanical shovels, excavators, shovel loaders, tamping machines and road rollers, self-propelled",u,5.0,205934.21
+X,740,SUR,328,GUY,8429,"Bulldozers, graders, levellers, scrapers, angledozers, mechanical shovels, excavators, shovel loaders, tamping machines and road rollers, self-propelled",u,3.0,253681.85
+X,740,SUR,528,NLD,8429,"Bulldozers, graders, levellers, scrapers, angledozers, mechanical shovels, excavators, shovel loaders, tamping machines and road rollers, self-propelled",u,2.0,14823.61
+X,740,SUR,534,SXM,8429,"Bulldozers, graders, levellers, scrapers, angledozers, mechanical shovels, excavators, shovel loaders, tamping machines and road rollers, self-propelled",u,1.0,5377.91
+X,740,SUR,0,W00,8430,"Moving, grading, levelling, scraping, excavating, tamping, compacting, extracting or boring machinery, for earth, minerals, or ores; pile drivers and extractors; snow ploughs and snow blowers",u,438.0,9147080.3
+X,740,SUR,76,BRA,8430,"Moving, grading, levelling, scraping, excavating, tamping, compacting, extracting or boring machinery, for earth, minerals, or ores; pile drivers and extractors; snow ploughs and snow blowers",u,2.0,207240.26
+X,740,SUR,124,CAN,8430,"Moving, grading, levelling, scraping, excavating, tamping, compacting, extracting or boring machinery, for earth, minerals, or ores; pile drivers and extractors; snow ploughs and snow blowers",u,208.0,3794419.65
+X,740,SUR,251,FRA,8430,"Moving, grading, levelling, scraping, excavating, tamping, compacting, extracting or boring machinery, for earth, minerals, or ores; pile drivers and extractors; snow ploughs and snow blowers",u,3.0,99449.05
+X,740,SUR,328,GUY,8430,"Moving, grading, levelling, scraping, excavating, tamping, compacting, extracting or boring machinery, for earth, minerals, or ores; pile drivers and extractors; snow ploughs and snow blowers",u,4.0,133347.34
+X,740,SUR,780,TTO,8430,"Moving, grading, levelling, scraping, excavating, tamping, compacting, extracting or boring machinery, for earth, minerals, or ores; pile drivers and extractors; snow ploughs and snow blowers",u,221.0,4912624.0
+X,740,SUR,0,W00,8431,Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430,kg,3464476.36,47790125.18
+X,740,SUR,124,CAN,8431,Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430,kg,1950.0,21000.0
+X,740,SUR,208,DNK,8431,Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430,kg,9.0,3697.5
+X,740,SUR,251,FRA,8431,Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430,kg,37807.5,369603.59
+X,740,SUR,288,GHA,8431,Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430,kg,18.0,9760.0
+X,740,SUR,328,GUY,8431,Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430,kg,8247.25,153398.31
+X,740,SUR,528,NLD,8431,Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430,kg,4105.0,9698.14
+X,740,SUR,531,CUW,8431,Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430,kg,55.0,3101.65
+X,740,SUR,682,SAU,8431,Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430,kg,1.96,1605.96
+X,740,SUR,780,TTO,8431,Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430,kg,3301130.0,43993557.21
+X,740,SUR,842,USA,8431,Machinery parts; used solely or principally with the machinery of heading no. 8425 to 8430,kg,111152.65,3224702.82
+X,740,SUR,0,W00,8433,"Harvesting and threshing machinery, straw and fodder balers, grass or hay mowers; machines for cleaning, sorting or grading eggs, fruit or other agricultural produce, other than machinery of heading no 8437",kg,2100.0,3150.0
+X,740,SUR,76,BRA,8433,"Harvesting and threshing machinery, straw and fodder balers, grass or hay mowers; machines for cleaning, sorting or grading eggs, fruit or other agricultural produce, other than machinery of heading no 8437",kg,2100.0,3150.0
+X,740,SUR,0,W00,8438,"Machinery n.e.c. in this chapter, for the industrial preparation or manufacture of food or drink; other than machinery for extraction or preparation of animal or fixed vegetable fats or oils",u,3.0,28390.12
+X,740,SUR,328,GUY,8438,"Machinery n.e.c. in this chapter, for the industrial preparation or manufacture of food or drink; other than machinery for extraction or preparation of animal or fixed vegetable fats or oils",u,2.0,13712.3
+X,740,SUR,528,NLD,8438,"Machinery n.e.c. in this chapter, for the industrial preparation or manufacture of food or drink; other than machinery for extraction or preparation of animal or fixed vegetable fats or oils",u,1.0,14677.82
+X,740,SUR,0,W00,8443,"Printing machinery; used for printing by means of plates, cylinders and other printing components of heading 84.42; other printers, copying machines and facsimile machines, whether or not combined; parts and accessories thereof",N/A,0.0,16939.35
+X,740,SUR,328,GUY,8443,"Printing machinery; used for printing by means of plates, cylinders and other printing components of heading 84.42; other printers, copying machines and facsimile machines, whether or not combined; parts and accessories thereof",N/A,0.0,4437.35
+X,740,SUR,528,NLD,8443,"Printing machinery; used for printing by means of plates, cylinders and other printing components of heading 84.42; other printers, copying machines and facsimile machines, whether or not combined; parts and accessories thereof",u,1.0,12502.0
+X,740,SUR,0,W00,8447,"Knitting machines, stitch-bonding machines and machines for making gimped yarn, tulle, lace, embroidery, trimmings, braid or net and machines for tufting",u,1.0,2469.0
+X,740,SUR,328,GUY,8447,"Knitting machines, stitch-bonding machines and machines for making gimped yarn, tulle, lace, embroidery, trimmings, braid or net and machines for tufting",u,1.0,2469.0
+X,740,SUR,0,W00,8450,Household or laundry-type washing machines; including machines which both wash and dry,u,25.0,1750.0
+X,740,SUR,862,VEN,8450,Household or laundry-type washing machines; including machines which both wash and dry,u,25.0,1750.0
+X,740,SUR,0,W00,8451,"Machinery (not of heading no. 8450) for washing, cleaning, wringing, drying, ironing, pressing, bleaching, dyeing, dressing, finishing, coating or impregnating textile yarn, fabrics or made up articles",kg,262.0,2373.68
+X,740,SUR,528,NLD,8451,"Machinery (not of heading no. 8450) for washing, cleaning, wringing, drying, ironing, pressing, bleaching, dyeing, dressing, finishing, coating or impregnating textile yarn, fabrics or made up articles",kg,262.0,2373.68
+X,740,SUR,0,W00,8455,Metal-rolling mills and rolls therefor,kg,400.0,2418.92
+X,740,SUR,251,FRA,8455,Metal-rolling mills and rolls therefor,kg,400.0,2418.92
+X,740,SUR,0,W00,8459,"Machine-tools; (including way-type unit head machines) for drilling, boring, milling, threading or tapping by removing metal, other than lathes of heading no. 8458",u,3.0,6404.05
+X,740,SUR,528,NLD,8459,"Machine-tools; (including way-type unit head machines) for drilling, boring, milling, threading or tapping by removing metal, other than lathes of heading no. 8458",u,3.0,6404.05
+X,740,SUR,0,W00,8464,"Machine-tools; for working stone, ceramics, concrete, asbestos-cement or like mineral materials or for cold working glass",u,1.0,5675.23
+X,740,SUR,328,GUY,8464,"Machine-tools; for working stone, ceramics, concrete, asbestos-cement or like mineral materials or for cold working glass",u,1.0,5675.23
+X,740,SUR,0,W00,8465,"Machine-tools; (including machines for nailing, stapling, glueing or otherwise assembling) for working wood, cork, bone, hard plastics or rubber or similar hard materials",u,73.0,576014.46
+X,740,SUR,208,DNK,8465,"Machine-tools; (including machines for nailing, stapling, glueing or otherwise assembling) for working wood, cork, bone, hard plastics or rubber or similar hard materials",u,63.0,545458.51
+X,740,SUR,528,NLD,8465,"Machine-tools; (including machines for nailing, stapling, glueing or otherwise assembling) for working wood, cork, bone, hard plastics or rubber or similar hard materials",u,8.0,18305.52
+X,740,SUR,724,ESP,8465,"Machine-tools; (including machines for nailing, stapling, glueing or otherwise assembling) for working wood, cork, bone, hard plastics or rubber or similar hard materials",u,2.0,12250.43
+X,740,SUR,0,W00,8466,"Machine-tools; parts and accessories suitable for use solely or principally with the machines of headings 8456 to 8465, and tool holders for any type of tool for working in the hand",kg,49.0,2000.0
+X,740,SUR,842,USA,8466,"Machine-tools; parts and accessories suitable for use solely or principally with the machines of headings 8456 to 8465, and tool holders for any type of tool for working in the hand",kg,49.0,2000.0
+X,740,SUR,0,W00,8467,"Tools; for working in the hand, pneumatic, hydraulic or with self-contained electric or non-electric motor",N/A,0.0,39880.62
+X,740,SUR,528,NLD,8467,"Tools; for working in the hand, pneumatic, hydraulic or with self-contained electric or non-electric motor",N/A,0.0,39880.62
+X,740,SUR,0,W00,8471,"Automatic data processing machines and units thereof, magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included",u,125.0,180897.23
+X,740,SUR,124,CAN,8471,"Automatic data processing machines and units thereof, magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included",u,2.0,100000.0
+X,740,SUR,251,FRA,8471,"Automatic data processing machines and units thereof, magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included",u,8.0,16296.0
+X,740,SUR,328,GUY,8471,"Automatic data processing machines and units thereof, magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included",u,58.0,24496.79
+X,740,SUR,470,MLT,8471,"Automatic data processing machines and units thereof, magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included",u,8.0,3847.16
+X,740,SUR,528,NLD,8471,"Automatic data processing machines and units thereof, magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included",u,2.0,1781.46
+X,740,SUR,531,CUW,8471,"Automatic data processing machines and units thereof, magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included",u,2.0,1700.0
+X,740,SUR,780,TTO,8471,"Automatic data processing machines and units thereof, magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included",u,16.0,3956.88
+X,740,SUR,842,USA,8471,"Automatic data processing machines and units thereof, magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included",u,29.0,28818.94
+X,740,SUR,0,W00,8473,"Machinery; parts and accessories (not covers, carrying cases and the like) suitable for use solely or principally with machines of heading no. 8469 to 8472",kg,826.0,24267.66
+X,740,SUR,76,BRA,8473,"Machinery; parts and accessories (not covers, carrying cases and the like) suitable for use solely or principally with machines of heading no. 8469 to 8472",kg,725.0,2060.0
+X,740,SUR,328,GUY,8473,"Machinery; parts and accessories (not covers, carrying cases and the like) suitable for use solely or principally with machines of heading no. 8469 to 8472",kg,100.0,20702.24
+X,740,SUR,528,NLD,8473,"Machinery; parts and accessories (not covers, carrying cases and the like) suitable for use solely or principally with machines of heading no. 8469 to 8472",kg,1.0,1505.42
+X,740,SUR,0,W00,8474,"Machinery for sorting, screening, separating, washing, crushing, grinding, mixing or kneading earth, stone, ores in solid form, shaping, moulding machinery for solid mineral fuels",N/A,0.0,71050.07
+X,740,SUR,276,DEU,8474,"Machinery for sorting, screening, separating, washing, crushing, grinding, mixing or kneading earth, stone, ores in solid form, shaping, moulding machinery for solid mineral fuels",kg,1723.0,2500.0
+X,740,SUR,328,GUY,8474,"Machinery for sorting, screening, separating, washing, crushing, grinding, mixing or kneading earth, stone, ores in solid form, shaping, moulding machinery for solid mineral fuels",kg,50.0,2613.03
+X,740,SUR,528,NLD,8474,"Machinery for sorting, screening, separating, washing, crushing, grinding, mixing or kneading earth, stone, ores in solid form, shaping, moulding machinery for solid mineral fuels",N/A,0.0,18479.42
+X,740,SUR,604,PER,8474,"Machinery for sorting, screening, separating, washing, crushing, grinding, mixing or kneading earth, stone, ores in solid form, shaping, moulding machinery for solid mineral fuels",kg,14.0,47457.62
+X,740,SUR,0,W00,8477,"Machinery; for working rubber or plastics or for the manufacture of products from these materials, n.e.c. in this chapter",N/A,0.0,30472.02
+X,740,SUR,528,NLD,8477,"Machinery; for working rubber or plastics or for the manufacture of products from these materials, n.e.c. in this chapter",kg,1856.0,14557.02
+X,740,SUR,591,PAN,8477,"Machinery; for working rubber or plastics or for the manufacture of products from these materials, n.e.c. in this chapter",u,2.0,7995.0
+X,740,SUR,642,ROU,8477,"Machinery; for working rubber or plastics or for the manufacture of products from these materials, n.e.c. in this chapter",kg,320000.0,7920.0
+X,740,SUR,0,W00,8479,"Machinery and mechanical appliances; having individual functions, n.e.c. in this chapter",N/A,0.0,118499.79
+X,740,SUR,251,FRA,8479,"Machinery and mechanical appliances; having individual functions, n.e.c. in this chapter",u,1.0,65426.97
+X,740,SUR,328,GUY,8479,"Machinery and mechanical appliances; having individual functions, n.e.c. in this chapter",N/A,0.0,10000.0
+X,740,SUR,686,SEN,8479,"Machinery and mechanical appliances; having individual functions, n.e.c. in this chapter",u,1.0,7827.82
+X,740,SUR,780,TTO,8479,"Machinery and mechanical appliances; having individual functions, n.e.c. in this chapter",u,2.0,6000.0
+X,740,SUR,826,GBR,8479,"Machinery and mechanical appliances; having individual functions, n.e.c. in this chapter",kg,8860.0,25720.0
+X,740,SUR,842,USA,8479,"Machinery and mechanical appliances; having individual functions, n.e.c. in this chapter",u,2.0,2000.0
+X,740,SUR,899,_X ,8479,"Machinery and mechanical appliances; having individual functions, n.e.c. in this chapter",u,1.0,1525.0
+X,740,SUR,0,W00,8481,"Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, including pressure-reducing valves and thermostatically controlled valves",kg,1971.42,54800.99
+X,740,SUR,251,FRA,8481,"Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, including pressure-reducing valves and thermostatically controlled valves",kg,10.0,1060.23
+X,740,SUR,328,GUY,8481,"Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, including pressure-reducing valves and thermostatically controlled valves",kg,30.0,2434.52
+X,740,SUR,528,NLD,8481,"Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, including pressure-reducing valves and thermostatically controlled valves",kg,1500.0,1500.0
+X,740,SUR,531,CUW,8481,"Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, including pressure-reducing valves and thermostatically controlled valves",kg,26.0,3626.62
+X,740,SUR,566,NGA,8481,"Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, including pressure-reducing valves and thermostatically controlled valves",kg,280.0,4436.38
+X,740,SUR,842,USA,8481,"Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, including pressure-reducing valves and thermostatically controlled valves",kg,125.42,41743.24
+X,740,SUR,0,W00,8482,Ball or roller bearings,u,390.0,60294.21
+X,740,SUR,251,FRA,8482,Ball or roller bearings,u,34.0,1151.18
+X,740,SUR,328,GUY,8482,Ball or roller bearings,u,49.0,1244.31
+X,740,SUR,842,USA,8482,Ball or roller bearings,u,307.0,57898.72
+X,740,SUR,0,W00,8483,Transmission shafts (including cam and crank) and cranks; bearing housings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers; flywheels and pulleys; clutches and shaft couplings,u,102.0,88467.76
+X,740,SUR,76,BRA,8483,Transmission shafts (including cam and crank) and cranks; bearing housings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers; flywheels and pulleys; clutches and shaft couplings,u,2.0,11321.3
+X,740,SUR,328,GUY,8483,Transmission shafts (including cam and crank) and cranks; bearing housings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers; flywheels and pulleys; clutches and shaft couplings,u,12.0,3000.96
+X,740,SUR,780,TTO,8483,Transmission shafts (including cam and crank) and cranks; bearing housings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers; flywheels and pulleys; clutches and shaft couplings,u,2.0,2797.57
+X,740,SUR,842,USA,8483,Transmission shafts (including cam and crank) and cranks; bearing housings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers; flywheels and pulleys; clutches and shaft couplings,u,86.0,71347.93
+X,740,SUR,0,W00,8484,"Gaskets and similar joints of metal sheeting combined with other material or of two or more layers of metal; sets or assortments of gaskets and similar joints, dissimilar in composition, put up in pouches, envelopes or similar packings; mechanical seals",kg,229.0,5876.39
+X,740,SUR,328,GUY,8484,"Gaskets and similar joints of metal sheeting combined with other material or of two or more layers of metal; sets or assortments of gaskets and similar joints, dissimilar in composition, put up in pouches, envelopes or similar packings; mechanical seals",kg,15.0,1228.91
+X,740,SUR,842,USA,8484,"Gaskets and similar joints of metal sheeting combined with other material or of two or more layers of metal; sets or assortments of gaskets and similar joints, dissimilar in composition, put up in pouches, envelopes or similar packings; mechanical seals",kg,214.0,4647.48
+X,740,SUR,0,W00,8487,"Machinery parts; not containing electrical connectors, insulators, coils, contacts or other electrical features, n.e.c. in this chapter",kg,650.0,5584.83
+X,740,SUR,528,NLD,8487,"Machinery parts; not containing electrical connectors, insulators, coils, contacts or other electrical features, n.e.c. in this chapter",kg,650.0,5584.83
+X,740,SUR,0,W00,8501,Electric motors and generators (excluding generating sets),u,22.0,184375.39
+X,740,SUR,251,FRA,8501,Electric motors and generators (excluding generating sets),u,2.0,2084.86
+X,740,SUR,328,GUY,8501,Electric motors and generators (excluding generating sets),u,1.0,53500.0
+X,740,SUR,531,CUW,8501,Electric motors and generators (excluding generating sets),u,15.0,11290.53
+X,740,SUR,591,PAN,8501,Electric motors and generators (excluding generating sets),u,2.0,3000.0
+X,740,SUR,724,ESP,8501,Electric motors and generators (excluding generating sets),u,2.0,114500.0
+X,740,SUR,0,W00,8502,Electric generating sets and rotary converters,u,19.0,27104.65
+X,740,SUR,76,BRA,8502,Electric generating sets and rotary converters,u,6.0,3000.0
+X,740,SUR,251,FRA,8502,Electric generating sets and rotary converters,u,1.0,11483.52
+X,740,SUR,528,NLD,8502,Electric generating sets and rotary converters,u,10.0,5035.29
+X,740,SUR,531,CUW,8502,Electric generating sets and rotary converters,u,2.0,7585.84
+X,740,SUR,0,W00,8503,Electric motors and generators; parts suitable for use solely or principally with the machines of heading no. 8501 or 8502,kg,50280.0,47365.85
+X,740,SUR,276,DEU,8503,Electric motors and generators; parts suitable for use solely or principally with the machines of heading no. 8501 or 8502,kg,120.0,35827.33
+X,740,SUR,528,NLD,8503,Electric motors and generators; parts suitable for use solely or principally with the machines of heading no. 8501 or 8502,kg,50000.0,4800.55
+X,740,SUR,531,CUW,8503,Electric motors and generators; parts suitable for use solely or principally with the machines of heading no. 8501 or 8502,kg,160.0,6737.97
+X,740,SUR,0,W00,8504,"Electric transformers, static converters (e.g. rectifiers) and inductors",u,880.0,46431.95
+X,740,SUR,76,BRA,8504,"Electric transformers, static converters (e.g. rectifiers) and inductors",u,601.0,19323.0
+X,740,SUR,276,DEU,8504,"Electric transformers, static converters (e.g. rectifiers) and inductors",u,3.0,1780.26
+X,740,SUR,528,NLD,8504,"Electric transformers, static converters (e.g. rectifiers) and inductors",u,230.0,3645.01
+X,740,SUR,531,CUW,8504,"Electric transformers, static converters (e.g. rectifiers) and inductors",u,18.0,7285.69
+X,740,SUR,842,USA,8504,"Electric transformers, static converters (e.g. rectifiers) and inductors",u,28.0,14397.99
+X,740,SUR,0,W00,8506,Cells and batteries; primary,u,49453.0,164933.0
+X,740,SUR,76,BRA,8506,Cells and batteries; primary,u,781.0,63468.0
+X,740,SUR,328,GUY,8506,Cells and batteries; primary,u,1.0,1625.0
+X,740,SUR,490,S19,8506,Cells and batteries; primary,u,48654.0,89640.0
+X,740,SUR,780,TTO,8506,Cells and batteries; primary,u,17.0,10200.0
+X,740,SUR,0,W00,8507,"Electric accumulators, including separators therefor; whether or not rectangular (including square)",u,37.0,281008.7
+X,740,SUR,528,NLD,8507,"Electric accumulators, including separators therefor; whether or not rectangular (including square)",u,4.0,1500.0
+X,740,SUR,780,TTO,8507,"Electric accumulators, including separators therefor; whether or not rectangular (including square)",u,2.0,26316.0
+X,740,SUR,842,USA,8507,"Electric accumulators, including separators therefor; whether or not rectangular (including square)",u,31.0,253192.7
+X,740,SUR,0,W00,8508,Vacuum cleaners,u,3.0,9819.82
+X,740,SUR,528,NLD,8508,Vacuum cleaners,u,3.0,9819.82
+X,740,SUR,0,W00,8509,"Electro-mechanical domestic appliances; with self-contained electric motor, other than vacuum cleaners of heading 85.08.",N/A,0.0,28051.42
+X,740,SUR,76,BRA,8509,"Electro-mechanical domestic appliances; with self-contained electric motor, other than vacuum cleaners of heading 85.08.",N/A,0.0,25461.0
+X,740,SUR,328,GUY,8509,"Electro-mechanical domestic appliances; with self-contained electric motor, other than vacuum cleaners of heading 85.08.",u,17.0,2590.42
+X,740,SUR,0,W00,8510,"Shavers, hair clippers and hair removing appliances, with self-contained electric motor",kg,500.0,3000.0
+X,740,SUR,76,BRA,8510,"Shavers, hair clippers and hair removing appliances, with self-contained electric motor",kg,500.0,3000.0
+X,740,SUR,0,W00,8511,Ignition or starting equipment; used for spark-ignition or compression-ignition internal combustion engines; generators and cut outs used in conjunction with such engines,u,133.0,46501.7
+X,740,SUR,328,GUY,8511,Ignition or starting equipment; used for spark-ignition or compression-ignition internal combustion engines; generators and cut outs used in conjunction with such engines,u,4.0,3539.42
+X,740,SUR,842,USA,8511,Ignition or starting equipment; used for spark-ignition or compression-ignition internal combustion engines; generators and cut outs used in conjunction with such engines,u,129.0,42962.28
+X,740,SUR,0,W00,8512,"Lighting or visual signalling equipment (excluding articles of heading no. 8539), windscreen wipers, defrosters and demisters; electrical, of a kind used for cycles or motor vehicles",kg,137.0,2066.53
+X,740,SUR,842,USA,8512,"Lighting or visual signalling equipment (excluding articles of heading no. 8539), windscreen wipers, defrosters and demisters; electrical, of a kind used for cycles or motor vehicles",kg,137.0,2066.53
+X,740,SUR,0,W00,8514,Industrial or laboratory electric furnaces and ovens (including those functioning by induction or dielectric loss); other industrial or laboratory equipment for the heat treatment of materials by induction or dielectric loss,N/A,0.0,119619.75
+X,740,SUR,246,FIN,8514,Industrial or laboratory electric furnaces and ovens (including those functioning by induction or dielectric loss); other industrial or laboratory equipment for the heat treatment of materials by induction or dielectric loss,u,1.0,13985.0
+X,740,SUR,780,TTO,8514,Industrial or laboratory electric furnaces and ovens (including those functioning by induction or dielectric loss); other industrial or laboratory equipment for the heat treatment of materials by induction or dielectric loss,N/A,0.0,105634.75
+X,740,SUR,0,W00,8515,"Electric (electrically heated gas) soldering, brazing, welding machines and apparatus, capable or not of cutting, electric machines and apparatus for hot spraying of metals or sintered carbides",u,2.0,7147.5
+X,740,SUR,591,PAN,8515,"Electric (electrically heated gas) soldering, brazing, welding machines and apparatus, capable or not of cutting, electric machines and apparatus for hot spraying of metals or sintered carbides",u,2.0,7147.5
+X,740,SUR,0,W00,8516,"Electric water, space, soil heaters; electro-thermic hair-dressing apparatus; hand dryers, irons; electro-thermic appliances for domestic purposes; electro heating resistors, not of heading no. 8545",u,413.0,25190.15
+X,740,SUR,76,BRA,8516,"Electric water, space, soil heaters; electro-thermic hair-dressing apparatus; hand dryers, irons; electro-thermic appliances for domestic purposes; electro heating resistors, not of heading no. 8545",u,363.0,23370.0
+X,740,SUR,458,MYS,8516,"Electric water, space, soil heaters; electro-thermic hair-dressing apparatus; hand dryers, irons; electro-thermic appliances for domestic purposes; electro heating resistors, not of heading no. 8545",u,50.0,1820.15
+X,740,SUR,0,W00,8517,"Telephone sets, including telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data (including wired/wireless networks), excluding items of 8443, 8525, 8527, or 8528",N/A,0.0,902423.49
+X,740,SUR,76,BRA,8517,"Telephone sets, including telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data (including wired/wireless networks), excluding items of 8443, 8525, 8527, or 8528",N/A,0.0,66906.0
+X,740,SUR,192,CUB,8517,"Telephone sets, including telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data (including wired/wireless networks), excluding items of 8443, 8525, 8527, or 8528",u,26.0,1809.69
+X,740,SUR,251,FRA,8517,"Telephone sets, including telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data (including wired/wireless networks), excluding items of 8443, 8525, 8527, or 8528",N/A,0.0,8825.42
+X,740,SUR,328,GUY,8517,"Telephone sets, including telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data (including wired/wireless networks), excluding items of 8443, 8525, 8527, or 8528",u,8.0,1698.0
+X,740,SUR,344,HKG,8517,"Telephone sets, including telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data (including wired/wireless networks), excluding items of 8443, 8525, 8527, or 8528",kg,16.5,21671.82
+X,740,SUR,376,ISR,8517,"Telephone sets, including telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data (including wired/wireless networks), excluding items of 8443, 8525, 8527, or 8528",u,4.0,1200.0
+X,740,SUR,528,NLD,8517,"Telephone sets, including telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data (including wired/wireless networks), excluding items of 8443, 8525, 8527, or 8528",N/A,0.0,4459.67
+X,740,SUR,780,TTO,8517,"Telephone sets, including telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data (including wired/wireless networks), excluding items of 8443, 8525, 8527, or 8528",kg,69.5,7940.87
+X,740,SUR,842,USA,8517,"Telephone sets, including telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data (including wired/wireless networks), excluding items of 8443, 8525, 8527, or 8528",N/A,0.0,787912.02
+X,740,SUR,0,W00,8518,"Microphones and their stands; loudspeakers, mounted or not in their enclosures; headphones and earphones, combined or not with a microphone, and sets of a microphone and one or more loudspeakers; audio frequency and electric sound amplifiers and sets",u,3407.0,133836.33
+X,740,SUR,76,BRA,8518,"Microphones and their stands; loudspeakers, mounted or not in their enclosures; headphones and earphones, combined or not with a microphone, and sets of a microphone and one or more loudspeakers; audio frequency and electric sound amplifiers and sets",u,3091.0,130655.74
+X,740,SUR,528,NLD,8518,"Microphones and their stands; loudspeakers, mounted or not in their enclosures; headphones and earphones, combined or not with a microphone, and sets of a microphone and one or more loudspeakers; audio frequency and electric sound amplifiers and sets",u,316.0,3180.59
+X,740,SUR,0,W00,8521,Video recording or reproducing apparatus,u,1.0,4636.29
+X,740,SUR,842,USA,8521,Video recording or reproducing apparatus,u,1.0,4636.29
+X,740,SUR,0,W00,8523,"Discs, tapes, solid-state non-volatile storage devices, smart cards and other media for the recording of sound or of other phenomena, whether or not recorded, including matrices and masters for the production of discs, excluding products of Chapter 37",u,59.0,2650.0
+X,740,SUR,842,USA,8523,"Discs, tapes, solid-state non-volatile storage devices, smart cards and other media for the recording of sound or of other phenomena, whether or not recorded, including matrices and masters for the production of discs, excluding products of Chapter 37",u,59.0,2650.0
+X,740,SUR,0,W00,8525,"Transmission apparatus for radio-broadcasting or television, whether or not incorporating reception apparatus or sound recording or reproducing apparatus; television cameras, digital cameras and video camera recorders",u,143.0,48790.26
+X,740,SUR,76,BRA,8525,"Transmission apparatus for radio-broadcasting or television, whether or not incorporating reception apparatus or sound recording or reproducing apparatus; television cameras, digital cameras and video camera recorders",u,70.0,3500.0
+X,740,SUR,842,USA,8525,"Transmission apparatus for radio-broadcasting or television, whether or not incorporating reception apparatus or sound recording or reproducing apparatus; television cameras, digital cameras and video camera recorders",u,73.0,45290.26
+X,740,SUR,0,W00,8526,"Radar apparatus, radio navigational aid apparatus and radio remote control apparatus",u,51.0,68476.68
+X,740,SUR,76,BRA,8526,"Radar apparatus, radio navigational aid apparatus and radio remote control apparatus",u,40.0,2510.0
+X,740,SUR,124,CAN,8526,"Radar apparatus, radio navigational aid apparatus and radio remote control apparatus",u,2.0,30000.0
+X,740,SUR,528,NLD,8526,"Radar apparatus, radio navigational aid apparatus and radio remote control apparatus",u,1.0,4992.84
+X,740,SUR,842,USA,8526,"Radar apparatus, radio navigational aid apparatus and radio remote control apparatus",u,8.0,30973.84
+X,740,SUR,0,W00,8527,"Reception apparatus for radio-broadcasting, whether or not combined, in the same housing, with sound recording or reproducing apparatus or a clock.",u,6.0,3000.0
+X,740,SUR,579,NOR,8527,"Reception apparatus for radio-broadcasting, whether or not combined, in the same housing, with sound recording or reproducing apparatus or a clock.",u,6.0,3000.0
+X,740,SUR,0,W00,8528,"Monitors and projectors, not incorporating television reception apparatus; reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus",u,1328.0,180985.0
+X,740,SUR,76,BRA,8528,"Monitors and projectors, not incorporating television reception apparatus; reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus",u,1126.0,96541.15
+X,740,SUR,328,GUY,8528,"Monitors and projectors, not incorporating television reception apparatus; reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus",u,200.0,2000.0
+X,740,SUR,531,CUW,8528,"Monitors and projectors, not incorporating television reception apparatus; reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus",u,1.0,2000.0
+X,740,SUR,842,USA,8528,"Monitors and projectors, not incorporating television reception apparatus; reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus",u,1.0,80443.85
+X,740,SUR,0,W00,8529,Transmission apparatus; parts suitable for use solely or principally with the apparatus of heading no. 8525 to 8528,kg,70635.0,182590.0
+X,740,SUR,76,BRA,8529,Transmission apparatus; parts suitable for use solely or principally with the apparatus of heading no. 8525 to 8528,kg,70625.0,153590.0
+X,740,SUR,842,USA,8529,Transmission apparatus; parts suitable for use solely or principally with the apparatus of heading no. 8525 to 8528,kg,10.0,29000.0
+X,740,SUR,0,W00,8531,"Signalling apparatus; electric sound or visual (e.g. bells, sirens, indicator panels, burglar or fire alarms), excluding those of heading no. 8512 or 8530",N/A,0.0,6051.24
+X,740,SUR,76,BRA,8531,"Signalling apparatus; electric sound or visual (e.g. bells, sirens, indicator panels, burglar or fire alarms), excluding those of heading no. 8512 or 8530",u,33.0,1485.0
+X,740,SUR,531,CUW,8531,"Signalling apparatus; electric sound or visual (e.g. bells, sirens, indicator panels, burglar or fire alarms), excluding those of heading no. 8512 or 8530",u,3.0,1566.24
+X,740,SUR,826,GBR,8531,"Signalling apparatus; electric sound or visual (e.g. bells, sirens, indicator panels, burglar or fire alarms), excluding those of heading no. 8512 or 8530",kg,5.96,3000.0
+X,740,SUR,0,W00,8534,Circuits; printed,kg,1.0,1442.0
+X,740,SUR,156,CHN,8534,Circuits; printed,kg,1.0,1442.0
+X,740,SUR,0,W00,8535,"Electrical apparatus for switching, protecting electrical circuits, for making connections to or in electrical circuits; for a voltage exceeding 1000 volts",kg,2410.0,121771.88
+X,740,SUR,124,CAN,8535,"Electrical apparatus for switching, protecting electrical circuits, for making connections to or in electrical circuits; for a voltage exceeding 1000 volts",kg,2400.0,120527.04
+X,740,SUR,899,_X ,8535,"Electrical apparatus for switching, protecting electrical circuits, for making connections to or in electrical circuits; for a voltage exceeding 1000 volts",kg,10.0,1244.84
+X,740,SUR,0,W00,8536,"Electrical apparatus for switching, protecting electrical circuits, for making connections to or in electrical circuits, for a voltage not exceeding 1000 volts; connectors for optical fibres, optical fibre bundles or cables",kg,693.97,105517.64
+X,740,SUR,251,FRA,8536,"Electrical apparatus for switching, protecting electrical circuits, for making connections to or in electrical circuits, for a voltage not exceeding 1000 volts; connectors for optical fibres, optical fibre bundles or cables",kg,18.0,27500.0
+X,740,SUR,328,GUY,8536,"Electrical apparatus for switching, protecting electrical circuits, for making connections to or in electrical circuits, for a voltage not exceeding 1000 volts; connectors for optical fibres, optical fibre bundles or cables",kg,25.0,4114.53
+X,740,SUR,528,NLD,8536,"Electrical apparatus for switching, protecting electrical circuits, for making connections to or in electrical circuits, for a voltage not exceeding 1000 volts; connectors for optical fibres, optical fibre bundles or cables",kg,10.0,1649.38
+X,740,SUR,531,CUW,8536,"Electrical apparatus for switching, protecting electrical circuits, for making connections to or in electrical circuits, for a voltage not exceeding 1000 volts; connectors for optical fibres, optical fibre bundles or cables",kg,6.0,2502.95
+X,740,SUR,780,TTO,8536,"Electrical apparatus for switching, protecting electrical circuits, for making connections to or in electrical circuits, for a voltage not exceeding 1000 volts; connectors for optical fibres, optical fibre bundles or cables",kg,68.01,24176.84
+X,740,SUR,842,USA,8536,"Electrical apparatus for switching, protecting electrical circuits, for making connections to or in electrical circuits, for a voltage not exceeding 1000 volts; connectors for optical fibres, optical fibre bundles or cables",kg,566.96,45573.94
+X,740,SUR,0,W00,8537,"Boards, panels, consoles, desks, cabinets, bases with apparatus of heading no. 8535, 8536 for electricity control and distribution, (other than switching apparatus of heading no. 8517)",kg,617.26,160363.08
+X,740,SUR,124,CAN,8537,"Boards, panels, consoles, desks, cabinets, bases with apparatus of heading no. 8535, 8536 for electricity control and distribution, (other than switching apparatus of heading no. 8517)",kg,200.0,20000.0
+X,740,SUR,208,DNK,8537,"Boards, panels, consoles, desks, cabinets, bases with apparatus of heading no. 8535, 8536 for electricity control and distribution, (other than switching apparatus of heading no. 8517)",kg,6.9,10155.08
+X,740,SUR,528,NLD,8537,"Boards, panels, consoles, desks, cabinets, bases with apparatus of heading no. 8535, 8536 for electricity control and distribution, (other than switching apparatus of heading no. 8517)",kg,7.0,7089.83
+X,740,SUR,531,CUW,8537,"Boards, panels, consoles, desks, cabinets, bases with apparatus of heading no. 8535, 8536 for electricity control and distribution, (other than switching apparatus of heading no. 8517)",kg,25.0,1097.82
+X,740,SUR,780,TTO,8537,"Boards, panels, consoles, desks, cabinets, bases with apparatus of heading no. 8535, 8536 for electricity control and distribution, (other than switching apparatus of heading no. 8517)",kg,375.36,116409.93
+X,740,SUR,842,USA,8537,"Boards, panels, consoles, desks, cabinets, bases with apparatus of heading no. 8535, 8536 for electricity control and distribution, (other than switching apparatus of heading no. 8517)",kg,3.0,5610.42
+X,740,SUR,0,W00,8538,"Electrical apparatus; parts suitable for use solely or principally with the apparatus of heading no. 8535, 8536 and 8537",kg,306.8,5149.84
+X,740,SUR,528,NLD,8538,"Electrical apparatus; parts suitable for use solely or principally with the apparatus of heading no. 8535, 8536 and 8537",kg,5.5,1049.84
+X,740,SUR,842,USA,8538,"Electrical apparatus; parts suitable for use solely or principally with the apparatus of heading no. 8535, 8536 and 8537",kg,301.3,4100.0
+X,740,SUR,0,W00,8539,"Lamps; electric filament or discharge lamps, including sealed beam lamp units and ultra-violet or infra-red lamps, arc-lamps",u,20.0,1148.96
+X,740,SUR,251,FRA,8539,"Lamps; electric filament or discharge lamps, including sealed beam lamp units and ultra-violet or infra-red lamps, arc-lamps",u,20.0,1148.96
+X,740,SUR,0,W00,8541,"Diodes, transistors, similar semiconductor devices; including photovoltaic cells assembled or not in modules, panels, light emitting mounted piezo-electric crystals",u,1.0,14064.16
+X,740,SUR,124,CAN,8541,"Diodes, transistors, similar semiconductor devices; including photovoltaic cells assembled or not in modules, panels, light emitting mounted piezo-electric crystals",u,1.0,14064.16
+X,740,SUR,0,W00,8542,Electronic integrated circuits,u,21.0,11983.33
+X,740,SUR,76,BRA,8542,Electronic integrated circuits,u,20.0,1500.0
+X,740,SUR,528,NLD,8542,Electronic integrated circuits,u,1.0,10483.33
+X,740,SUR,0,W00,8543,"Electrical machines and apparatus; having individual functions, not specified or included elsewhere in this chapter",N/A,0.0,87848.42
+X,740,SUR,76,BRA,8543,"Electrical machines and apparatus; having individual functions, not specified or included elsewhere in this chapter",u,329.0,22650.0
+X,740,SUR,203,CZE,8543,"Electrical machines and apparatus; having individual functions, not specified or included elsewhere in this chapter",kg,3.0,2167.75
+X,740,SUR,276,DEU,8543,"Electrical machines and apparatus; having individual functions, not specified or included elsewhere in this chapter",u,1.0,1445.2
+X,740,SUR,528,NLD,8543,"Electrical machines and apparatus; having individual functions, not specified or included elsewhere in this chapter",N/A,0.0,10775.65
+X,740,SUR,842,USA,8543,"Electrical machines and apparatus; having individual functions, not specified or included elsewhere in this chapter",u,1.0,50809.82
+X,740,SUR,0,W00,8544,"Insulated wire, cable and other electric conductors, connector fitted or not; optical fibre cables of individually sheathed fibres, whether or not assembled with electric conductors or fitted with connectors",kg,11806.44,166893.39
+X,740,SUR,76,BRA,8544,"Insulated wire, cable and other electric conductors, connector fitted or not; optical fibre cables of individually sheathed fibres, whether or not assembled with electric conductors or fitted with connectors",kg,8680.0,13020.0
+X,740,SUR,251,FRA,8544,"Insulated wire, cable and other electric conductors, connector fitted or not; optical fibre cables of individually sheathed fibres, whether or not assembled with electric conductors or fitted with connectors",kg,322.0,3330.36
+X,740,SUR,276,DEU,8544,"Insulated wire, cable and other electric conductors, connector fitted or not; optical fibre cables of individually sheathed fibres, whether or not assembled with electric conductors or fitted with connectors",kg,70.0,31071.93
+X,740,SUR,528,NLD,8544,"Insulated wire, cable and other electric conductors, connector fitted or not; optical fibre cables of individually sheathed fibres, whether or not assembled with electric conductors or fitted with connectors",kg,159.97,2794.8
+X,740,SUR,780,TTO,8544,"Insulated wire, cable and other electric conductors, connector fitted or not; optical fibre cables of individually sheathed fibres, whether or not assembled with electric conductors or fitted with connectors",kg,2574.47,116676.3
+X,740,SUR,0,W00,8548,"Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators; electrical parts of machinery or apparatus, n.e.c. or included elsewhere in chapter 85",kg,668162.0,495169.72
+X,740,SUR,56,BEL,8548,"Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators; electrical parts of machinery or apparatus, n.e.c. or included elsewhere in chapter 85",kg,81000.0,61560.0
+X,740,SUR,76,BRA,8548,"Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators; electrical parts of machinery or apparatus, n.e.c. or included elsewhere in chapter 85",kg,35000.0,3150.0
+X,740,SUR,842,USA,8548,"Waste and scrap of primary cells, primary batteries and electric accumulators; spent primary cells, spent primary batteries and spent electric accumulators; electrical parts of machinery or apparatus, n.e.c. or included elsewhere in chapter 85",kg,552162.0,430459.72
+X,740,SUR,0,W00,8701,Tractors; (other than tractors of heading no 8709),u,8.0,145644.29
+X,740,SUR,251,FRA,8701,Tractors; (other than tractors of heading no 8709),u,1.0,2500.0
+X,740,SUR,328,GUY,8701,Tractors; (other than tractors of heading no 8709),u,7.0,143144.29
+X,740,SUR,0,W00,8703,"Motor cars and other motor vehicles; principally designed for the transport of persons (other than those of heading no. 8702), including station wagons and racing cars",u,23.0,374463.42
+X,740,SUR,56,BEL,8703,"Motor cars and other motor vehicles; principally designed for the transport of persons (other than those of heading no. 8702), including station wagons and racing cars",u,1.0,42620.0
+X,740,SUR,251,FRA,8703,"Motor cars and other motor vehicles; principally designed for the transport of persons (other than those of heading no. 8702), including station wagons and racing cars",u,4.0,111229.97
+X,740,SUR,328,GUY,8703,"Motor cars and other motor vehicles; principally designed for the transport of persons (other than those of heading no. 8702), including station wagons and racing cars",u,4.0,22014.24
+X,740,SUR,528,NLD,8703,"Motor cars and other motor vehicles; principally designed for the transport of persons (other than those of heading no. 8702), including station wagons and racing cars",u,7.0,134800.49
+X,740,SUR,531,CUW,8703,"Motor cars and other motor vehicles; principally designed for the transport of persons (other than those of heading no. 8702), including station wagons and racing cars",u,4.0,13798.72
+X,740,SUR,533,ABW,8703,"Motor cars and other motor vehicles; principally designed for the transport of persons (other than those of heading no. 8702), including station wagons and racing cars",u,1.0,20000.0
+X,740,SUR,842,USA,8703,"Motor cars and other motor vehicles; principally designed for the transport of persons (other than those of heading no. 8702), including station wagons and racing cars",u,1.0,22000.0
+X,740,SUR,899,_X ,8703,"Motor cars and other motor vehicles; principally designed for the transport of persons (other than those of heading no. 8702), including station wagons and racing cars",u,1.0,8000.0
+X,740,SUR,0,W00,8704,Vehicles; for the transport of goods,u,32.0,747508.82
+X,740,SUR,44,BHS,8704,Vehicles; for the transport of goods,u,1.0,28080.1
+X,740,SUR,251,FRA,8704,Vehicles; for the transport of goods,u,5.0,107586.65
+X,740,SUR,328,GUY,8704,Vehicles; for the transport of goods,u,26.0,611842.07
+X,740,SUR,0,W00,8707,Bodies; (including cabs) for the motor vehicles of heading no. 8701 to 8705,u,8.0,3322.98
+X,740,SUR,842,USA,8707,Bodies; (including cabs) for the motor vehicles of heading no. 8701 to 8705,u,8.0,3322.98
+X,740,SUR,0,W00,8708,"Motor vehicles; parts and accessories, of heading no. 8701 to 8705",kg,32757.39,930582.31
+X,740,SUR,52,BRB,8708,"Motor vehicles; parts and accessories, of heading no. 8701 to 8705",kg,1539.0,10175.0
+X,740,SUR,246,FIN,8708,"Motor vehicles; parts and accessories, of heading no. 8701 to 8705",kg,200.0,11565.62
+X,740,SUR,251,FRA,8708,"Motor vehicles; parts and accessories, of heading no. 8701 to 8705",kg,660.0,2983.24
+X,740,SUR,276,DEU,8708,"Motor vehicles; parts and accessories, of heading no. 8701 to 8705",kg,1350.0,40843.84
+X,740,SUR,328,GUY,8708,"Motor vehicles; parts and accessories, of heading no. 8701 to 8705",kg,5334.89,132973.73
+X,740,SUR,528,NLD,8708,"Motor vehicles; parts and accessories, of heading no. 8701 to 8705",kg,6634.0,648104.07
+X,740,SUR,566,NGA,8708,"Motor vehicles; parts and accessories, of heading no. 8701 to 8705",kg,16680.0,62137.82
+X,740,SUR,842,USA,8708,"Motor vehicles; parts and accessories, of heading no. 8701 to 8705",kg,359.5,21798.99
+X,740,SUR,0,W00,8709,"Works trucks, self-propelled, (not fitted with lifting or handling equipment), for factories, warehouses etc, for short distance transport of goods, tractors used on railway station platforms; parts thereof",u,2.0,109213.11
+X,740,SUR,251,FRA,8709,"Works trucks, self-propelled, (not fitted with lifting or handling equipment), for factories, warehouses etc, for short distance transport of goods, tractors used on railway station platforms; parts thereof",u,2.0,109213.11
+X,740,SUR,0,W00,8711,"Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, with or without side-cars; side-cars",u,17.0,8356.88
+X,740,SUR,251,FRA,8711,"Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, with or without side-cars; side-cars",u,16.0,5837.64
+X,740,SUR,531,CUW,8711,"Motorcycles (including mopeds) and cycles; fitted with an auxiliary motor, with or without side-cars; side-cars",u,1.0,2519.24
+X,740,SUR,0,W00,8712,"Bicycles and other cycles; including delivery tricycles, not motorised",u,60.0,1100.0
+X,740,SUR,862,VEN,8712,"Bicycles and other cycles; including delivery tricycles, not motorised",u,60.0,1100.0
+X,740,SUR,0,W00,9001,"Optical fibres and optical fibre bundles; optical fibre cables not of heading no. 8544; sheets, plates of polarising material; lenses, prisms, mirrors, of any material; unmounted; not non optical glass",u,509.0,1953.36
+X,740,SUR,328,GUY,9001,"Optical fibres and optical fibre bundles; optical fibre cables not of heading no. 8544; sheets, plates of polarising material; lenses, prisms, mirrors, of any material; unmounted; not non optical glass",u,509.0,1953.36
+X,740,SUR,0,W00,9002,"Lenses, prisms, mirrors and other optical elements, of any material, mounted, being parts or fittings for instruments or apparatus, other than such elements of glass not optically worked",kg,200.0,5000.0
+X,740,SUR,124,CAN,9002,"Lenses, prisms, mirrors and other optical elements, of any material, mounted, being parts or fittings for instruments or apparatus, other than such elements of glass not optically worked",kg,200.0,5000.0
+X,740,SUR,0,W00,9003,"Frames and mountings; for spectacles, goggles or the like, and parts",u,24.0,11530.0
+X,740,SUR,328,GUY,9003,"Frames and mountings; for spectacles, goggles or the like, and parts",u,24.0,11530.0
+X,740,SUR,0,W00,9004,"Spectacles, goggles and the like; corrective, protective or other",u,8734.0,215344.67
+X,740,SUR,76,BRA,9004,"Spectacles, goggles and the like; corrective, protective or other",u,8507.0,201996.66
+X,740,SUR,528,NLD,9004,"Spectacles, goggles and the like; corrective, protective or other",u,227.0,13348.01
+X,740,SUR,0,W00,9005,"Binoculars, monoculars, other optical telescopes, mountings therefor; other astronomical instruments, mountings therefor, but not including instruments for radio-astronomy",kg,120.0,1200.0
+X,740,SUR,76,BRA,9005,"Binoculars, monoculars, other optical telescopes, mountings therefor; other astronomical instruments, mountings therefor, but not including instruments for radio-astronomy",kg,120.0,1200.0
+X,740,SUR,0,W00,9006,"Cameras, photographic (excluding cinematographic); photographic flashlight apparatus and flashbulbs other than discharge lamps of heading no. 8539",N/A,0.0,46535.0
+X,740,SUR,76,BRA,9006,"Cameras, photographic (excluding cinematographic); photographic flashlight apparatus and flashbulbs other than discharge lamps of heading no. 8539",u,29.0,1305.0
+X,740,SUR,528,NLD,9006,"Cameras, photographic (excluding cinematographic); photographic flashlight apparatus and flashbulbs other than discharge lamps of heading no. 8539",u,1.0,5180.0
+X,740,SUR,842,USA,9006,"Cameras, photographic (excluding cinematographic); photographic flashlight apparatus and flashbulbs other than discharge lamps of heading no. 8539",kg,198.0,40050.0
+X,740,SUR,0,W00,9014,Navigational instruments and appliances; direction finding compasses,N/A,0.0,437275.03
+X,740,SUR,124,CAN,9014,Navigational instruments and appliances; direction finding compasses,kg,59.0,99008.0
+X,740,SUR,842,USA,9014,Navigational instruments and appliances; direction finding compasses,N/A,0.0,338267.03
+X,740,SUR,0,W00,9015,"Surveying (including photogrammetrical surveying), hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances, excluding compasses, rangefinders",N/A,0.0,844539.51
+X,740,SUR,124,CAN,9015,"Surveying (including photogrammetrical surveying), hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances, excluding compasses, rangefinders",u,54.0,27448.93
+X,740,SUR,251,FRA,9015,"Surveying (including photogrammetrical surveying), hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances, excluding compasses, rangefinders",u,3.0,3890.0
+X,740,SUR,328,GUY,9015,"Surveying (including photogrammetrical surveying), hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances, excluding compasses, rangefinders",u,12.0,2362.83
+X,740,SUR,579,NOR,9015,"Surveying (including photogrammetrical surveying), hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances, excluding compasses, rangefinders",N/A,0.0,31659.5
+X,740,SUR,702,SGP,9015,"Surveying (including photogrammetrical surveying), hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances, excluding compasses, rangefinders",N/A,0.0,22841.0
+X,740,SUR,780,TTO,9015,"Surveying (including photogrammetrical surveying), hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances, excluding compasses, rangefinders",kg,6.99,368892.24
+X,740,SUR,826,GBR,9015,"Surveying (including photogrammetrical surveying), hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances, excluding compasses, rangefinders",N/A,0.0,200445.01
+X,740,SUR,842,USA,9015,"Surveying (including photogrammetrical surveying), hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances, excluding compasses, rangefinders",N/A,0.0,187000.0
+X,740,SUR,0,W00,9018,"Instruments and appliances used in medical, surgical, dental or veterinary sciences, including scintigraphic apparatus, other electro-medical apparatus and sight testing instruments",N/A,0.0,133061.05
+X,740,SUR,76,BRA,9018,"Instruments and appliances used in medical, surgical, dental or veterinary sciences, including scintigraphic apparatus, other electro-medical apparatus and sight testing instruments",u,1026.0,37350.0
+X,740,SUR,328,GUY,9018,"Instruments and appliances used in medical, surgical, dental or veterinary sciences, including scintigraphic apparatus, other electro-medical apparatus and sight testing instruments",u,2.0,1100.0
+X,740,SUR,528,NLD,9018,"Instruments and appliances used in medical, surgical, dental or veterinary sciences, including scintigraphic apparatus, other electro-medical apparatus and sight testing instruments",N/A,0.0,51687.98
+X,740,SUR,842,USA,9018,"Instruments and appliances used in medical, surgical, dental or veterinary sciences, including scintigraphic apparatus, other electro-medical apparatus and sight testing instruments",N/A,0.0,42923.07
+X,740,SUR,0,W00,9019,"Mechano-therapy, massage appliances; psychological aptitude testing apparatus; ozone, oxygen, aerosol therapy, artificial respiration or other therapeutic respiration apparatus",kg,20.6,10611.51
+X,740,SUR,842,USA,9019,"Mechano-therapy, massage appliances; psychological aptitude testing apparatus; ozone, oxygen, aerosol therapy, artificial respiration or other therapeutic respiration apparatus",kg,20.6,10611.51
+X,740,SUR,0,W00,9021,"Orthopaedic appliances; including crutches, surgical belts and trusses; splints and other fracture appliances; artificial parts of the body; hearing aids and other which are worn, carried or implanted in the body to compensate for a defect or disability",kg,17.0,7204.48
+X,740,SUR,528,NLD,9021,"Orthopaedic appliances; including crutches, surgical belts and trusses; splints and other fracture appliances; artificial parts of the body; hearing aids and other which are worn, carried or implanted in the body to compensate for a defect or disability",kg,7.0,1866.72
+X,740,SUR,842,USA,9021,"Orthopaedic appliances; including crutches, surgical belts and trusses; splints and other fracture appliances; artificial parts of the body; hearing aids and other which are worn, carried or implanted in the body to compensate for a defect or disability",kg,10.0,5337.76
+X,740,SUR,0,W00,9022,"X-ray, alpha, beta, gamma radiation apparatus; x-ray tubes, x-ray generators, high tension generators, control panels and desks, screens, examination or treatment tables, chairs and the like",N/A,0.0,307613.62
+X,740,SUR,528,NLD,9022,"X-ray, alpha, beta, gamma radiation apparatus; x-ray tubes, x-ray generators, high tension generators, control panels and desks, screens, examination or treatment tables, chairs and the like",kg,445.8,301108.29
+X,740,SUR,780,TTO,9022,"X-ray, alpha, beta, gamma radiation apparatus; x-ray tubes, x-ray generators, high tension generators, control panels and desks, screens, examination or treatment tables, chairs and the like",u,1.0,6505.33
+X,740,SUR,0,W00,9023,"Instruments, apparatus and models, designed for demonstrational purposes (in education or exhibitions), unsuitable for other uses",kg,500.0,21920.2
+X,740,SUR,784,ARE,9023,"Instruments, apparatus and models, designed for demonstrational purposes (in education or exhibitions), unsuitable for other uses",kg,500.0,21920.2
+X,740,SUR,0,W00,9024,"Machines and appliances for testing the hardness, strength, compressibility, elasticity of other mechanical properties of materials (e.g. metals, wood, textiles, paper, plastics)",u,1.0,20884.0
+X,740,SUR,842,USA,9024,"Machines and appliances for testing the hardness, strength, compressibility, elasticity of other mechanical properties of materials (e.g. metals, wood, textiles, paper, plastics)",u,1.0,20884.0
+X,740,SUR,0,W00,9026,"Instruments, apparatus for measuring or checking the flow, level, pressure of liquids, gases (e.g. flow meters, heat meters etc), not instruments and apparatus of heading no. 9014, 9015, 9028 or 9032",N/A,0.0,110031.13
+X,740,SUR,276,DEU,9026,"Instruments, apparatus for measuring or checking the flow, level, pressure of liquids, gases (e.g. flow meters, heat meters etc), not instruments and apparatus of heading no. 9014, 9015, 9028 or 9032",u,3.0,3251.71
+X,740,SUR,528,NLD,9026,"Instruments, apparatus for measuring or checking the flow, level, pressure of liquids, gases (e.g. flow meters, heat meters etc), not instruments and apparatus of heading no. 9014, 9015, 9028 or 9032",u,6.0,17719.43
+X,740,SUR,780,TTO,9026,"Instruments, apparatus for measuring or checking the flow, level, pressure of liquids, gases (e.g. flow meters, heat meters etc), not instruments and apparatus of heading no. 9014, 9015, 9028 or 9032",u,4.0,50231.96
+X,740,SUR,842,USA,9026,"Instruments, apparatus for measuring or checking the flow, level, pressure of liquids, gases (e.g. flow meters, heat meters etc), not instruments and apparatus of heading no. 9014, 9015, 9028 or 9032",N/A,0.0,38828.03
+X,740,SUR,0,W00,9027,"Instruments and apparatus; for physical or chemical analysis (e.g. polarimeters, spectrometers), for measuring or checking viscosity, porosity, etc, for measuring quantities of heat, sound or light",N/A,0.0,352874.73
+X,740,SUR,36,AUS,9027,"Instruments and apparatus; for physical or chemical analysis (e.g. polarimeters, spectrometers), for measuring or checking viscosity, porosity, etc, for measuring quantities of heat, sound or light",u,1.0,85900.0
+X,740,SUR,276,DEU,9027,"Instruments and apparatus; for physical or chemical analysis (e.g. polarimeters, spectrometers), for measuring or checking viscosity, porosity, etc, for measuring quantities of heat, sound or light",u,3.0,73864.94
+X,740,SUR,328,GUY,9027,"Instruments and apparatus; for physical or chemical analysis (e.g. polarimeters, spectrometers), for measuring or checking viscosity, porosity, etc, for measuring quantities of heat, sound or light",kg,39.0,4162.25
+X,740,SUR,484,MEX,9027,"Instruments and apparatus; for physical or chemical analysis (e.g. polarimeters, spectrometers), for measuring or checking viscosity, porosity, etc, for measuring quantities of heat, sound or light",u,3.0,69494.04
+X,740,SUR,528,NLD,9027,"Instruments and apparatus; for physical or chemical analysis (e.g. polarimeters, spectrometers), for measuring or checking viscosity, porosity, etc, for measuring quantities of heat, sound or light",u,5.0,34967.51
+X,740,SUR,591,PAN,9027,"Instruments and apparatus; for physical or chemical analysis (e.g. polarimeters, spectrometers), for measuring or checking viscosity, porosity, etc, for measuring quantities of heat, sound or light",u,1.0,4311.0
+X,740,SUR,780,TTO,9027,"Instruments and apparatus; for physical or chemical analysis (e.g. polarimeters, spectrometers), for measuring or checking viscosity, porosity, etc, for measuring quantities of heat, sound or light",u,10.0,53212.0
+X,740,SUR,842,USA,9027,"Instruments and apparatus; for physical or chemical analysis (e.g. polarimeters, spectrometers), for measuring or checking viscosity, porosity, etc, for measuring quantities of heat, sound or light",u,17.0,26962.99
+X,740,SUR,0,W00,9028,"Gas, liquid or electricity supply or production meters, including calibrating meters therefor",u,14.0,30460.34
+X,740,SUR,191,HRV,9028,"Gas, liquid or electricity supply or production meters, including calibrating meters therefor",u,14.0,30460.34
+X,740,SUR,0,W00,9029,"Revolution counter, production counters, taximeters, mileometers, pedometers and the like, speed indicators and tachometers, other than those of heading no. 9015, stroboscopes",u,3.0,2907.11
+X,740,SUR,842,USA,9029,"Revolution counter, production counters, taximeters, mileometers, pedometers and the like, speed indicators and tachometers, other than those of heading no. 9015, stroboscopes",u,3.0,2907.11
+X,740,SUR,0,W00,9030,"Instruments, apparatus for measuring, checking electrical quantities not meters of heading no. 9028; instruments, apparatus for measuring or detecting alpha, beta, gamma, x-ray, cosmic and other radiations",N/A,0.0,80527.43
+X,740,SUR,156,CHN,9030,"Instruments, apparatus for measuring, checking electrical quantities not meters of heading no. 9028; instruments, apparatus for measuring or detecting alpha, beta, gamma, x-ray, cosmic and other radiations",u,1.0,12000.0
+X,740,SUR,328,GUY,9030,"Instruments, apparatus for measuring, checking electrical quantities not meters of heading no. 9028; instruments, apparatus for measuring or detecting alpha, beta, gamma, x-ray, cosmic and other radiations",u,2.0,1575.0
+X,740,SUR,528,NLD,9030,"Instruments, apparatus for measuring, checking electrical quantities not meters of heading no. 9028; instruments, apparatus for measuring or detecting alpha, beta, gamma, x-ray, cosmic and other radiations",u,6.0,21013.62
+X,740,SUR,780,TTO,9030,"Instruments, apparatus for measuring, checking electrical quantities not meters of heading no. 9028; instruments, apparatus for measuring or detecting alpha, beta, gamma, x-ray, cosmic and other radiations",N/A,0.0,9022.0
+X,740,SUR,842,USA,9030,"Instruments, apparatus for measuring, checking electrical quantities not meters of heading no. 9028; instruments, apparatus for measuring or detecting alpha, beta, gamma, x-ray, cosmic and other radiations",u,96.0,14715.0
+X,740,SUR,899,_X ,9030,"Instruments, apparatus for measuring, checking electrical quantities not meters of heading no. 9028; instruments, apparatus for measuring or detecting alpha, beta, gamma, x-ray, cosmic and other radiations",u,3.0,22201.81
+X,740,SUR,0,W00,9031,"Measuring or checking instruments, appliances and machines, n.e.c. or included in this chapter; profile projectors",N/A,0.0,445331.01
+X,740,SUR,36,AUS,9031,"Measuring or checking instruments, appliances and machines, n.e.c. or included in this chapter; profile projectors",u,2.0,1768.44
+X,740,SUR,124,CAN,9031,"Measuring or checking instruments, appliances and machines, n.e.c. or included in this chapter; profile projectors",u,2.0,80000.0
+X,740,SUR,156,CHN,9031,"Measuring or checking instruments, appliances and machines, n.e.c. or included in this chapter; profile projectors",u,2.0,1042.0
+X,740,SUR,170,COL,9031,"Measuring or checking instruments, appliances and machines, n.e.c. or included in this chapter; profile projectors",u,1.0,1800.0
+X,740,SUR,246,FIN,9031,"Measuring or checking instruments, appliances and machines, n.e.c. or included in this chapter; profile projectors",N/A,0.0,22360.0
+X,740,SUR,251,FRA,9031,"Measuring or checking instruments, appliances and machines, n.e.c. or included in this chapter; profile projectors",u,34.0,1942.0
+X,740,SUR,328,GUY,9031,"Measuring or checking instruments, appliances and machines, n.e.c. or included in this chapter; profile projectors",u,2.0,3940.16
+X,740,SUR,528,NLD,9031,"Measuring or checking instruments, appliances and machines, n.e.c. or included in this chapter; profile projectors",N/A,0.0,38548.1
+X,740,SUR,579,NOR,9031,"Measuring or checking instruments, appliances and machines, n.e.c. or included in this chapter; profile projectors",u,1.0,2423.13
+X,740,SUR,842,USA,9031,"Measuring or checking instruments, appliances and machines, n.e.c. or included in this chapter; profile projectors",N/A,0.0,291507.18
+X,740,SUR,0,W00,9032,Regulating or controlling instruments and apparatus; automatic type,N/A,0.0,8991.3
+X,740,SUR,276,DEU,9032,Regulating or controlling instruments and apparatus; automatic type,u,3.0,5340.0
+X,740,SUR,328,GUY,9032,Regulating or controlling instruments and apparatus; automatic type,kg,1.0,1228.18
+X,740,SUR,579,NOR,9032,Regulating or controlling instruments and apparatus; automatic type,u,1.0,2423.12
+X,740,SUR,0,W00,9102,"Wrist-watches, pocket-watches, stop-watches and other watches, other than those of heading no. 9101",u,2053.2,357562.97
+X,740,SUR,76,BRA,9102,"Wrist-watches, pocket-watches, stop-watches and other watches, other than those of heading no. 9101",u,941.0,49193.03
+X,740,SUR,528,NLD,9102,"Wrist-watches, pocket-watches, stop-watches and other watches, other than those of heading no. 9101",u,335.2,136006.94
+X,740,SUR,757,CHE,9102,"Wrist-watches, pocket-watches, stop-watches and other watches, other than those of heading no. 9101",u,21.0,171355.0
+X,740,SUR,780,TTO,9102,"Wrist-watches, pocket-watches, stop-watches and other watches, other than those of heading no. 9101",u,756.0,1008.0
+X,740,SUR,0,W00,9105,"Clocks, other, n.e.c.",u,301.0,3099.1
+X,740,SUR,328,GUY,9105,"Clocks, other, n.e.c.",u,300.0,1800.0
+X,740,SUR,842,USA,9105,"Clocks, other, n.e.c.",u,1.0,1299.1
+X,740,SUR,0,W00,9503,"Tricycles, scooters, pedal cars and similar wheeled toys; dolls' carriages; dolls; other toys; reduced-size (scale) models and similar recreational models, working or not; puzzles of all kinds",kg,63526.21,77656.67
+X,740,SUR,76,BRA,9503,"Tricycles, scooters, pedal cars and similar wheeled toys; dolls' carriages; dolls; other toys; reduced-size (scale) models and similar recreational models, working or not; puzzles of all kinds",kg,62180.0,49839.65
+X,740,SUR,328,GUY,9503,"Tricycles, scooters, pedal cars and similar wheeled toys; dolls' carriages; dolls; other toys; reduced-size (scale) models and similar recreational models, working or not; puzzles of all kinds",kg,875.36,15877.91
+X,740,SUR,528,NLD,9503,"Tricycles, scooters, pedal cars and similar wheeled toys; dolls' carriages; dolls; other toys; reduced-size (scale) models and similar recreational models, working or not; puzzles of all kinds",kg,470.85,11939.11
+X,740,SUR,0,W00,9504,"Games; funfair, table or parlour, articles thereof including pintables billiards, special tables for casino games and automatic bowling alley equipment",N/A,0.0,321904.19
+X,740,SUR,76,BRA,9504,"Games; funfair, table or parlour, articles thereof including pintables billiards, special tables for casino games and automatic bowling alley equipment",u,496.0,9219.0
+X,740,SUR,203,CZE,9504,"Games; funfair, table or parlour, articles thereof including pintables billiards, special tables for casino games and automatic bowling alley equipment",u,3.0,1353.65
+X,740,SUR,214,DOM,9504,"Games; funfair, table or parlour, articles thereof including pintables billiards, special tables for casino games and automatic bowling alley equipment",U (jeu/pack),1041.9,4032.0
+X,740,SUR,328,GUY,9504,"Games; funfair, table or parlour, articles thereof including pintables billiards, special tables for casino games and automatic bowling alley equipment",u,6878.0,17319.54
+X,740,SUR,842,USA,9504,"Games; funfair, table or parlour, articles thereof including pintables billiards, special tables for casino games and automatic bowling alley equipment",u,72.0,289980.0
+X,740,SUR,0,W00,9506,"Gymnastics, athletics, other sports (including table tennis) or outdoor games equipment, n.e.c. in this chapter, swimming pools and paddling pools",N/A,0.0,4084.68
+X,740,SUR,380,ITA,9506,"Gymnastics, athletics, other sports (including table tennis) or outdoor games equipment, n.e.c. in this chapter, swimming pools and paddling pools",kg,1480.0,1635.0
+X,740,SUR,531,CUW,9506,"Gymnastics, athletics, other sports (including table tennis) or outdoor games equipment, n.e.c. in this chapter, swimming pools and paddling pools",N/A,0.0,2449.68
